@@ -23,23 +23,27 @@
   </head>
 
   <style>
-  a {
+  a:link {
   color:#ffeb9b;
   font-weight:400;
   text-decoration:none;
-
-  &:hover {
-    color: ##f0e7d5;
-  }
 }
-  
+
+  a:hover {
+    color: #f0e7d5;
+  }
+
+  li ul, li ol{
+  margin: 0px;
+}
+
   hr#navi{
     height: 8px;
     background-image: repeating-linear-gradient(45deg, #ccc 0, #ccc 1px, transparent 0, transparent 50%), repeating-linear-gradient(135deg, #ccc 0, #ccc 1px, transparent 0, transparent 50%);
     background-size: 8px 8px;
   }
   .container{
-    width: 500px;
+    width: 600px;
     display: block;
     margin: 0 auto;
     text-align: center;
@@ -83,7 +87,11 @@
           <li><a href="/index.html">トップページ</a></li>
           <li><a href="cv.html">略歴と業績</a></li>
           <li><a href="class.html">教育関連の仕事</a></li>
-          <li>勉強や趣味のメモ</li>
+          <li>勉強や趣味のメモ
+          <ul>
+            <li>あああ</li>
+          </ul>
+          </li>
           <li>資料棚</li>
         </ul>
 
