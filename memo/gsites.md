@@ -4,12 +4,14 @@ title: Google Sitesからお引越し
 ---
 
 <style>
-img{
+.thispage img{
 	display: block;
 	width: 350px;
   margin: auto;
 }
 </style>
+
+<div class="thispage">
 
 # Google Sitesからお引越し
 
@@ -17,7 +19,7 @@ Google Sitesで作っていたウェブサイトをこちらに移行するに�
 
 ## HTMLファイルをMDファイルに変換
 
-[Turndown](https://github.com/domchristie/turndown)をはじめいくつか手段があると思いますが、サイトをブラウズしながら必要なページを見繕って随時ぽちぽち変換できるとラクそうなので、Firefoxに拡張機能[MarkDownload](https://github.com/deathau/markdownload)を入れてみました。
+[Turndown](https://github.com/domchristie/turndown){:target="_blank"}をはじめいくつか手段があると思いますが、サイトをブラウズしながら必要なページを見繕って随時ぽちぽち変換できるとラクそうなので、Firefoxに拡張機能[MarkDownload](https://github.com/deathau/markdownload){:target="_blank"}を入れてみました。
 
 ## リンクの貼り替え
 
@@ -35,6 +37,8 @@ http(.+)google.com/url\?q=(.+)&sa(.+?)\)
 
 スラッシュとかのエンコードはよしなにアレして、改行も`^\n`で検索して消してやればきれいに整います。
 
+あと、これも仕様でリンクのtarget属性がデフォルトのままなので、別タブにしておきました。
+
 ## ついでに、画像にまつわるエトセトラ
 
 節タイトルでピンときたあなたは同世代。
@@ -45,10 +49,12 @@ http(.+)google.com/url\?q=(.+)&sa(.+?)\)
 
 ```html
 <style>
-img{
+.thispage img{
 	display: block;
 	width: 350px;
 	margin: auto;
 }
 </style>
 ```
+
+</div>
