@@ -35,23 +35,6 @@
   li ul, li ol{
   margin: 0px;
 }
-
-  hr#navi{
-    height: 8px;
-    background-image: repeating-linear-gradient(45deg, #ccc 0, #ccc 1px, transparent 0, transparent 50%), repeating-linear-gradient(135deg, #ccc 0, #ccc 1px, transparent 0, transparent 50%);
-    background-size: 8px 8px;
-  }
-  .container{
-    width: 600px;
-    display: block;
-    margin: 0 auto;
-    text-align: center;
-  }
-  .container img{
-    height: 160px;
-    margin: 5px;
-    }
-
   </style>
 
   <body>
@@ -78,6 +61,24 @@
         </div>
 
         {{ content }}
+
+        <style>
+        hr#navi{
+          height: 8px;
+          background-image: repeating-linear-gradient(45deg, #ccc 0, #ccc 1px, transparent 0, transparent 50%), repeating-linear-gradient(135deg, #ccc 0, #ccc 1px, transparent 0, transparent 50%);
+          background-size: 8px 8px;
+        }
+        .container{
+          width: 600px;
+          display: block;
+          margin: 0 auto;
+          text-align: center;
+        }
+        .container img{
+          height: 160px;
+          margin: 5px;
+          }
+        </style>
 
         <hr id="navi">
 

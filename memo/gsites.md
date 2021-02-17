@@ -4,14 +4,12 @@ title: Google Sitesからお引越し
 ---
 
 <style>
-.thispage img{
+img{
 	display: block;
 	width: 350px;
   margin: auto;
 }
 </style>
-
-<div class="thispage">
 
 # Google Sitesからお引越し
 
@@ -45,16 +43,16 @@ http(.+)google.com/url\?q=(.+)&sa(.+?)\)
 
 上の画像は手抜きのスクショなので画質が悪く、ブラウザしだいで拡大表示されるとちょっと困ります。そこで、画像のサイズを指定する方法を少しぐぐってみると、`<img>`タグを使うしかない、という趣旨の記事をいくつか見かけました。
 
-……が、1つの文書内で決まったサイズで揃えられればよいのであれば、ファイルの冒頭とかに`<style>`を置いておくほうが速いですね。Rmarkdownで最初のチャンクに`opts_chunk$set`を書いて設定しておくのと似たイメージ。
+…が、1つの文書内で決まったサイズで揃えられればよいのであれば、ファイルの冒頭とかに`<style>`を置いておくほうが速いですね。Rmarkdownで最初のチャンクに`opts_chunk$set`を書いて設定しておくのと似たイメージ。
+
+……と思ってclassのスタイルを定義してみたのだけれど、文書全体を`<div>`で囲んでしまうとその中身もHTMLで書かないといけなくなるのですね。あまりいろいろやると、テンプレートのスタイルを上書きしてしまう事案が発生しそうですが、とりあえず。
 
 ```html
 <style>
-.thispage img{
+img{
 	display: block;
 	width: 350px;
 	margin: auto;
 }
 </style>
 ```
-
-</div>
