@@ -19,6 +19,7 @@ title: 整理棚
 -   安部由起子, 2011,「[男女雇用機会均等法の長期的効果](http://ci.nii.ac.jp/naid/40019007430){:target="_blank"}」『日本労働研究雑誌』(615): 12-24.
 -   Abrizah, A. and Mike Thelwall, 2014, "[Can the Impact of Non-Western Academic Books be Measured? An Investigation of Google Books and Google Scholar for Malaysia](http://onlinelibrary.wiley.com/wol1/doi/10.1002/asi.23145/abstract){:target="_blank"}," _Journal of the Association for Information Science and Technology_, 65(12): 2498–2508.
 -   Abrutyn, Seth, and Anna S. Mueller, 2014, "[The Socioemotional Foundations of Suicide: A Microsociological View of Durkheim's Suicide](https://doi.org/10.1177/0735275114558633){:target="_blank"}," _Sociological Theory_, 32(4): 327-351.
+- Achterberg, Peter, Willem de Koster, and Jeroen van der Waal, 2017, "[A Science Confidence Gap: Education, Trust in Scientific Methods, and Trust in Scientific Institutions in the United States, 2014](https://doi.org/10.1177%2F0963662515617367){:target="_blank"}," _Public Understanding of Science_, 26(6): 704-720.
 -   Acker, Joan, 1973, "[Women and Social Stratification: A Case of Intellectual Sexism](https://doi.org/10.1086/225411){:target="_blank"}," _American Journal of Sociology_, 78(4): 936-945.
 -   足立明, 2002,「[開発の記憶：序にかえて](https://doi.org/10.14890/minkennewseries.67.4_412){:target="_blank"}」『民族學研究』67(4): 412-423.
 -   阿形健司編, 2008,『働き方とキャリア形成〔2005年SSM調査シリーズ4〕』2005年SSM調査研究会.
