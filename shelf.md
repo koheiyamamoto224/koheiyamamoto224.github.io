@@ -15,37 +15,37 @@ title: 整理棚
 
 ### A
 
--   Abbott, Andrew, 1991, "[History and Sociology: The Lost Synthesis](https://doi.org/10.1017/S014555320002109X)," _Social Science History_, 15(2){:target="_blank"}: 201-238.
--   安部由起子, 2011,「[男女雇用機会均等法の長期的効果](http://ci.nii.ac.jp/naid/40019007430)」『日本労働研究雑誌』(615){:target="_blank"}: 12-24.
--   Abrizah, A. and Mike Thelwall, 2014, "[Can the Impact of Non-Western Academic Books be Measured? An Investigation of Google Books and Google Scholar for Malaysia](http://onlinelibrary.wiley.com/wol1/doi/10.1002/asi.23145/abstract)," _Journal of the Association for Information Science and Technology_, 65(12){:target="_blank"}: 2498–2508.
--   Abrutyn, Seth, and Anna S. Mueller, 2014, "[The Socioemotional Foundations of Suicide: A Microsociological View of Durkheim's Suicide](https://doi.org/10.1177/0735275114558633)," _Sociological Theory_, 32(4){:target="_blank"}: 327-351.
--   Acker, Joan, 1973, "[Women and Social Stratification: A Case of Intellectual Sexism](https://doi.org/10.1086/225411)," _American Journal of Sociology_, 78(4){:target="_blank"}: 936-945.
--   足立明, 2002,「[開発の記憶：序にかえて](https://doi.org/10.14890/minkennewseries.67.4_412)」『民族學研究』67(4){:target="_blank"}: 412-423.
+-   Abbott, Andrew, 1991, "[History and Sociology: The Lost Synthesis](https://doi.org/10.1017/S014555320002109X){:target="_blank"}," _Social Science History_, 15(2): 201-238.
+-   安部由起子, 2011,「[男女雇用機会均等法の長期的効果](http://ci.nii.ac.jp/naid/40019007430){:target="_blank"}」『日本労働研究雑誌』(615): 12-24.
+-   Abrizah, A. and Mike Thelwall, 2014, "[Can the Impact of Non-Western Academic Books be Measured? An Investigation of Google Books and Google Scholar for Malaysia](http://onlinelibrary.wiley.com/wol1/doi/10.1002/asi.23145/abstract){:target="_blank"}," _Journal of the Association for Information Science and Technology_, 65(12): 2498–2508.
+-   Abrutyn, Seth, and Anna S. Mueller, 2014, "[The Socioemotional Foundations of Suicide: A Microsociological View of Durkheim's Suicide](https://doi.org/10.1177/0735275114558633){:target="_blank"}," _Sociological Theory_, 32(4): 327-351.
+-   Acker, Joan, 1973, "[Women and Social Stratification: A Case of Intellectual Sexism](https://doi.org/10.1086/225411){:target="_blank"}," _American Journal of Sociology_, 78(4): 936-945.
+-   足立明, 2002,「[開発の記憶：序にかえて](https://doi.org/10.14890/minkennewseries.67.4_412){:target="_blank"}」『民族學研究』67(4): 412-423.
 -   阿形健司編, 2008,『働き方とキャリア形成〔2005年SSM調査シリーズ4〕』2005年SSM調査研究会.
    -   神林博史「転職・離職理由の時代的変化：高度経済成長期から2005年までの素描」pp. 67-84.
--   阿形健司, 2010,「[職業資格の効用をどう捉えるか](https://ci.nii.ac.jp/naid/40016947108/)」『日本労働研究雑誌』(594){:target="_blank"}: 20-27.
+-   阿形健司, 2010,「[職業資格の効用をどう捉えるか](https://ci.nii.ac.jp/naid/40016947108/){:target="_blank"}」『日本労働研究雑誌』(594): 20-27.
 -   阿形健司, 2011,「従業上の地位の変化と職業資格との関連：JGSS-2009ライフコース調査による分析」『[日本版総合的社会調査共同研究拠点研究論文集](http://jgss.daishodai.ac.jp/research/res_top.html){:target="_blank"}』11: 71-78.
--   相澤真一・児玉英靖・香川めい, 2009,「[戦後日本の教育拡大の地域的布置：1960年代における都道府県間の私立高校の役割の差異に着目して](https://ci.nii.ac.jp/naid/110007598049)」『アジア太平洋研究』(34){:target="_blank"}: 57-78.
--   相澤真一・森田次朗, 2016,「[社会調査データによる日本の社会的分断線の構成要素に関する探索的検討](https://ci.nii.ac.jp/naid/40020988287)」『中京大学現代社会学部紀要』10(1){:target="_blank"}: 169-188.
--   赤枝尚樹, 2012,「[都市における非通念性の複合的生成過程：下位文化理論とコミュニティ解放論の観点から](https://doi.org/10.14959/soshioroji.56.3_69)」『ソシオロジ』56(3){:target="_blank"}: 69-85.
--   赤川学, 2006,「[日本の身下相談・序説：近代日本における『性』の変容と隠蔽](http://hdl.handle.net/2261/15473)」『社会科学研究』57(3-4){:target="_blank"}: 81-95.
--   赤松利恵・松丸礼, 2010,「[生活習慣病のリスク者における『食に関する不合理な信念』尺度（Irrational Eating Beliefs Scale-IEBS-）の信頼性と妥当性の検討](https://doi.org/10.11260/kenkokyoiku.18.149)」『日本健康教育学会誌』18(2){:target="_blank"}: 149-160.
--   赤澤淳子, 2015,「[親密な二者関係のダークサイドとしてのデートDV](https://doi.org/10.11201/jjdp.26.288)」『発達心理学研究』26(4){:target="_blank"}: 288-299.
--   秋保亮太・縄田健悟・中里陽子・菊地梓・長池和代・山口裕幸, 2016,「[メンタルモデルを共有しているチームは対話せずとも成果を挙げる：共有メンタルモデルとチーム・ダイアログがチーム・パフォーマンスへ及ぼす効果](https://doi.org/10.2130/jjesp.1503)」『実験社会心理学研究』55(2){:target="_blank"}: 101-109.
--   秋元ひろと, 2011,「[ヒュームの自然主義](https://doi.org/10.11439/philosophy.2011.73)」『哲学』(62){:target="_blank"}: 73-86.
--   Allen, Garland E., 1983, "[T. H. Morgan and the Influence of Mechanistic Materialism on the Development of the Gene Concept 1910-1940](https://doi.org/10.1093/icb/23.4.829)," _American Zoologist_, 23(4){:target="_blank"}: 829-843.
--   Allum, Nick, 2011, "[What Makes Some People Think Astrology Is Scientific?](https://doi.org/10.1177/1075547010389819)" _Science Communication_, 33(3){:target="_blank"}: 341-366.
+-   相澤真一・児玉英靖・香川めい, 2009,「[戦後日本の教育拡大の地域的布置：1960年代における都道府県間の私立高校の役割の差異に着目して](https://ci.nii.ac.jp/naid/110007598049){:target="_blank"}」『アジア太平洋研究』(34): 57-78.
+-   相澤真一・森田次朗, 2016,「[社会調査データによる日本の社会的分断線の構成要素に関する探索的検討](https://ci.nii.ac.jp/naid/40020988287){:target="_blank"}」『中京大学現代社会学部紀要』10(1): 169-188.
+-   赤枝尚樹, 2012,「[都市における非通念性の複合的生成過程：下位文化理論とコミュニティ解放論の観点から](https://doi.org/10.14959/soshioroji.56.3_69){:target="_blank"}」『ソシオロジ』56(3): 69-85.
+-   赤川学, 2006,「[日本の身下相談・序説：近代日本における『性』の変容と隠蔽](http://hdl.handle.net/2261/15473){:target="_blank"}」『社会科学研究』57(3-4): 81-95.
+-   赤松利恵・松丸礼, 2010,「[生活習慣病のリスク者における『食に関する不合理な信念』尺度（Irrational Eating Beliefs Scale-IEBS-）の信頼性と妥当性の検討](https://doi.org/10.11260/kenkokyoiku.18.149){:target="_blank"}」『日本健康教育学会誌』18(2): 149-160.
+-   赤澤淳子, 2015,「[親密な二者関係のダークサイドとしてのデートDV](https://doi.org/10.11201/jjdp.26.288){:target="_blank"}」『発達心理学研究』26(4): 288-299.
+-   秋保亮太・縄田健悟・中里陽子・菊地梓・長池和代・山口裕幸, 2016,「[メンタルモデルを共有しているチームは対話せずとも成果を挙げる：共有メンタルモデルとチーム・ダイアログがチーム・パフォーマンスへ及ぼす効果](https://doi.org/10.2130/jjesp.1503){:target="_blank"}」『実験社会心理学研究』55(2): 101-109.
+-   秋元ひろと, 2011,「[ヒュームの自然主義](https://doi.org/10.11439/philosophy.2011.73){:target="_blank"}」『哲学』(62): 73-86.
+-   Allen, Garland E., 1983, "[T. H. Morgan and the Influence of Mechanistic Materialism on the Development of the Gene Concept 1910-1940](https://doi.org/10.1093/icb/23.4.829){:target="_blank"}," _American Zoologist_, 23(4): 829-843.
+-   Allum, Nick, 2011, "[What Makes Some People Think Astrology Is Scientific?](https://doi.org/10.1177/1075547010389819){:target="_blank"}" _Science Communication_, 33(3): 341-366.
 -   Allum, Nick, Patrick Sturgis, Dimitra Tabourazi and Ian Brunton-Smith, 2008, "[Science Knowledge and Attitudes across Cultures: A Meta-Analysis](https://doi.org/10.1177/0963662506070159){:target="_blank"}," _Public Understanding of Science_, 17: 35-54.
--   網谷祐一, 2002,「[E・マイヤーの生物学的種概念](https://doi.org/10.4288/kisoron1954.29.75)」『科学基礎論研究』29(2){:target="_blank"}: 23-28.
--   安藤馨, 2007,「[統治と功利：人格亡きあとのリベラリズム](https://ci.nii.ac.jp/naid/40015334690)」『創文』(494){:target="_blank"}: 32-35.
+-   網谷祐一, 2002,「[E・マイヤーの生物学的種概念](https://doi.org/10.4288/kisoron1954.29.75){:target="_blank"}」『科学基礎論研究』29(2): 23-28.
+-   安藤馨, 2007,「[統治と功利：人格亡きあとのリベラリズム](https://ci.nii.ac.jp/naid/40015334690){:target="_blank"}」『創文』(494): 32-35.
 -   安藤理, 2006,「[世代間学歴移動の社会的効果：再分配政策への賛否に着目して](https://doi.org/10.11151/eds1951.79.47){:target="_blank"}」『教育社会学研究』79: 47-65.
 -   Aneshensel, Carol S., and Jo C. Phelan eds., [_Handbook of the Sociology of Mental Health_](https://www.amazon.co.jp/Handbook-Sociology-Mental-Handbooks-Research/dp/9400774435/ref%3Das_li_ss_tl%3Fs%3Denglish-books%26ie%3DUTF8%26qid%3D1530834437%26sr%3D1-1%26keywords%3DHandbook%2Bof%2Bthe%2BSociology%2Bof%2BMental%2BHealth%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D87ec84ef489b82a8bf627338020585c1){:target="_blank"}, New York: Kluwer Academic.
    -   Horwitz, Allan V., 1999, "The Sociological Study of Mental Illness: A Critique and Synthesis of Four Perspectives," pp. 57-78.
 -   Antony, Louise M., and Charlotte E. Witt eds., 2002, [_A Mind of One's Own: Feminist Essays on Reason and Objectivity_](https://www.amazon.co.jp/dp/0813379385/sr%3D8-1/qid%3D1528665883/ref%3Das_li_ss_tl%3F_encoding%3DUTF8%26me%3D%26qid%3D1528665883%26sr%3D8-1%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D1b2b8551dc7e36e3f7581b2278671e59){:target="_blank"}, 2nd Edition, Boulder: Westview Press.
    -   Cudd, Ann E., "Rational Choice Theory and the Lessons of Feminism," pp. 398-417.
--   青木聡子, 2005,「[ローカル抗議運動における運動フレームと集合的アイデンティティの変容過程：ドイツ・ヴァッカースドルフ再処理施設建設反対運動の事例から](https://ci.nii.ac.jp/naid/110008726928)」『環境社会学研究』(11){:target="_blank"}: 174-187.
--   青木孝行・増子順也・池田敦生・根岸孝行, 2018,「[事故炉廃止措置時における安全機能の信頼性評価とリスク管理に関する検討](https://doi.org/10.3327/taesj.J19.003)」『日本原子力学会和文論文誌』17(2){:target="_blank"}: 86-97.
--   青野篤子, 2008,「[ジェンダーの観点からみた中学生と高校生の職業態度](https://doi.org/10.20789/jraps.29.1_18)」『心理科学』29(1){:target="_blank"}: 18-31.
+-   青木聡子, 2005,「[ローカル抗議運動における運動フレームと集合的アイデンティティの変容過程：ドイツ・ヴァッカースドルフ再処理施設建設反対運動の事例から](https://ci.nii.ac.jp/naid/110008726928){:target="_blank"}」『環境社会学研究』(11): 174-187.
+-   青木孝行・増子順也・池田敦生・根岸孝行, 2018,「[事故炉廃止措置時における安全機能の信頼性評価とリスク管理に関する検討](https://doi.org/10.3327/taesj.J19.003){:target="_blank"}」『日本原子力学会和文論文誌』17(2): 86-97.
+-   青野篤子, 2008,「[ジェンダーの観点からみた中学生と高校生の職業態度](https://doi.org/10.20789/jraps.29.1_18){:target="_blank"}」『心理科学』29(1): 18-31.
 -   青栁輝和, 2005,「[新しい社会運動と反原発運動：反原発運動における文化、政治、技術の相互作用](http://hdl.handle.net/2065/32026){:target="_blank"}」『社学研論集』6: 17-32.
 -   荒牧草平編, 2018,『[人口・家族〔2015年SSM調査報告書2〕](http://www.l.u-tokyo.ac.jp/2015SSM-PJ/report2.html){:target="_blank"}』2015年SSM調査研究会.
    -   林雄亮,「戦後日本の離家現象：趨勢と離家理由に着目して」pp. 45-59.
@@ -55,20 +55,20 @@ title: 整理棚
    -   石田光規,「女性の出産後就労の実情：1950年代から2000年代まで」pp. 171-183.
 -   新谷周平, 2002,「[ストリートダンスからフリーターへ：進路選択のプロセスと下位文化の影響力](https://doi.org/10.11151/eds1951.71.151){:target="_blank"}」『教育社会学研究』71: 151-170.
 -   有賀暢迪, 2008,「[洗い桶からコンピュータへ：大気大循環モデルによるシミュレーションの誕生](https://doi.org/10.14989/56988){:target="_blank"}」『科学哲学科学史研究』2: 61-74.
--   有光興記, 2001,「[罪悪感、羞恥心と共感生の関係](https://doi.org/10.4992/jjpsy.77.97)」『心理学研究』77(2){:target="_blank"}: 97-104.
+-   有光興記, 2001,「[罪悪感、羞恥心と共感生の関係](https://doi.org/10.4992/jjpsy.77.97){:target="_blank"}」『心理学研究』77(2): 97-104.
 -   有元健, 2003,「[サッカーと集合的アイデンティティの構築について：カルチュラル・スタディーズの視点から](https://doi.org/10.5987/jjsss.11.33){:target="_blank"}」『スポーツ社会学研究』11: 33-45.
--   有田正規, 2016,「[学会誌をどう出版するか：商業出版社に託す場合の注意点](https://doi.org/10.1241/johokanri.59.377)」『情報管理』59(6){:target="_blank"}: 377-383.
--   有田伸, 2009,「[比較を通じてみる東アジアの社会階層構造：職業がもたらす報酬格差と社会的不平等](http://doi.org/10.4057/jsr.59.663)」『社会学評論』59(4){:target="_blank"}: 663-681.
--   有薗真代, 2007,「[国立ハンセン病療養所における文化的実践の諸相：長島愛生園・楽団『あおいとり』を事例として](http://hdl.handle.net/2433/192695)」『京都社会学年報』(15){:target="_blank"}: 43-63.
--   Art, David, 2012, "[What Do We Know about Authoritarianism after Ten Years?](https://doi.org/10.5129/001041512800078977)" _Comparative Politics_, 44(3){:target="_blank"}: 351-373.
--   有賀美和子, 1991,「[『経済的依存性』とジェンダー](http://id.nii.ac.jp/1632/00025895/)」『東京女子大学紀要論集』41(2){:target="_blank"}: 113-132.
--   朝田佳尚, 2006, 「[防犯カメラの設置過程に関する社会学的考察：商店街における調査事例から](https://ci.nii.ac.jp/naid/110006558171/)」『京都社会学年報』(14){:target="_blank"}: 1-20.
--   朝香知己, 2007,「[セクシュアリティの神学的再解釈の諸相](http://doi.org/10.14988/pa.2017.0000011753)」『基督教研究』69(2){:target="_blank"}: 45-57.
+-   有田正規, 2016,「[学会誌をどう出版するか：商業出版社に託す場合の注意点](https://doi.org/10.1241/johokanri.59.377){:target="_blank"}」『情報管理』59(6): 377-383.
+-   有田伸, 2009,「[比較を通じてみる東アジアの社会階層構造：職業がもたらす報酬格差と社会的不平等](http://doi.org/10.4057/jsr.59.663){:target="_blank"}」『社会学評論』59(4): 663-681.
+-   有薗真代, 2007,「[国立ハンセン病療養所における文化的実践の諸相：長島愛生園・楽団『あおいとり』を事例として](http://hdl.handle.net/2433/192695){:target="_blank"}」『京都社会学年報』(15): 43-63.
+-   Art, David, 2012, "[What Do We Know about Authoritarianism after Ten Years?](https://doi.org/10.5129/001041512800078977){:target="_blank"}" _Comparative Politics_, 44(3): 351-373.
+-   有賀美和子, 1991,「[『経済的依存性』とジェンダー](http://id.nii.ac.jp/1632/00025895/){:target="_blank"}」『東京女子大学紀要論集』41(2): 113-132.
+-   朝田佳尚, 2006, 「[防犯カメラの設置過程に関する社会学的考察：商店街における調査事例から](https://ci.nii.ac.jp/naid/110006558171/){:target="_blank"}」『京都社会学年報』(14): 1-20.
+-   朝香知己, 2007,「[セクシュアリティの神学的再解釈の諸相](http://doi.org/10.14988/pa.2017.0000011753){:target="_blank"}」『基督教研究』69(2): 45-57.
 -   朝香知己, 2011,「[クィア神学の可能性：その課題と展望](https://doi.org/10.5873/nihonnoshingaku.50.55){:target="_blank"}」『日本の神学』50: 55-73.
 -   熱田敬子, 2011,「[『赤ちゃん』を語る効果と胎児の人間化：中絶体験と出産を予定する妊娠体験を比較して](https://ci.nii.ac.jp/naid/40018769757){:target="_blank"}」『社会学年誌』52: 103-118.
--   熱田敬子, 2012,「[人工妊娠中絶経験の語りにおける『選択』の効果と『たちなおり』](https://ci.nii.ac.jp/naid/40019978125)」『ソシオロゴス』(36){:target="_blank"}: 53-67.
+-   熱田敬子, 2012,「[人工妊娠中絶経験の語りにおける『選択』の効果と『たちなおり』](https://ci.nii.ac.jp/naid/40019978125){:target="_blank"}」『ソシオロゴス』(36): 53-67.
 -   東園子, 2006,「[女同士の絆の認識論：『女性のホモソーシャリティ』概念の可能性](https://doi.org/10.18910/25873){:target="_blank"}」『年報人間科学』27: 71-85.
--   東俊之, 2004,「[制度派組織論の新展開：制度派組織論と組織変革の関係性を中心に](http://hdl.handle.net/10965/137)」『京都マネジメント・レビュー』(6){:target="_blank"}: 81-97.
+-   東俊之, 2004,「[制度派組織論の新展開：制度派組織論と組織変革の関係性を中心に](http://hdl.handle.net/10965/137){:target="_blank"}」『京都マネジメント・レビュー』(6): 81-97.
 
 ### B
 
@@ -76,37 +76,37 @@ title: 整理棚
 -   Barkow, Jerome, Leda Cosmides, and John Tooby eds., 1992, [_The Adapted Mind: Evolutionary Psychology and the Generation of Culture_](https://www.amazon.co.jp/Adapted-Mind-Evolutionary-Psychology-Generation/dp/0195101073/ref%3Das_li_ss_tl%3F_encoding%3DUTF8%26qid%3D%26sr%3D%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D480412b75af06ae116d6352df7be0a06%26language%3Dja_JP){:target="_blank"}, Oxford University Press.
    -   Cosmides, Leda, John Tooby, and Jerome H. Barkow, "Introduction: Evolutionary Psychology and Conceptual Integration," pp. 3-15.
    -   Tooby, John, and Leda Cosmides, "The Psychological Foundations of Culture," pp. 19-136.
--   Barone, Carlo, 2011, "[Some Things Never Change: Gender Segregation in Higher Education across Eight Nations and Three Decades](https://doi.org/10.1177/0038040711402099)," _Sociology of Education_, 84(2){:target="_blank"}: 157-176.
+-   Barone, Carlo, 2011, "[Some Things Never Change: Gender Segregation in Higher Education across Eight Nations and Three Decades](https://doi.org/10.1177/0038040711402099){:target="_blank"}," _Sociology of Education_, 84(2): 157-176.
 -   Bauer, Martin, and John Durant, 1997, "Belief in Astrology: A Social-Psychological Analysis," _Culture and Cosmos: A Journal of the History of Astrology and Cultural Astronomy_, 1: 55-72.
--   Bayne, Tim, and Avery Kolers, 2003, "[Toward a Pluralist Account of Parenthood](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1467-8519.00338)," _Bioethics_, 17(3){:target="_blank"}: 221-42.
+-   Bayne, Tim, and Avery Kolers, 2003, "[Toward a Pluralist Account of Parenthood](https://onlinelibrary.wiley.com/doi/pdf/10.1111/1467-8519.00338){:target="_blank"}," _Bioethics_, 17(3): 221-42.
 -   Berlatsky, Noah, 2013, "[When Men Experience Sexism](https://www.theatlantic.com/sexes/archive/2013/05/when-men-experience-sexism/276355/){:target="_blank"}," _The Atlantic_, May 29, 2013.
 -   Bicchieri, Cristina, and Ryan Muldoon, 2011, "[Social Norms](https://plato.stanford.edu/archives/spr2011/entries/social-norms/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   Billiet, Jaak B., and McKee J. McClendon, 2000, "[Modeling Acquiescence in Measurement Models for Two Balanced Sets of Items](https://doi.org/10.1207/S15328007SEM0704_5)," _Structural Equation Modeling_, 7(4){:target="_blank"}: 608-628.
+-   Billiet, Jaak B., and McKee J. McClendon, 2000, "[Modeling Acquiescence in Measurement Models for Two Balanced Sets of Items](https://doi.org/10.1207/S15328007SEM0704_5){:target="_blank"}," _Structural Equation Modeling_, 7(4): 608-628.
 -   Bird, Chloe E., Peter Conrad, Allen M. Fremont, Stefan Timmermans eds., 2010, [_Handbook of Medical Sociology_](https://www.amazon.co.jp/Handbook-Medical-Sociology-Chloe-Bird/dp/0826517218/ref%3Das_li_ss_tl%3Fie%3DUTF8%26qid%3D1550277018%26sr%3D8-1%26keywords%3DHandbook%2Bof%2BMedical%2BSociology%2Bbird%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D3eca542384cb55a204537dcf236b0806%26language%3Dja_JP){:target="_blank"}, Nashville: Vanderbilt University Press.
    -   Light, Donald W., "Health-Care Professions, Markets, and Countervailing Powers," pp. 270-289.
 -   Blackburn, Simon, 2012, "[The Second Sexism: Discrimination against Men and Boys](https://www.timeshighereducation.com/books/the-second-sexism-discrimination-against-men-and-boys/420459.article){:target="_blank"}," _Times Higher Education_, July 5, 2012.
--   Blasius, Jörg, and Victor Thiessen, 2001, "[The Use of Neutral Responses in Survey Questions: An Application of Multiple Correspondence Analysis](https://search.proquest.com/openview/bea8bc36bce9d8f8a0ab7510b1c2e657/1%3Fpq-origsite%3Dgscholar%26cbl%3D105444)," _Journal of Official Statistics_, 17(3){:target="_blank"}: 351-367.
+-   Blasius, Jörg, and Victor Thiessen, 2001, "[The Use of Neutral Responses in Survey Questions: An Application of Multiple Correspondence Analysis](https://search.proquest.com/openview/bea8bc36bce9d8f8a0ab7510b1c2e657/1%3Fpq-origsite%3Dgscholar%26cbl%3D105444){:target="_blank"}," _Journal of Official Statistics_, 17(3): 351-367.
 -   Blomme, Robert J., Jenny Sok, and Debbie M. Tromp, 2013, "[The Influence of Organizational Culture on Negative Work-Home Interference among Highly Educated Employees in the Hospitality Industry](https://doi.org/10.1080/1528008X.2013.749384){:target="_blank"}," _Journal of Quality Assurance in Hospitality & Tourism_, 14: 1-23.
--   Bolsen, Toby, James N. Druckman, and Fay Lomax Cook, 2014, "[How Frames Can Undermine Support for Scientific Adaptations: Politicization and the Status-Quo Bias](https://doi.org/10.1093/poq/nft044)," _Public Opinion Quarterly_, 78(1){:target="_blank"}: 1-26.
+-   Bolsen, Toby, James N. Druckman, and Fay Lomax Cook, 2014, "[How Frames Can Undermine Support for Scientific Adaptations: Politicization and the Status-Quo Bias](https://doi.org/10.1093/poq/nft044){:target="_blank"}," _Public Opinion Quarterly_, 78(1): 1-26.
 -   Brake, Elizabeth, and Joseph Millum, 2012, "[Parenthood and Procreation](https://plato.stanford.edu/archives/spr2012/entries/parenthood/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   Breen, Richard, 2000, "[Why Is Support for Extreme Parties Underestimated by Surveys? A Latent Class Analysis](https://doi.org/10.1017/S0007123400230159)," _British Journal of Political Science_, 30(2){:target="_blank"}: 375-382.
+-   Breen, Richard, 2000, "[Why Is Support for Extreme Parties Underestimated by Surveys? A Latent Class Analysis](https://doi.org/10.1017/S0007123400230159){:target="_blank"}," _British Journal of Political Science_, 30(2): 375-382.
 -   Breen, Richard, Kristian Bernt Karlson, and Anders Holm, 2018, "[Interpreting and Understanding Logits, Probits, and Other Nonlinear Probability Models](https://doi.org/10.1146/annurev-soc-073117-041429){:target="_blank"}," _Annual Review of Sociology_, 44: 39-54.
--   Brewer, Paul R., 2012, "[The Trappings of Science: Media Messages, Scientific Authority, and Beliefs about Paranormal Investigators](https://doi.org/10.1177/1075547012454599)," _Science Communication_, 35(3){:target="_blank"}: 311-333.
+-   Brewer, Paul R., 2012, "[The Trappings of Science: Media Messages, Scientific Authority, and Beliefs about Paranormal Investigators](https://doi.org/10.1177/1075547012454599){:target="_blank"}," _Science Communication_, 35(3): 311-333.
 -   Bridge, Gary and Sophie Watson eds., 2011, [_The New Blackwell Companion to the City_](https://www.amazon.co.jp/Blackwell-Companion-Wiley-Companions-Geography/dp/1405189819/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3Dd2e1efdcf170282a6bfe1fef8efd28a8%26language%3Dja_JP){:target="_blank"}, Oxford: Blackwell.
    -   Savage, Mike, "The Lost Urban Sociology of Pierre Bourdieu," pp. 511-520.
--   Brigandt, Ingo, 2009, "[Natural Kinds in Evolution and Systematics: Metaphysical and Epistemological Considerations](https://doi.org/10.1007/s10441-008-9056-7)," _Acta Biotheoretica_, 57(1-2){:target="_blank"}: 77-97.
+-   Brigandt, Ingo, 2009, "[Natural Kinds in Evolution and Systematics: Metaphysical and Epistemological Considerations](https://doi.org/10.1007/s10441-008-9056-7){:target="_blank"}," _Acta Biotheoretica_, 57(1-2): 77-97.
 -   Brigandt, Ingo, and Alan Love, 2012, "[Reductionism in Biology](https://plato.stanford.edu/archives/sum2012/entries/reduction-biology/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   ブリントン, M., 1998,「[事務職の拡大：女性の就業パターンに関する米国と東アジアの比較歴史的研究](https://ci.nii.ac.jp/naid/110000516032)」（粒来香訳）『日本労働研究雑誌』(453){:target="_blank"}: 36-49.
+-   ブリントン, M., 1998,「[事務職の拡大：女性の就業パターンに関する米国と東アジアの比較歴史的研究](https://ci.nii.ac.jp/naid/110000516032){:target="_blank"}」（粒来香訳）『日本労働研究雑誌』(453): 36-49.
 -   Brown, James Robert ed., 1984, [_Scientific Rationality: The Sociological Turn_](https://doi.org/10.1007/978-94-015-7688-8){:target="_blank"}, Springer.
    -   Laudan, Larry, "The Pseudo-Science of Science?" pp. 41-73.
    -   McMullin, Ernan, "The Rational and the Social in the History of Science," pp. 127-163.
 -   Brown, James Robert ed., 2012, [_Philosophy of Science: The Key Thinkers_](https://www.amazon.co.jp/Philosophy-Science-James-Robert-Brown/dp/1441142002/ref%3Das_li_ss_tl%3Fkeywords%3D9781441142009%26qid%3D1577530669%26sr%3D8-1%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D4ab617bd999d89a150869844528fb323%26language%3Dja_JP){:target="_blank"}, Continuum.
    -   Wilholt, Torsten, "Conventionalism: Poincaré, Duhem, Reichenbach," pp. 32-52.
--   Budig, Michelle J., 2006, "[Intersections on the Roads to Self-Employment: Gender, Family and Occupational Class](https://doi.org/10.1353/sof.2006.0082)," _Social Forces_, 84(4){:target="_blank"}: 2223-2239.
--   Burawoy, Michael, 2005, "[2004 American Sociological Association Presidential Address: For Public Sociology](https://www.jstor.org/stable/4145348)," _American Sociological Review_, 70(1){:target="_blank"}: 4-28.
+-   Budig, Michelle J., 2006, "[Intersections on the Roads to Self-Employment: Gender, Family and Occupational Class](https://doi.org/10.1353/sof.2006.0082){:target="_blank"}," _Social Forces_, 84(4): 2223-2239.
+-   Burawoy, Michael, 2005, "[2004 American Sociological Association Presidential Address: For Public Sociology](https://www.jstor.org/stable/4145348){:target="_blank"}," _American Sociological Review_, 70(1): 4-28.
 -   Burke, Ronald J., and Cary L. Cooper eds., 2008, [_The Long Work Hours Culture: Causes, Consequences and Choices_](https://www.amazon.co.jp/Long-Work-Hours-Culture-Consequences/dp/1848550383/ref%3Das_li_ss_tl%3F__mk_ja_JP%3D%25E3%2582%25AB%25E3%2582%25BF%25E3%2582%25AB%25E3%2583%258A%26dchild%3D1%26keywords%3DThe%2BLong%2BWork%2BHours%2BCulture%3A%2BCauses%2C%2BConsequences%2Band%2BChoices%26qid%3D1599854901%26sr%3D8-1%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D3bde47aa2de98177fd73beec14a81751%26language%3Dja_JP){:target="_blank"}, Emerald Group Publishing.
    -   Golden, Lonnie, and Morris Altman, "Why Do People Overwork? Oversupply of Hours of Labor, Labor Market Forces and Adaptive Preferences," pp. 61-83.
--   Burris, Val, 2005, "[Interlocking Directorates and Political Cohesion among Corporate Elites](https://www.jstor.org/stable/10.1086/428817)," _American Journal of Sociology_, 111(1){:target="_blank"}: 249-83.
+-   Burris, Val, 2005, "[Interlocking Directorates and Political Cohesion among Corporate Elites](https://www.jstor.org/stable/10.1086/428817){:target="_blank"}," _American Journal of Sociology_, 111(1): 249-83.
 
 ### C
 
@@ -120,58 +120,58 @@ title: 整理棚
    -   Heilbron, Johan, "A Regime of Disciplines: Toward a Historical Sociology of Disciplinary Knowledge," pp. 23-42.
    -   Abbott, Andrew, "Academic Intellectuals," pp. 115-137.
    -   Turner, Stephen P., "The Maturity of Social Theory," pp. 141-170.
--   Campbell, Scott, and Greg Currie, 2006, "[Against Beck: In Defence of Risk Analysis](https://doi.org/10.1177/0048393106287209)," _Philosophy of the Social Sciences_, 36(2){:target="_blank"}: 149-172.
--   Carr, Deborah, 2012, "[The Social Stratification of Older Adults' Preparations for End-of-Life Health Care](https://doi.org/10.1177/0022146512455427)," _Journal of Health and Social Behavior_, 53(3){:target="_blank"}: 297-312.
--   Carrotte, Elise R., Alyce M. Vella, and Megan S. C. Lim, 2015, "[Predictors of 'Liking' Three Types of Health and Fitness-Related Content on Social Media: A Cross-Sectional Study](https://dx.doi.org/10.2196/jmir.4803)," _Journal of Medical Internet Research_, 17(8){:target="_blank"}: e205.
--   Castro, Madeleine, Roger Burrows and Robin Wooffitt, 2014, "[The Paranormal Is (Still) Normal: The Sociological Implication of a Survey of Paranormal Experiences in Great Britain](https://doi.org/10.5153/sro.3355)," _Sociological Research Online_, 19(3){:target="_blank"}: 1-15.
+-   Campbell, Scott, and Greg Currie, 2006, "[Against Beck: In Defence of Risk Analysis](https://doi.org/10.1177/0048393106287209){:target="_blank"}," _Philosophy of the Social Sciences_, 36(2): 149-172.
+-   Carr, Deborah, 2012, "[The Social Stratification of Older Adults' Preparations for End-of-Life Health Care](https://doi.org/10.1177/0022146512455427){:target="_blank"}," _Journal of Health and Social Behavior_, 53(3): 297-312.
+-   Carrotte, Elise R., Alyce M. Vella, and Megan S. C. Lim, 2015, "[Predictors of 'Liking' Three Types of Health and Fitness-Related Content on Social Media: A Cross-Sectional Study](https://dx.doi.org/10.2196/jmir.4803){:target="_blank"}," _Journal of Medical Internet Research_, 17(8): e205.
+-   Castro, Madeleine, Roger Burrows and Robin Wooffitt, 2014, "[The Paranormal Is (Still) Normal: The Sociological Implication of a Survey of Paranormal Experiences in Great Britain](https://doi.org/10.5153/sro.3355){:target="_blank"}," _Sociological Research Online_, 19(3): 1-15.
 -   Chellappa, Ramnath K., and Raymond G. Sin, 2005, "[Personalization versus Privacy: An Empirical Examination of the Online Consumer's Dilemma](https://doi.org/10.1007/s10799-005-5879-y){:target="_blank"}," _Information Technology and Management_, 6: 181-202.
 -   Chemin, Anne, 2015, "[France's Baby Boom Secret: Get Women into Work and Ditch Rigid Family Norms](https://www.theguardian.com/world/2015/mar/21/france-population-europe-fertility-rate){:target="_blank"}," _The Gurdian_, 21 Mar 2015.
--   陳怡禎, 2014,「[男性アイドルの関係性に『友情』を求める女性たち：台湾におけるジャニーズ・ファンを事例として](https://ci.nii.ac.jp/naid/110009758458)」『東京大学大学院情報学環紀要』(86){:target="_blank"}: 159-173.
--   朱喜哲, 2017,「[ジェノサイドに抗するための、R.ローティ『感情教育』論再考](https://ci.nii.ac.jp/naid/40021536623)」『待兼山論叢』(51){:target="_blank"}: 53-68.
--   Cho, Soon-Kyoung, 2009, "[South Korea: Toward a Collective Public Sociology of Labor](https://doi.org/10.1177%252F0730888409333757)," _Work and Occupations_, 36(2){:target="_blank"}: 162-176.
+-   陳怡禎, 2014,「[男性アイドルの関係性に『友情』を求める女性たち：台湾におけるジャニーズ・ファンを事例として](https://ci.nii.ac.jp/naid/110009758458){:target="_blank"}」『東京大学大学院情報学環紀要』(86): 159-173.
+-   朱喜哲, 2017,「[ジェノサイドに抗するための、R.ローティ『感情教育』論再考](https://ci.nii.ac.jp/naid/40021536623){:target="_blank"}」『待兼山論叢』(51): 53-68.
+-   Cho, Soon-Kyoung, 2009, "[South Korea: Toward a Collective Public Sociology of Labor](https://doi.org/10.1177%252F0730888409333757){:target="_blank"}," _Work and Occupations_, 36(2): 162-176.
 -   Cockerham, William C., 2005, "[Health Lifestyle Theory and the Convergence of Agency and Structure](https://doi.org/10.1177/002214650504600105){:target="_blank"}," _Journal of Health and Social Behavior_, 46: 51-67.
--   Cole, Stephen, 2004, "[Merton's Contribution to the Sociology of Science](https://doi.org/10.1177/0306312704048600)," _Social Studies of Science_, 34(6){:target="_blank"}: 829-844.
--   Cooper, Rachel, 2002, "[Disease](https://doi.org/10.1016/S0039-3681%2802%2900018-3)," _Studies in History and Philosophy of Biological and Biomedical Sciences_, 33(2){:target="_blank"}: 263-282.
--   Cornwell, Benjamin, 2011, "[Age Trends in Daily Social Contact Patterns](https://doi.org/10.1177/0164027511409442)," _Research on Aging_, 33(5){:target="_blank"}: 598-631.
+-   Cole, Stephen, 2004, "[Merton's Contribution to the Sociology of Science](https://doi.org/10.1177/0306312704048600){:target="_blank"}," _Social Studies of Science_, 34(6): 829-844.
+-   Cooper, Rachel, 2002, "[Disease](https://doi.org/10.1016/S0039-3681%2802%2900018-3){:target="_blank"}," _Studies in History and Philosophy of Biological and Biomedical Sciences_, 33(2): 263-282.
+-   Cornwell, Benjamin, 2011, "[Age Trends in Daily Social Contact Patterns](https://doi.org/10.1177/0164027511409442){:target="_blank"}," _Research on Aging_, 33(5): 598-631.
 -   Creager, Angela N. H., 2010, "[The Paradox of the Phage Group: Essay Review](https://link.springer.com/article/10.1007%252Fs10739-010-9226-8){:target="_blank"}," _Journal of the History of Biology_, 43: 183-193.
--   Cronin, Blaise, Herbert Snyder, and Helen Atkins, 1997, "[Comparative Citation Rankings of Authors in Monographic and Journal Literature: A Study of Sociology](https://doi.org/10.1108/EUM0000000007200)," _Journal of Documentation_, 53(3){:target="_blank"}: 263-273.
+-   Cronin, Blaise, Herbert Snyder, and Helen Atkins, 1997, "[Comparative Citation Rankings of Authors in Monographic and Journal Literature: A Study of Sociology](https://doi.org/10.1108/EUM0000000007200){:target="_blank"}," _Journal of Documentation_, 53(3): 263-273.
 -   Cropanzano, Russell S., and Maureen L. Ambrose eds., 2015, [_The Oxford Handbook of Justice in the Workplace_](https://www.amazon.co.jp/Handbook-Justice-Workplace-Library-Psychology-ebook/dp/B00YD28MM4/ref%3Das_li_ss_tl%3F__mk_ja_JP%3D%25E3%2582%25AB%25E3%2582%25BF%25E3%2582%25AB%25E3%2583%258A%26keywords%3DOxford%2BHandbook%2Bof%2BJustice%2Bin%2Bthe%2BWorkplace%26qid%3D1598065192%26s%3Denglish-books%26sr%3D1-1%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D2452b16179eb09878737225776427616%26language%3Dja_JP){:target="_blank"}, Oxford University Press.
    -   Proudfoot, Devon, and E. Allan Lind, "Fairness Heuristic Theory, the Uncertainty Management Model, and Fairness at Work," pp. 371-385.
 
 ### D
 
--   Danell, Jenny-Ann Brodin, 2014, "[Reception of Integrative and Complementary Medicine (ICM) in Scientific Journals: A Citation and Co-word Analysis](https://doi.org/10.1007/s11192-013-1082-9)," _Scientometrics_, 98(2){:target="_blank"}: 807-821.
+-   Danell, Jenny-Ann Brodin, 2014, "[Reception of Integrative and Complementary Medicine (ICM) in Scientific Journals: A Citation and Co-word Analysis](https://doi.org/10.1007/s11192-013-1082-9){:target="_blank"}," _Scientometrics_, 98(2): 807-821.
 -   Darden, Lindley, and James Tabery, 2009, "[Molecular Biology](https://plato.stanford.edu/archives/fall2009/entries/molecular-biology/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 -   DeGrazia, David, 2011, "[The Definition of Death](https://plato.stanford.edu/archives/fall2011/entries/death-definition/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   出口将人, 2006,「[組織文化変革における日常的な行為の重要性](http://id.nii.ac.jp/1124/00000620/)」『オイコノミカ』42(3・4){:target="_blank"}: 209-217.
--   出口康夫, 2005,「[臨床からの問い：『統計学の哲学』序説](http://hdl.handle.net/2433/73116)」『京都大学文学部研究紀要』(44){:target="_blank"}: 41-84.
+-   出口将人, 2006,「[組織文化変革における日常的な行為の重要性](http://id.nii.ac.jp/1124/00000620/){:target="_blank"}」『オイコノミカ』42(3・4): 209-217.
+-   出口康夫, 2005,「[臨床からの問い：『統計学の哲学』序説](http://hdl.handle.net/2433/73116){:target="_blank"}」『京都大学文学部研究紀要』(44): 41-84.
 -   出口康夫, 2010,「特集『統計学の哲学』序文」『科学基礎論研究』38(1): 17-18.
--   出口康夫, 2010,「[メタアナリシス的全体論：コリンズに応えて](https://doi.org/10.4288/kisoron.38.1_19)」『科学基礎論研究』38(1){:target="_blank"}: 19-37.
--   出口康夫, 2012,「[空の思想のロゴス：西谷啓治『空と即』再訪](https://ci.nii.ac.jp/naid/40019465500)」『理想』(689){:target="_blank"}: 144-160.
+-   出口康夫, 2010,「[メタアナリシス的全体論：コリンズに応えて](https://doi.org/10.4288/kisoron.38.1_19){:target="_blank"}」『科学基礎論研究』38(1): 19-37.
+-   出口康夫, 2012,「[空の思想のロゴス：西谷啓治『空と即』再訪](https://ci.nii.ac.jp/naid/40019465500){:target="_blank"}」『理想』(689): 144-160.
 -   d'Entreves, Maurizio Passerin, 2014, "[Hannah Arendt](https://plato.stanford.edu/archives/sum2014/entries/arendt/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 -   Delmas, Magali A., 2002, "[The Diffusion of Environmental Management Standards in Europa and in the United States: An Institutional Perspective](https://doi.org/10.1023/A%3A1016108804453){:target="_blank"}," _Policy Sciences_, 35: 91-119.
 -   DiMaggio, Paul, 1997, "[Culture and Cognition](https://doi.org/10.1146/annurev.soc.23.1.263){:target="_blank"}," _Annual Review of Sociology_, 23: 263-287.
--   DiPrete, Thomas A., and Claudia Buchmann, 2006, "[Gender-Specific Trends in the Value of Education and the Emerging Gender Gap in College Completion](https://doi.org/10.1353/dem.2006.0003)," _Demography_, 43(1){:target="_blank"}: 1-24.
--   土場学, 1992,「[権力現象の了解構造：予期理論の存立基盤](https://doi.org/10.11218/ojjams.7.87)」『理論と方法』7(1){:target="_blank"}: 87-102.
+-   DiPrete, Thomas A., and Claudia Buchmann, 2006, "[Gender-Specific Trends in the Value of Education and the Emerging Gender Gap in College Completion](https://doi.org/10.1353/dem.2006.0003){:target="_blank"}," _Demography_, 43(1): 1-24.
+-   土場学, 1992,「[権力現象の了解構造：予期理論の存立基盤](https://doi.org/10.11218/ojjams.7.87){:target="_blank"}」『理論と方法』7(1): 87-102.
 -   土場学編, 2008,『[公共性と格差〈2005年SSM調査シリーズ7〉](http://srdq.hus.osaka-u.ac.jp/metadata.cgi%3Flang%3Djp%26page%3Drefs%26rid%3D4493){:target="_blank"}』2005年SSM調査研究会.
    -   斎藤友里子,「公共的価値の選択と市場化：政策選好との関連で」pp. 1-23.
    -   飯島賢志,「競争志向と社会階層の探求：経済的弱者が競争を志向する意識構造について」pp. 71-87.
    -   高田洋,「投票行動と社会意識：発展した民主主義社会における投票態度」pp. 123-136.
--   Dodds, Rachel E., Efrat Tseëlon, and Emma L. C. Weitkamp, 2008, "[Making Sense Scientific Claims in Advertising: A Study of Scientifically Aware Consumers](https://doi.org/10.1177/0963662506065559)," _Public Understanding of Science_, 17(2){:target="_blank"}: 211-230.
--   土井文博, 2014,「[観光社会学の可能性：J. アーリーの『まなざし』論を超えて](http://id.nii.ac.jp/1113/00000267/)」『海外事情研究』41(2){:target="_blank"}: 11-40.
+-   Dodds, Rachel E., Efrat Tseëlon, and Emma L. C. Weitkamp, 2008, "[Making Sense Scientific Claims in Advertising: A Study of Scientifically Aware Consumers](https://doi.org/10.1177/0963662506065559){:target="_blank"}," _Public Understanding of Science_, 17(2): 211-230.
+-   土井文博, 2014,「[観光社会学の可能性：J. アーリーの『まなざし』論を超えて](http://id.nii.ac.jp/1113/00000267/){:target="_blank"}」『海外事情研究』41(2): 11-40.
 -   Doris, John, and Stephen Stich, 2006, "[Moral Psychology: Empirical Approaches](https://plato.stanford.edu/archives/fall2014/entries/moral-psych-emp/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 -   Downes, Stephen M., 2009, "[Heritability](https://plato.stanford.edu/archives/sum2009/entries/heredity/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 
 ### E
 
--   Eden, Sally, 2011, "[Food Labels as Boundary Objects: How Consumers Make Sense of Organic and Functional Foods](https://doi.org/10.1177/0963662509336714)," _Public Understanding of Science_, 20(2){:target="_blank"}: 179-194.
--   江上園子, 2017,「[キャリア志向の女性における出産前後の『母性愛』信奉傾向の変容](https://ci.nii.ac.jp/naid/40021327721/)」『発達心理学研究』28(3){:target="_blank"}: 154-164.
+-   Eden, Sally, 2011, "[Food Labels as Boundary Objects: How Consumers Make Sense of Organic and Functional Foods](https://doi.org/10.1177/0963662509336714){:target="_blank"}," _Public Understanding of Science_, 20(2): 179-194.
+-   江上園子, 2017,「[キャリア志向の女性における出産前後の『母性愛』信奉傾向の変容](https://ci.nii.ac.jp/naid/40021327721/){:target="_blank"}」『発達心理学研究』28(3): 154-164.
 -   江口聡, 1991,「[沈黙のヨハンネスはなぜ眠れないのか：キェルケゴールの『恐れとおののき』における倫理的なものについて](http://hdl.handle.net/2433/59166){:target="_blank"}」『実践哲学研究』14: 1-30.
 -   江口聡, 2010,「[性・人格・自己決定：セックスワークは性的自由の放棄か](http://hdl.handle.net/11173/445){:target="_blank"}」『京都女子大学現代社会研究』13: 5-20.
--   江口聡, 2012,「[キェルケゴールの『鬱』とその対策](http://hdl.handle.net/11173/144)」『京都女子大学現代社会研究』(15){:target="_blank"}: 37-54.
--   江口聡, 2017,「ないものねだり／いわずもがなの魚住洋一のセックス哲学へのコメント」『[倫理学論究](http://www2.itc.kansai-u.ac.jp/~tsina/kuses/jses00%28japanese%29)』4(1){:target="_blank"}: 30-43.
+-   江口聡, 2012,「[キェルケゴールの『鬱』とその対策](http://hdl.handle.net/11173/144){:target="_blank"}」『京都女子大学現代社会研究』(15): 37-54.
+-   江口聡, 2017,「ないものねだり／いわずもがなの魚住洋一のセックス哲学へのコメント」『[倫理学論究](http://www2.itc.kansai-u.ac.jp/~tsina/kuses/jses00%28japanese%29){:target="_blank"}』4(1): 30-43.
 -   Ekholm, Anders, and Juni Palmgren, 1982, "[A Model for a Binary Response with Misclassifications](https://doi.org/10.1007/978-1-4612-5771-4_13){:target="_blank"}," _GLIM 82: Proceedings of the International Conference on Generalised Linear Models_, 128-143.
--   Ellegård, Alvar, 1957, "[The Darwinian Theory and Nineteenth-Century Philosophies of Science](http://doi.org/10.2307/2707798)," _Journal of the History of Ideas_, 18(3){:target="_blank"}: 362-393.
+-   Ellegård, Alvar, 1957, "[The Darwinian Theory and Nineteenth-Century Philosophies of Science](http://doi.org/10.2307/2707798){:target="_blank"}," _Journal of the History of Ideas_, 18(3): 362-393.
 -   Elster, Jon, 1990, "Marxism, Functionalism, and Game Theory," Sharon Zukin and Paul DiMaggio eds., [_Structures of Capital: The Social Organization of the Economy_](https://www.cambridge.org/jp/academic/subjects/sociology/political-sociology/structures-capital-social-organization-economy%3Fformat%3DPB%26isbn%3D9780521376785){:target="_blank"}, Cambridge University Press, 87-118.
 -   遠藤英樹・松本健太郎・江藤茂博編, 2013,『[メディア文化論](https://www.amazon.co.jp/%25E3%2583%25A1%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25A2%25E6%2596%2587%25E5%258C%2596%25E8%25AB%2596-%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%25E3%2583%25A1%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25A2%25E3%2581%25AE%25E6%259C%25AA%25E6%259D%25A5-%25E9%2581%25A0%25E8%2597%25A4-%25E8%258B%25B1%25E6%25A8%25B9/dp/477950614X/ref%3Das_li_ss_tl%3F_encoding%3DUTF8%26psc%3D1%26refRID%3DZWA12WVCQHG77JJV2XS7%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D6d464d8d8687d63771c0c022654f7414%26language%3Dja_JP){:target="_blank"}』ナカニシヤ出版.
    -   遠藤英樹,「マンガの『政治的無意識』：身体性を伴う『移動』の反転像」pp. 4-20.
@@ -184,157 +184,157 @@ title: 整理棚
    -   Sperber, Dan, "Why a Deep Understanding of Cultural Evolution is Incompatible with Shallow Psychology," pp. 431-449.
    -   Boyd, Richard, and Peter J. Richerson, "Culture and the Evolution of the Human Social Instincts," pp. 453-477.
 -   Ereshefsky, Marc, 2010, "[Species](https://plato.stanford.edu/archives/spr2010/entries/species/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   Erikson, Robert, John H. Goldthorpe, Michelle Jackson, Meir Yaish, and D. R. Cox, 2005, "[On Class Differentials in Educational Attainment](https://doi.org/10.1073/pnas.0502433102)," _Proceedings of the National Academy of Sciences of the United States of America_, 102(27){:target="_blank"}: 9730-3.
+-   Erikson, Robert, John H. Goldthorpe, Michelle Jackson, Meir Yaish, and D. R. Cox, 2005, "[On Class Differentials in Educational Attainment](https://doi.org/10.1073/pnas.0502433102){:target="_blank"}," _Proceedings of the National Academy of Sciences of the United States of America_, 102(27): 9730-3.
 
 ### F
 
 -   ファクトチェック福島,「[脱原発デモでヘイトスピーチ：『被災地の子供の葬列デモ』『原発ガッカリ音頭』](http://fukushima.factcheck.site/life/1317){:target="_blank"}」2018年1月18日.
 -   ファクトチェック福島,「[福島をめぐるデマを利用するドイツの脱原発デモ](http://fukushima.factcheck.site/life/1434){:target="_blank"}」2018年2月22日.
--   Falomir-Pichastor, Juan Manuel, and Gabriel Mugny, 2009, "['I'm not Gay... I'm a Real Man!': Heterosexual Men's Gender Self-Esteem and Sexual Prejudice](https://doi.org/10.1177/0146167209338072)," _Personality and Social Psychology Bulletin_, 35(9){:target="_blank"}: 1233-1243.
--   Feher, Shoshanah, 1992, "[Who Looks to the Stars? Astrology and Its Constituency](https://dx.doi.org/10.2307/1386834)," _Journal for the Scientific Study of Religion_, 31(1){:target="_blank"}: 88-93.
--   Fehige, Christoph, and Robert H. Frank, 2010, "[Feeling Our Way to the Common Good: Utilitarianism and the Moral Sentiments](https://doi.org/10.5840/monist201093110)," _The Monist_, 93(1){:target="_blank"}: 141-165.
+-   Falomir-Pichastor, Juan Manuel, and Gabriel Mugny, 2009, "['I'm not Gay... I'm a Real Man!': Heterosexual Men's Gender Self-Esteem and Sexual Prejudice](https://doi.org/10.1177/0146167209338072){:target="_blank"}," _Personality and Social Psychology Bulletin_, 35(9): 1233-1243.
+-   Feher, Shoshanah, 1992, "[Who Looks to the Stars? Astrology and Its Constituency](https://dx.doi.org/10.2307/1386834){:target="_blank"}," _Journal for the Scientific Study of Religion_, 31(1): 88-93.
+-   Fehige, Christoph, and Robert H. Frank, 2010, "[Feeling Our Way to the Common Good: Utilitarianism and the Moral Sentiments](https://doi.org/10.5840/monist201093110){:target="_blank"}," _The Monist_, 93(1): 141-165.
 -   Fetzer, James H. ed., 2000, [_Science, Explanation, and Rationality: Aspects of the Philosophy of Carl G. Hempel_](https://www.amazon.co.jp/Science-Explantion-Rationality-Philosophy-Hempel/dp/0195121376/ref%3Das_li_ss_tl%3F__mk_ja_JP%3D%25E3%2582%25AB%25E3%2582%25BF%25E3%2582%25AB%25E3%2583%258A%26keywords%3DScience%2C%2BExplanation%2C%2Band%2BRationality%26qid%3D1577359972%26s%3Denglish-books%26sr%3D1-2%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D52235d2f958769a0bb964b3d752e9644%26language%3Dja_JP){:target="_blank"}, Oxford University Press.
    -   Kitcher, Philip, "Reasonable People," pp. 243-264.
--   Fielding, Jane, and Judith Glover, 1999, "[Women Science Graduates in Britain: The Value of Secondary Analysis of Large Scale Data Sets](https://doi.org/10.1177/09500179922117971)," _Work, Employment & Society_, 13(2){:target="_blank"}: 353-367.
+-   Fielding, Jane, and Judith Glover, 1999, "[Women Science Graduates in Britain: The Value of Secondary Analysis of Large Scale Data Sets](https://doi.org/10.1177/09500179922117971){:target="_blank"}," _Work, Employment & Society_, 13(2): 353-367.
 -   FitzPatrick, William, 2008, "[Morality and Evolutionary Biology](https://plato.stanford.edu/archives/win2008/entries/morality-biology/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 -   Flaherty, Colleen, 2016, "[Bias Against Female Instructors](https://www.insidehighered.com/news/2016/01/11/new-analysis-offers-more-evidence-against-student-evaluations-teaching){:target="_blank"}," _Inside Higher Ed_, January 11, 2016.
 -   Frankel, Jeffrey, 2008, "[Contradictions of Supply-Side Economics Live on in Washington](http://www.jeffrey-frankel.com/2008/09/09/supply-side-economics-contradictions-live-on-in-washington/){:target="_blank"}"
 -   Fried, Eiko I., and Jessica K. Flake, 2018, "[Measurement Matters](https://www.psychologicalscience.org/observer/measurement-matters){:target="_blank"}," _Observer_, March 2018.
--   Friedman, Michael, 1998, "[On the Sociology of Scientific Knowledge and Its Philosophical Agenda](http://www.sciencedirect.com/science/article/pii/S0039368197000216)," _Studies in History and Philosophy of Science Part A_, 29(2){:target="_blank"}: 239–271.
--   Friedman, Michael, 2010, "[A Post-Kuhnian Approach to the History and Philosophy of Science](https://doi.org/10.5840/monist201093430)," The Monist, 93(4){:target="_blank"}: 491-517.
+-   Friedman, Michael, 1998, "[On the Sociology of Scientific Knowledge and Its Philosophical Agenda](http://www.sciencedirect.com/science/article/pii/S0039368197000216){:target="_blank"}," _Studies in History and Philosophy of Science Part A_, 29(2): 239–271.
+-   Friedman, Michael, 2010, "[A Post-Kuhnian Approach to the History and Philosophy of Science](https://doi.org/10.5840/monist201093430){:target="_blank"}," The Monist, 93(4): 491-517.
 -   Frigg, Roman, and Stephan Hartmann, 2012, "[Models in Science](https://plato.stanford.edu/archives/fall2012/entries/models-science/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   Fritsche, Immo, J. Christopher Cohrs, Thomas Kessler, and Judith Bauer, 2012, "[Global Warming is Breeding Social Conflict: The Subtle Impact of Climate Change Threat on Authoritarian Tendencies](https://doi.org/10.1016/j.jenvp.2011.10.002)," _Journal of Environmental Psychology_, 32(1){:target="_blank"}: 1-10.
+-   Fritsche, Immo, J. Christopher Cohrs, Thomas Kessler, and Judith Bauer, 2012, "[Global Warming is Breeding Social Conflict: The Subtle Impact of Climate Change Threat on Authoritarian Tendencies](https://doi.org/10.1016/j.jenvp.2011.10.002){:target="_blank"}," _Journal of Environmental Psychology_, 32(1): 1-10.
 -   藤原翔, 2012,「[高校選択における相対的リスク回避仮説と学歴下降回避仮説の検証](https://doi.org/10.11151/eds.91.29){:target="_blank"}」『教育社会学研究』91: 29-49.
--   藤原翔・伊藤理史・谷岡謙, 2012,「[潜在クラス分析を用いた計量社会学的アプローチ：地位の非一貫性、格差意識、権威主義的伝統主義を例に](https://doi.org/10.18910/12447)」『年報人間科学』(33){:target="_blank"}: 43-68.
--   藤本学, 2018,「[大学生が親密な対人関係に求める機能：親子関係・恋愛関係・友だち関係からの包括的アプローチ](http://hdl.handle.net/10367/10560)」『立命館人間科学研究』(37){:target="_blank"}: 47-62.
+-   藤原翔・伊藤理史・谷岡謙, 2012,「[潜在クラス分析を用いた計量社会学的アプローチ：地位の非一貫性、格差意識、権威主義的伝統主義を例に](https://doi.org/10.18910/12447){:target="_blank"}」『年報人間科学』(33): 43-68.
+-   藤本学, 2018,「[大学生が親密な対人関係に求める機能：親子関係・恋愛関係・友だち関係からの包括的アプローチ](http://hdl.handle.net/10367/10560){:target="_blank"}」『立命館人間科学研究』(37): 47-62.
 -   藤本昌代, 2005,「[制度変革期における組織に対する成員の意識：国立試験研究機関から独立行政法人への移行期の事例より](https://www.rieti.go.jp/jp/publications/summary/05110000.html){:target="_blank"}」RIETI Policy Discussion Paper Series 05-P-004.
 -   藤本昌代・河口充勇, 2009,「多様な成員の集団秩序：京都伏見酒造業の事例より」『評論・社会科学』(89): 1-30.
--   藤村正司, 2016,「[大学教育と労働市場の接続：機会の罠](https://doi.org/10.11555/kyoiku.83.2_167)」『教育学研究』83(2){:target="_blank"}: 167-180.
+-   藤村正司, 2016,「[大学教育と労働市場の接続：機会の罠](https://doi.org/10.11555/kyoiku.83.2_167){:target="_blank"}」『教育学研究』83(2): 167-180.
 -   藤岡真之, 2014,「[消費社会の変容と健康志向：脱物質主義と権威主義に着目して](http://doi.org/10.14992/00009324){:target="_blank"}」『社会学研究科年報』21: 45-48.
--   藤田弘夫, 2006,「[都市の歴史社会学と都市社会学の学問構造](http://hdl.handle.net/2261/15475)」『社会科学研究』57(3-4){:target="_blank"}: 117-135.
+-   藤田弘夫, 2006,「[都市の歴史社会学と都市社会学の学問構造](http://hdl.handle.net/2261/15475){:target="_blank"}」『社会科学研究』57(3-4): 117-135.
 -   藤田慶子, 2004,「[ゴッフマン理論における役割と自己呈示：学校における相互行為の分析視角としての検討](http://hdl.handle.net/2261/15870){:target="_blank"}」『東京大学大学院教育学研究科紀要』44: 301-309.
 -   藤田智博, 2017,「安全確認を抑制するメカニズム：知識・技能への自信に注目して」『INSS Journal』24: 48-57.
--   藤田智博, 2018,「[現代日本における外国好感度：歴史家・教科書への信頼と知識所有の影響](https://ci.nii.ac.jp/naid/40021739588)」『ソシオロジ』63(2){:target="_blank"}: 101-117.
+-   藤田智博, 2018,「[現代日本における外国好感度：歴史家・教科書への信頼と知識所有の影響](https://ci.nii.ac.jp/naid/40021739588){:target="_blank"}」『ソシオロジ』63(2): 101-117.
 -   藤田智博, 2019,「テキストデータが映し出す『安全』：自由記述の活用」『INSS Journal』26: 2-9.
--   藤山英樹, 2009,「[社会関係資本と地域異質性・規模：温泉地の調査データを用いた実証分析](https://doi.org/10.11218/ojjams.24.109)」『理論と方法』24(1){:target="_blank"}: 109-119.
--   深堀敦子・鈴木みずえ・グライナー智恵子・磯和勅子, 2009,「[地域で生活する健常高齢者の介護予防行動に影響を及ぼす要因の検討](https://doi.org/10.5630/jans.29.1_15)」『日本看護科学会誌』29(1){:target="_blank"}: 15-24.
+-   藤山英樹, 2009,「[社会関係資本と地域異質性・規模：温泉地の調査データを用いた実証分析](https://doi.org/10.11218/ojjams.24.109){:target="_blank"}」『理論と方法』24(1): 109-119.
+-   深堀敦子・鈴木みずえ・グライナー智恵子・磯和勅子, 2009,「[地域で生活する健常高齢者の介護予防行動に影響を及ぼす要因の検討](https://doi.org/10.5630/jans.29.1_15){:target="_blank"}」『日本看護科学会誌』29(1): 15-24.
 -   深尾秀一, 2015,「多文化社会における外国人学校の現状と課題：外国人幼児・児童の造形表現教育をとおして」『滋賀短期大学研究紀要』(40): 75-84.
 -   深尾秀一, 2016,「多文化社会における外国人学校の現状と課題II：サンタナ学園第二次調査研究をとおして」『滋賀短期大学研究紀要』(41): 161-169.
--   布川日佐史, 2007,「[生活保護制度と社会的排除](https://doi.org/10.4234/jjoffamilysociology.18.2_37)」『家族社会学研究』18(2){:target="_blank"}: 37-46.
+-   布川日佐史, 2007,「[生活保護制度と社会的排除](https://doi.org/10.4234/jjoffamilysociology.18.2_37){:target="_blank"}」『家族社会学研究』18(2): 37-46.
 -   吹野蛍, 2018,「[『ジェンダーレス男子』現象の社会学的分析](http://hdl.handle.net/2433/237399){:target="_blank"}」京都大学文学部2017年度卒業論文.
 -   福田一史・井上明人・梁宇熹・シン・ジュヒョン・向江駿佑・細井浩一, 2017,「[家庭用ゲームソフトのタイトルに関する研究：DBを活用した文字数・文字種の観点からみたマクロ的分析](http://hdl.handle.net/10367/10777){:target="_blank"}」『アート・リサーチ』17: 29-44.
--   福原康司・蔡芢錫, 2012,「[組織不祥事研究における視座と方法：ミクロ・アプローチの再検討](http://doi.org/10.34360/00006550)」『専修マネジメント・ジャーナル』1(1-2){:target="_blank"}: 99-113.
+-   福原康司・蔡芢錫, 2012,「[組織不祥事研究における視座と方法：ミクロ・アプローチの再検討](http://doi.org/10.34360/00006550){:target="_blank"}」『専修マネジメント・ジャーナル』1(1-2): 99-113.
 -   福井宏和, 2012,「[原子力発電所の安全風土に関する質問紙調査](https://doi.org/10.11245/jgd.29.71){:target="_blank"}」『集団力学』29: 71-88.
 -   福井宏和・杉万俊夫, 2005,「[現場調査による安全風土醸成へのアプローチ](https://ci.nii.ac.jp/naid/40007162255){:target="_blank"}」『INSS Journal』12: 65-70.
--   福間隆康, 2006,「[組織風土研究の発展の歴史：組織風土と組織文化の比較](http://doi.org/10.15027/19972)」『広島大学マネジメント研究』(6){:target="_blank"}: 1-19.
+-   福間隆康, 2006,「[組織風土研究の発展の歴史：組織風土と組織文化の比較](http://doi.org/10.15027/19972){:target="_blank"}」『広島大学マネジメント研究』(6): 1-19.
 -   古川久敬編, 2010,『[人的資源マネジメント：「意識化」による組織能力の向上](https://www.amazon.co.jp/%25E4%25BA%25BA%25E7%259A%2584%25E8%25B3%2587%25E6%25BA%2590%25E3%2583%259E%25E3%2583%258D%25E3%2582%25B8%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E2%2580%2595%25E3%2580%258C%25E6%2584%258F%25E8%25AD%2598%25E5%258C%2596%25E3%2580%258D%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E7%25B5%2584%25E7%25B9%2594%25E8%2583%25BD%25E5%258A%259B%25E3%2581%25AE%25E5%2590%2591%25E4%25B8%258A-%25E5%258F%25A4%25E5%25B7%259D-%25E4%25B9%2585%25E6%2595%25AC/dp/4561265392/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D9357d05e48e499c7c631e869d9f042c8%26language%3Dja_JP){:target="_blank"}』白桃書房.
    -   池田浩,「チーム力：課題の変化を意識した新しいチーム能力の提案」pp. 155-180.
--   古川靖洋, 2019,「[働き方改革のための組織文化の変更](http://hdl.handle.net/10236/00027798)」『商学論究』66(3){:target="_blank"}: 223-246.
+-   古川靖洋, 2019,「[働き方改革のための組織文化の変更](http://hdl.handle.net/10236/00027798){:target="_blank"}」『商学論究』66(3): 223-246.
 -   古田和久, 2012,「[高校生の学校適応と社会文化的背景：学校の階層多様性に着目して](https://doi.org/10.11151/eds.90.123){:target="_blank"}」『教育社会学研究』90: 123-144.
 
 ### G
 
 -   蒲生孝治, 2011,「[家庭用愛玩動物に関する意識調査と今後の方向](http://hdl.handle.net/11173/455){:target="_blank"}」『現代社会研究』14: 51-64.
 -   Garry, Ann, 2011, "[Analytic Feminism](https://plato.stanford.edu/archives/spr2011/entries/femapproach-analytic/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   Gauchat, Gordon, 2015, "[The Political Context of Science in the United States: Public Acceptance of Evidence-Based Policy and Science Funding](https://doi.org/10.1093/sf/sov040)," _Social Forces_, 94(2){:target="_blank"}: 723-746.
+-   Gauchat, Gordon, 2015, "[The Political Context of Science in the United States: Public Acceptance of Evidence-Based Policy and Science Funding](https://doi.org/10.1093/sf/sov040){:target="_blank"}," _Social Forces_, 94(2): 723-746.
 -   GEISTE, 2018,「[足立康史衆院議員による是枝裕和監督『万引き家族』と科研費バッシングへの対応の圧倒的な正しさ](https://hbol.jp/168435){:target="_blank"}」『ハーパー・ビジネス・オンライン』2018年6月18日.
 -   GEISTE, 2018,「[『児童虐待への処方箋は戦前道徳の復活』？ 珍説をのたまうエセ保守議員の伝統軽視を斬る](https://hbol.jp/169289){:target="_blank"}」『ハーパー・ビジネス・オンライン』2018年6月30日.
 -   GEISTE, 2018,「[話題沸騰の書、百田尚樹著『日本国紀』を100倍楽しみ、有意義に活用する方法](https://hbol.jp/178968){:target="_blank"}」『ハーパー・ビジネス・オンライン』2018年11月16日.
--   Glick, Peter, Deborah Gottesman, and Jeffrey Jolton, 1989, "[The Fault is not in the Stars: Susceptibility of Skeptics and Believers in Astrology to the Barnum Effect](https://doi.org/10.1177/0146167289154010)," _Personality and Social Psychology Bulletin_, 15(4){:target="_blank"}: 572-583.
--   Gneezy, Uri, and Aldo Rustichini, 2000, "[A Fine is a Price](https://doi.org/10.1086/468061)," _Journal of Legal Studies_, 29(1){:target="_blank"}: 1-17.
+-   Glick, Peter, Deborah Gottesman, and Jeffrey Jolton, 1989, "[The Fault is not in the Stars: Susceptibility of Skeptics and Believers in Astrology to the Barnum Effect](https://doi.org/10.1177/0146167289154010){:target="_blank"}," _Personality and Social Psychology Bulletin_, 15(4): 572-583.
+-   Gneezy, Uri, and Aldo Rustichini, 2000, "[A Fine is a Price](https://doi.org/10.1086/468061){:target="_blank"}," _Journal of Legal Studies_, 29(1): 1-17.
 -   Goldthorpe, John H., 2007, "[Cultural Capital: Some Critical Observations](http://www.sociologica.mulino.it/doi/10.2383/24755){:target="_blank"}," _Sociologica_, 2: 1-23.
--   Goldthorpe, John H., 2014, "[The Role of Education in Intergenerational Social Mobility: Problems from Empirical Research in Sociology and Some Theoretical Pointers from Economics](https://doi.org/10.1177/1043463113519068)," _Rationality and Society_, 26(3){:target="_blank"}: 265-289.
+-   Goldthorpe, John H., 2014, "[The Role of Education in Intergenerational Social Mobility: Problems from Empirical Research in Sociology and Some Theoretical Pointers from Economics](https://doi.org/10.1177/1043463113519068){:target="_blank"}," _Rationality and Society_, 26(3): 265-289.
 -   後藤学, 2019,「職場コミュニケーション活性化の試みの成果と課題」『INSS Journal』26: 210-216.
 -   Griffiths, Paul E., 2002, "The Philosophy of Molecular and Developmental Biology," Peter Machamer and Michael Silberstein eds., [_The Blackwell Guide to the Philosophy of Science_](https://www.amazon.co.jp/Blackwell-Guide-Philosophy-Science-Machamer/dp/B008CMD5KA/ref%3Das_li_ss_tl%3F__mk_ja_JP%3D%25E3%2582%25AB%25E3%2582%25BF%25E3%2582%25AB%25E3%2583%258A%26keywords%3DThe%2BBlackwell%2BGuide%2Bto%2Bthe%2BPhilosophy%2Bof%2BScience%26qid%3D1583501223%26s%3Denglish-books%26sr%3D1-1%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D209d3629e045d696dab44c668d651ef1%26language%3Dja_JP){:target="_blank"}, Wiley-Blackwell, 252-271.
--   郭雲蔚, 2016,「[労働組合と非正規労働者：パートの比率に着目する](http://hdl.handle.net/2433/219495)」『京都社会学年報』(24){:target="_blank"}: 163-177.
+-   郭雲蔚, 2016,「[労働組合と非正規労働者：パートの比率に着目する](http://hdl.handle.net/2433/219495){:target="_blank"}」『京都社会学年報』(24): 163-177.
 -   Güth, Werner, 1995, "[On Ultimatum Bargaining Experiments: A Personal Review](https://doi.org/10.1016/0167-2681%2894%2900071-L){:target="_blank"}," _Journal of Economic Behavior and Organization_, 27: 329-344.
 -   Guyer, Paul, ed., 1992, _Cambridge Companion to Kant_, Cambridge University Press.
    -   Hatfield, Gary, "Empirical, Rational, and Transcendental Psychology: Psychology as Science and as Philosophy," pp. 200-227.
--   Guyon, Hervé, and Jean-François Petiot, 2011, "[Market Share Predictions: A New Model with Rating-Based Conjoint Analysis](https://doi.org/10.2501/IJMR-53-6-831-857)," _International Journal of Market Research_, 53(6){:target="_blank"}: 831-857.
+-   Guyon, Hervé, and Jean-François Petiot, 2011, "[Market Share Predictions: A New Model with Rating-Based Conjoint Analysis](https://doi.org/10.2501/IJMR-53-6-831-857){:target="_blank"}," _International Journal of Market Research_, 53(6): 831-857.
 
 ### H
 
--   芳賀学, 2007,「[分野別研究動向（宗教）：固有領域融解への諸対応](https://doi.org/10.4057/jsr.58.205)」『社会学評論』58(2){:target="_blank"}: 205-220.
--   芳賀繁, 2017,「[心理学はどのように安全に貢献できるか](https://doi.org/10.24602/sjpr.60.4_353)」『心理学評論』60(4){:target="_blank"}: 353-361.
--   萩原潤治, 2019,「[確率標本抽出による調査手法：WEBシフトの展望](https://doi.org/10.24634/bunken.69.12_74)」『放送研究と調査』69(12){:target="_blank"}: 74-82.
+-   芳賀学, 2007,「[分野別研究動向（宗教）：固有領域融解への諸対応](https://doi.org/10.4057/jsr.58.205){:target="_blank"}」『社会学評論』58(2): 205-220.
+-   芳賀繁, 2017,「[心理学はどのように安全に貢献できるか](https://doi.org/10.24602/sjpr.60.4_353){:target="_blank"}」『心理学評論』60(4): 353-361.
+-   萩原潤治, 2019,「[確率標本抽出による調査手法：WEBシフトの展望](https://doi.org/10.24634/bunken.69.12_74){:target="_blank"}」『放送研究と調査』69(12): 74-82.
 -   萩原牧子, 2009,「[インターネットモニター調査はどのように偏っているのか：従来型調査手法に代替する調査手法の模索](https://ci.nii.ac.jp/naid/40016694419){:target="_blank"}」『Works Review』4: 8-19.
--   Haidt, Jonathan, 2001, "[The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment](https://doi.org/10.1037/0033-295X.108.4.814)," _Psychological Review_, 108(4){:target="_blank"}: 814-834.
--   Haidt, Jonathan, and Craig Joseph, 2004, "[Intuitive Ethics: How Innately Prepared Intuitions Generate Culturally Variable Virtues](https://doi.org/10.1162/0011526042365555)," _Daedalus_, 133(4){:target="_blank"}: 55-66.
+-   Haidt, Jonathan, 2001, "[The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment](https://doi.org/10.1037/0033-295X.108.4.814){:target="_blank"}," _Psychological Review_, 108(4): 814-834.
+-   Haidt, Jonathan, and Craig Joseph, 2004, "[Intuitive Ethics: How Innately Prepared Intuitions Generate Culturally Variable Virtues](https://doi.org/10.1162/0011526042365555){:target="_blank"}," _Daedalus_, 133(4): 55-66.
 -   Halper, Leah R., and Kimberly Rios, 2019, "[Feeling Powerful but Incompetent: Fear of Negative Evaluation Predicts Men’s Sexual Harassment of Subordinates](https://doi.org/10.1007/s11199-018-0938-0){:target="_blank"}," _Sex Roles_, 80: 247-261.
--   浜日出夫, 2000,「[記憶のトポグラフィー](https://ci.nii.ac.jp/naid/120001643636/)」『三田社会学』(5){:target="_blank"}: 4-16.
--   浜田宏, 1997,「[近代日本における恋愛の変容I](https://doi.org/10.5690/kantoh.1997.121)」『年報社会学論集』(10){:target="_blank"}: 121-132.
+-   浜日出夫, 2000,「[記憶のトポグラフィー](https://ci.nii.ac.jp/naid/120001643636/){:target="_blank"}」『三田社会学』(5): 4-16.
+-   浜田宏, 1997,「[近代日本における恋愛の変容I](https://doi.org/10.5690/kantoh.1997.121){:target="_blank"}」『年報社会学論集』(10): 121-132.
 -   濱田国佑, 2013,「[新自由主義的改革に対する意識構造の世代間差異：2005年SSM調査データの分析から](https://doi.org/10.7129/hokkaidoshakai.26.1){:target="_blank"}」『現代社会学研究』26: 1-17.
--   浜田寿美男, 2006,「[アクションリサーチにおける質的方法の先鋭化とは何か：杉万論文へのコメント](https://doi.org/10.24602/sjpr.49.3_562)」『心理学評論』49(3){:target="_blank"}: 562-565.
--   濱口桂一郎, 2018,「[横断的論考](https://ci.nii.ac.jp/naid/40021529422)」『日本労働研究雑誌』(693){:target="_blank"}: 2-10.
--   濱中淳子, 2009,「[専修学校卒業者の就業実態：職業教育に期待できる効果の範囲を探る](https://ci.nii.ac.jp/naid/40016738081/)」『日本労働研究雑誌』(588){:target="_blank"}: 34-43.
+-   浜田寿美男, 2006,「[アクションリサーチにおける質的方法の先鋭化とは何か：杉万論文へのコメント](https://doi.org/10.24602/sjpr.49.3_562){:target="_blank"}」『心理学評論』49(3): 562-565.
+-   濱口桂一郎, 2018,「[横断的論考](https://ci.nii.ac.jp/naid/40021529422){:target="_blank"}」『日本労働研究雑誌』(693): 2-10.
+-   濱中淳子, 2009,「[専修学校卒業者の就業実態：職業教育に期待できる効果の範囲を探る](https://ci.nii.ac.jp/naid/40016738081/){:target="_blank"}」『日本労働研究雑誌』(588): 34-43.
 -   Hansson, Sven Ove, 2017, "[Science and Pseudo-Science](https://plato.stanford.edu/archives/sum2017/entries/pseudo-science/){:target="_blank"}," _The Stanford Encyclopedia of Philosophy_.
--   原ひろみ, 2005,「[新規学卒労働市場の現状：企業の採用行動から](https://ci.nii.ac.jp/naid/40006920533)」『日本労働研究雑誌』(542){:target="_blank"}: 4-17.
+-   原ひろみ, 2005,「[新規学卒労働市場の現状：企業の採用行動から](https://ci.nii.ac.jp/naid/40006920533){:target="_blank"}」『日本労働研究雑誌』(542): 4-17.
 -   原純輔編, 2002,『[流動化と社会格差](https://www.amazon.co.jp/%25E6%25B5%2581%25E5%258B%2595%25E5%258C%2596%25E3%2581%25A8%25E7%25A4%25BE%25E4%25BC%259A%25E6%25A0%25BC%25E5%25B7%25AE-%25E8%25AC%259B%25E5%25BA%25A7%25E3%2583%25BB%25E7%25A4%25BE%25E4%25BC%259A%25E5%25A4%2589%25E5%258B%2595-%25E5%258E%259F-%25E7%25B4%2594%25E8%25BC%2594/dp/4623036073/ref%3Das_li_ss_tl%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1543012538%26sr%3D1-1%26keywords%3D%25E6%25B5%2581%25E5%258B%2595%25E5%258C%2596%25E3%2581%25A8%25E7%25A4%25BE%25E4%25BC%259A%25E6%25A0%25BC%25E5%25B7%25AE%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D452ae318f1a56d8c6f359029fb539eb4%26language%3Dja_JP){:target="_blank"}』ミネルヴァ書房.
    -   木村涼子,「ジェンダー秩序の再編成と男女間格差」pp. 201-232.
--   原田唯司, 1980,「[あいまいさに対する不寛容、政治的関心、および政治的態度の三者関係について](https://doi.org/10.4992/jjpsy.60.133)」『心理学研究』60(3){:target="_blank"}: 133-140.
--   原田哲哉・渡辺康人・福井明・稲井田茂・谷口哲一郎, 2010,「[衆院選の世論調査：担当者が語る成果と今後の課題](https://doi.org/10.18969/yoron.105.0_32)」『日本世論調査協会報「よろん」』(105){:target="_blank"}: 32-40.
--   Hargens, Lowell L., 2000, "[Using the Literature: Reference Networks, Reference Contexts, and the Social Structure of Scholarship](https://doi.org/10.2307/2657516)," _American Sociological Review_, 65(6){:target="_blank"}: 846-865.
--   長谷川千春, 2007,「[アメリカ医療保険市場における雇用主企業の影響力：マネジドケアとの関連で](https://ci.nii.ac.jp/naid/40015870064)」『生命保険論集』(161){:target="_blank"}: 71-99.
+-   原田唯司, 1980,「[あいまいさに対する不寛容、政治的関心、および政治的態度の三者関係について](https://doi.org/10.4992/jjpsy.60.133){:target="_blank"}」『心理学研究』60(3): 133-140.
+-   原田哲哉・渡辺康人・福井明・稲井田茂・谷口哲一郎, 2010,「[衆院選の世論調査：担当者が語る成果と今後の課題](https://doi.org/10.18969/yoron.105.0_32){:target="_blank"}」『日本世論調査協会報「よろん」』(105): 32-40.
+-   Hargens, Lowell L., 2000, "[Using the Literature: Reference Networks, Reference Contexts, and the Social Structure of Scholarship](https://doi.org/10.2307/2657516){:target="_blank"}," _American Sociological Review_, 65(6): 846-865.
+-   長谷川千春, 2007,「[アメリカ医療保険市場における雇用主企業の影響力：マネジドケアとの関連で](https://ci.nii.ac.jp/naid/40015870064){:target="_blank"}」『生命保険論集』(161): 71-99.
 -   長谷川眞理子, 2002,「[性差、性淘汰、雄と雌の対立と葛藤](https://ci.nii.ac.jp/naid/40005604406){:target="_blank"}」『現代社会研究』3: 67-74.
--   橋本健二, 2015,「[氏原正次郎『企業封鎖的労働市場モデル』の検証：『京浜工業地帯調査』原票の分析をもとに](https://doi.org/10.24533/spls.6.2_125)」『社会政策』6(2){:target="_blank"}: 125-137.
--   橋本由紀, 2015,「[技能実習制度の見直しとその課題：農業と建設業を事例として](https://ci.nii.ac.jp/naid/40020606663)」『日本労働研究雑誌』(662){:target="_blank"}: 76-87.
--   畑山要介・廣瀬毅士, 2017,「[消費社会の変容と高度化：『21世紀の消費とくらしに関する調査』の結果をもとに](http://doi.org/10.14992/00014699)」『応用社会学研究』(59){:target="_blank"}: 141-154.
--   服部泰宏, 2012,「[組織における契約の諸相](https://doi.org/10.11207/soshikikagaku.46.1_4)」『組織科学』46(1){:target="_blank"}: 4-17.
--   服部泰宏, 2012,「[心理的契約研究の過去・現在・未来：50年にわたる研究の到達点と課題](https://doi.org/10.11207/taaos.1.2_1)」『組織学会大会論文集』1(2){:target="_blank"}: 1-7.
+-   橋本健二, 2015,「[氏原正次郎『企業封鎖的労働市場モデル』の検証：『京浜工業地帯調査』原票の分析をもとに](https://doi.org/10.24533/spls.6.2_125){:target="_blank"}」『社会政策』6(2): 125-137.
+-   橋本由紀, 2015,「[技能実習制度の見直しとその課題：農業と建設業を事例として](https://ci.nii.ac.jp/naid/40020606663){:target="_blank"}」『日本労働研究雑誌』(662): 76-87.
+-   畑山要介・廣瀬毅士, 2017,「[消費社会の変容と高度化：『21世紀の消費とくらしに関する調査』の結果をもとに](http://doi.org/10.14992/00014699){:target="_blank"}」『応用社会学研究』(59): 141-154.
+-   服部泰宏, 2012,「[組織における契約の諸相](https://doi.org/10.11207/soshikikagaku.46.1_4){:target="_blank"}」『組織科学』46(1): 4-17.
+-   服部泰宏, 2012,「[心理的契約研究の過去・現在・未来：50年にわたる研究の到達点と課題](https://doi.org/10.11207/taaos.1.2_1){:target="_blank"}」『組織学会大会論文集』1(2): 1-7.
 -   服部泰宏, 2012,「日本企業の組織・制度変化と心理的契約：組織内キャリアにおける転機に着目して」『日本労働研究雑誌』(628): 60-72.
 -   早野龍五, 2018,「[遺伝的影響を心配する必要はない：福島への誤解](https://www.jaif.or.jp/misunderstanding-about-fukushima){:target="_blank"}」原子力産業新聞, 2018年3月8日.
 -   林明子, 2014,「[生活保護世帯に育つ子どもの中卒後の移行経験に関する研究](https://doi.org/10.11151/eds.95.5){:target="_blank"}」『教育社会学研究』95: 5-24.
 -   林直保子, 2013,「[多様な機会は信頼を育むか？ 大学生の信頼感についての調査研究](http://hdl.handle.net/10112/7750){:target="_blank"}」『社会的信頼学』1: 43-52.
--   林直保子・与謝野有紀, 2005,「[適応戦略としての信頼：高信頼者・低信頼者の社会的知性の対称性について](https://doi.org/10.2130/jjesp.44.27)」『実験社会心理学研究』44(1){:target="_blank"}: 27-41.
--   林玲子, 2014,「[国際人口移動の現代的展望：日本モデルは可能か](http://ci.nii.ac.jp/naid/40020221246)」『人口問題研究』70(3){:target="_blank"}: 192-206.
--   林洋一郎・鳥取部真己, 2016,「[我が国の賃金制度に関する心理学からの考察：公正理論に基づくレビュー](https://ci.nii.ac.jp/naid/40020832489)」『日本労働研究雑誌』(670){:target="_blank"}: 28-42.
--   狭間諒多朗・谷岡謙, 2015,「[階層帰属意識の規定要因としての社会移動：主観的社会移動が捉える2つの経路](https://doi.org/10.18910/51232)」『年報人間科学』(36){:target="_blank"}: 1-17.
+-   林直保子・与謝野有紀, 2005,「[適応戦略としての信頼：高信頼者・低信頼者の社会的知性の対称性について](https://doi.org/10.2130/jjesp.44.27){:target="_blank"}」『実験社会心理学研究』44(1): 27-41.
+-   林玲子, 2014,「[国際人口移動の現代的展望：日本モデルは可能か](http://ci.nii.ac.jp/naid/40020221246){:target="_blank"}」『人口問題研究』70(3): 192-206.
+-   林洋一郎・鳥取部真己, 2016,「[我が国の賃金制度に関する心理学からの考察：公正理論に基づくレビュー](https://ci.nii.ac.jp/naid/40020832489){:target="_blank"}」『日本労働研究雑誌』(670): 28-42.
+-   狭間諒多朗・谷岡謙, 2015,「[階層帰属意識の規定要因としての社会移動：主観的社会移動が捉える2つの経路](https://doi.org/10.18910/51232){:target="_blank"}」『年報人間科学』(36): 1-17.
 -   Heath, Joseph, 2010, "[Methodological Individualism](https://plato.stanford.edu/archives/win2010/entries/methodological-individualism/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 -   Heinzmann, Gerhard, and David Stump, 2013, "[Henri Poincaré](https://plato.stanford.edu/archives/fall2013/entries/poincare/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 -   Heller, Tom, Geraldine Lee-Treweek, Jeanne Katz, Julie Stone, and Sue Spurr eds., 2005, [_Perspectives on Complementary and Alternative Medicine_](https://www.worldcat.org/title/perspectives-on-complementary-and-alternative-medicine/oclc/57166738){:target="_blank"}, Routledge.
    -   Cant, Sarah, "Understanding Why People Use Complementary and Alternative Medicine," pp. 155-181.
--   Hempel, Carl G., 1942, "[The Function of General Laws in History](https://doi.org/10.2307/2017635)," _The Journal of Philosophy_, 39(2){:target="_blank"}: 35-48.
--   Henrich, Joseph, and Robert Boyd, 2002, "[On Modeling Cognition and Culture: Why Cultural Evolution Does not Require Replication of Representations](https://doi.org/10.1163/156853702320281836)," _Journal of Cognition and Culture_, 2(2){:target="_blank"}: 87-112.
--   日比野愛子, 2010,「[科学技術に対する態度におけるDK回答の意味：バイオテクノロジーに関する意識調査から](https://doi.org/10.4057/jsr.60.554)」『社会学評論』60(4){:target="_blank"}: 554-569.
+-   Hempel, Carl G., 1942, "[The Function of General Laws in History](https://doi.org/10.2307/2017635){:target="_blank"}," _The Journal of Philosophy_, 39(2): 35-48.
+-   Henrich, Joseph, and Robert Boyd, 2002, "[On Modeling Cognition and Culture: Why Cultural Evolution Does not Require Replication of Representations](https://doi.org/10.1163/156853702320281836){:target="_blank"}," _Journal of Cognition and Culture_, 2(2): 87-112.
+-   日比野愛子, 2010,「[科学技術に対する態度におけるDK回答の意味：バイオテクノロジーに関する意識調査から](https://doi.org/10.4057/jsr.60.554){:target="_blank"}」『社会学評論』60(4): 554-569.
 -   日高庸晴・荻上チキ, 2012,「[セクシュアルマイノリティと自殺リスク](https://synodos.jp/society/2252){:target="_blank"}」Synodos.
--   樋口直人, 1996,「[エスニック・サブカルチャー形成と資源動員：ニューカマー外国人の経験的研究のために](http://doi.org/10.15057/5780)」『一橋研究』21(3){:target="_blank"}: 137-153.
--   樋口直人, 1999,「[社会運動のミクロ分析](https://doi.org/10.14959/soshioroji.44.1_71)」『ソシオロジ』44(1){:target="_blank"}: 71-86.
--   樋口直人, 2012,「[排外主義運動のミクロ動員過程：なぜ在特会は動員に成功したのか](https://ci.nii.ac.jp/naid/40019450902)」『アジア太平洋レビュー』(9){:target="_blank"}: 2-16.
--   樋口直人・伊藤美登里・田辺俊介・松谷満, 2008,「[アクティビズムの遺産はなぜ相続されないのか：日本における新しい社会運動の担い手をめぐって](https://ci.nii.ac.jp/naid/40016259445)」『アジア太平洋レビュー』(5){:target="_blank"}: 53-67.
+-   樋口直人, 1996,「[エスニック・サブカルチャー形成と資源動員：ニューカマー外国人の経験的研究のために](http://doi.org/10.15057/5780){:target="_blank"}」『一橋研究』21(3): 137-153.
+-   樋口直人, 1999,「[社会運動のミクロ分析](https://doi.org/10.14959/soshioroji.44.1_71){:target="_blank"}」『ソシオロジ』44(1): 71-86.
+-   樋口直人, 2012,「[排外主義運動のミクロ動員過程：なぜ在特会は動員に成功したのか](https://ci.nii.ac.jp/naid/40019450902){:target="_blank"}」『アジア太平洋レビュー』(9): 2-16.
+-   樋口直人・伊藤美登里・田辺俊介・松谷満, 2008,「[アクティビズムの遺産はなぜ相続されないのか：日本における新しい社会運動の担い手をめぐって](https://ci.nii.ac.jp/naid/40016259445){:target="_blank"}」『アジア太平洋レビュー』(5): 53-67.
 -   樋口美雄編, 2010,『[労働市場と所得分配](http://amzn.to/2rxNldZ){:target="_blank"}（バブル/デフレ期の日本経済と経済政策 6）』慶應義塾大学出版会.
    -   三谷直紀「年功賃金・成果主義・賃金構造」pp. 228-252.
    -   太田聰一「若年雇用問題と世代効果」pp. 514-539.
--   疋田京子, 2008,「[大学生の恋愛観・結婚観に関する意識調査](http://id.nii.ac.jp/1430/00001055/)」『鹿児島県立短期大学紀要』(59){:target="_blank"}: 107-124.
--   日野愛郎, 2010,「[2009年総選挙と新しい世論調査の試み](https://doi.org/10.18969/yoron.105.0_51)」『日本世論調査協会報「よろん」』(105){:target="_blank"}: 51-56.
+-   疋田京子, 2008,「[大学生の恋愛観・結婚観に関する意識調査](http://id.nii.ac.jp/1430/00001055/){:target="_blank"}」『鹿児島県立短期大学紀要』(59): 107-124.
+-   日野愛郎, 2010,「[2009年総選挙と新しい世論調査の試み](https://doi.org/10.18969/yoron.105.0_51){:target="_blank"}」『日本世論調査協会報「よろん」』(105): 51-56.
 -   檜康子・増田淳矢, 2016,「[賃金プロファイルは変わったか：都道府県パネルデータを利用して](http://www.lib.kobe-u.ac.jp/handle_kernel/81009321){:target="_blank"}」神戸大学経済学研究科Discussion Paper 1604.
 -   平木隆之, 2004,「[遺伝子組換え作物をめぐる生命特許と農民特権：シュマイザー・モンサント事件を中心に](http://doi.org/10.15027/15294){:target="_blank"}」『広島平和科学』26: 133-158.
--   開本浩矢, 2005,「[成果主義導入における従業員の公正感と行動変化](https://ci.nii.ac.jp/naid/40006999498)」『日本労働研究雑誌』(543){:target="_blank"}: 64-74.
--   平森大規, 2017,「[性的マイノリティが働きやすい職場とは？ 『LGBTに関する職場環境アンケート』の分析結果から](https://ci.nii.ac.jp/naid/40021152293/)」『労働調査』(561){:target="_blank"}: 10-14.
+-   開本浩矢, 2005,「[成果主義導入における従業員の公正感と行動変化](https://ci.nii.ac.jp/naid/40006999498){:target="_blank"}」『日本労働研究雑誌』(543): 64-74.
+-   平森大規, 2017,「[性的マイノリティが働きやすい職場とは？ 『LGBTに関する職場環境アンケート』の分析結果から](https://ci.nii.ac.jp/naid/40021152293/){:target="_blank"}」『労働調査』(561): 10-14.
 -   平尾桂子, 2008,「[人口変動とジェンダー・家族：女子教育の効用とその変化](https://doi.org/10.11151/eds.82.89){:target="_blank"}」『教育社会学研究』82: 89-107.
--   平沢和司, 2005,「[大学から職業への移行に関する社会学的研究の今日的課題](https://ci.nii.ac.jp/naid/40006920535)」『日本労働研究雑誌』(542){:target="_blank"}: 29-37.
--   廣政幸生・小川大海, 2015,「[消費者の健康要因と健康食品に対する購買行動](https://ci.nii.ac.jp/naid/120005865494)」『明治大学農学部研究報告』64(4){:target="_blank"}: 121-128.
--   廣田龍平, 2016,「[俗信、科学知識、そして俗説：カマイタチ真空説にみる否定論の伝統](https://ci.nii.ac.jp/naid/40020964758)」『日本民俗学』(287){:target="_blank"}: 1-35.
--   日詰慎一郎, 2012,「[人事制度改革が職場にもたらす変化：自動車部品メーカーA社における『成果主義』導入前後の2時点比較調査](http://id.nii.ac.jp/1096/00000498/)」『金城学院大学論集 社会科学編』9(1){:target="_blank"}: 15-28.
--   日詰慎一郎, 2013,「[人事制度改革が職場にもたらす変化II：自動車部品メーカーA社における標準化と部門間コーディネーション](http://id.nii.ac.jp/1096/00000529/)」『金城学院大学論集 社会科学編』9(2){:target="_blank"}: 12-23.
+-   平沢和司, 2005,「[大学から職業への移行に関する社会学的研究の今日的課題](https://ci.nii.ac.jp/naid/40006920535){:target="_blank"}」『日本労働研究雑誌』(542): 29-37.
+-   廣政幸生・小川大海, 2015,「[消費者の健康要因と健康食品に対する購買行動](https://ci.nii.ac.jp/naid/120005865494){:target="_blank"}」『明治大学農学部研究報告』64(4): 121-128.
+-   廣田龍平, 2016,「[俗信、科学知識、そして俗説：カマイタチ真空説にみる否定論の伝統](https://ci.nii.ac.jp/naid/40020964758){:target="_blank"}」『日本民俗学』(287): 1-35.
+-   日詰慎一郎, 2012,「[人事制度改革が職場にもたらす変化：自動車部品メーカーA社における『成果主義』導入前後の2時点比較調査](http://id.nii.ac.jp/1096/00000498/){:target="_blank"}」『金城学院大学論集 社会科学編』9(1): 15-28.
+-   日詰慎一郎, 2013,「[人事制度改革が職場にもたらす変化II：自動車部品メーカーA社における標準化と部門間コーディネーション](http://id.nii.ac.jp/1096/00000529/){:target="_blank"}」『金城学院大学論集 社会科学編』9(2): 12-23.
 -   Hlavac, Marek, "[oaxaca: Blinder-Oaxaca Decomposition in R](https://cran.r-project.org/package%3Doaxaca){:target="_blank"}"
 -   Hodge, Jonathan, and Gregory Radick eds., 2003, [_The Cambridge Companion to Darwin_](https://www.amazon.co.jp/Cambridge-Companion-Companions-Philosophy-English-ebook/dp/B00AA8JWDS/ref%3Das_li_ss_tl%3F__mk_ja_JP%3D%25E3%2582%25AB%25E3%2582%25BF%25E3%2582%25AB%25E3%2583%258A%26dchild%3D1%26keywords%3DThe%2BCambridge%2BCompanion%2Bto%2BDarwin%26qid%3D1600192063%26sr%3D8-1%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3De1fd8006f8eaba600093d2fbfae03e71%26language%3Dja_JP){:target="_blank"}, Cambridge University Press.
    -   Paul, Diane B., "Darwin, Social Darwinism and Eugenics," pp. 214-239.
--   Hodgson, Geoffrey M., 2009, "[Agency, Institutions, and Darwinism in Evolutionary Economic Geography](https://doi.org/10.1111/j.1944-8287.2009.01020.x)," _Economic Geography_, 85(2){:target="_blank"}: 167-173.
--   Hoffman, Saul D., and Greg J. Duncan, 1988, "[Multinomial and Conditional Logit Discrete-Choice Models in Demography](https://doi.org/10.2307/2061541)," _Demography_, 25(3){:target="_blank"}: 415-427.
--   Holm, Anders, and Mads Meier Jaeger, 2011, "[Dealing with Selection Bias in Educational Transition Models: The Bivariate Probit Selection Model](https://doi.org/10.1016/j.rssm.2011.02.002)," _Research in Social Stratification and Mobility_, 29(3){:target="_blank"}: 311-322.
--   Holmberg, Christopher, 2015, "[Politicization of the Low-Carb High-Fat Diet in Sweden, Promoted on Social Media by Non-Conventional Experts](https://doi.org/10.4018/ijep.2015070103)," _International Journal of E-Politics_, 6(3){:target="_blank"}: 27-42.
--   本多則恵, 2006,「[インターネット調査・モニター調査の特質：モニター型インターネット調査を活用するための課題](https://ci.nii.ac.jp/naid/40007323653)」『日本労働研究雑誌』(551){:target="_blank"}: 32-41.
--   Hong, Wei, 2008, "[Domination in a Scientific Field: Capital Struggle in a Chinese Isotope Lab](https://doi.org/10.1177/0306312706092456)," _Social Studies of Science_, 38(4){:target="_blank"}: 543-570.
+-   Hodgson, Geoffrey M., 2009, "[Agency, Institutions, and Darwinism in Evolutionary Economic Geography](https://doi.org/10.1111/j.1944-8287.2009.01020.x){:target="_blank"}," _Economic Geography_, 85(2): 167-173.
+-   Hoffman, Saul D., and Greg J. Duncan, 1988, "[Multinomial and Conditional Logit Discrete-Choice Models in Demography](https://doi.org/10.2307/2061541){:target="_blank"}," _Demography_, 25(3): 415-427.
+-   Holm, Anders, and Mads Meier Jaeger, 2011, "[Dealing with Selection Bias in Educational Transition Models: The Bivariate Probit Selection Model](https://doi.org/10.1016/j.rssm.2011.02.002){:target="_blank"}," _Research in Social Stratification and Mobility_, 29(3): 311-322.
+-   Holmberg, Christopher, 2015, "[Politicization of the Low-Carb High-Fat Diet in Sweden, Promoted on Social Media by Non-Conventional Experts](https://doi.org/10.4018/ijep.2015070103){:target="_blank"}," _International Journal of E-Politics_, 6(3): 27-42.
+-   本多則恵, 2006,「[インターネット調査・モニター調査の特質：モニター型インターネット調査を活用するための課題](https://ci.nii.ac.jp/naid/40007323653){:target="_blank"}」『日本労働研究雑誌』(551): 32-41.
+-   Hong, Wei, 2008, "[Domination in a Scientific Field: Capital Struggle in a Chinese Isotope Lab](https://doi.org/10.1177/0306312706092456){:target="_blank"}," _Social Studies of Science_, 38(4): 543-570.
 -   Horgan, Terry, and Mark Timmons eds., 2006, [_Metaethics after Moore_](https://www.amazon.co.jp/Metaethics-After-Moore-Terry-Horgan/dp/0199269904/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D9676a2c3e19d883fbcde2e893fc9d294%26language%3Dja_JP){:target="_blank"}, Oxford University Press.
    -   Sinnott-Armstrong, Walter, "Moral Intuitionism Meets Empirical Psychology," pp. 339-365.
--   堀あきこ・関めぐみ・荒木菜穂, 2017,「[男女雇用機会均等法が取りこぼした『平等』を問い直す：大阪の女性労働運動に着目して](http://doi.org/10.24729/00004830)」『女性学研究』(24){:target="_blank"}: 116-138.
--   堀内慎一郎, 2015,「[大手日本企業における女性総合職の配置と管理職昇進](https://ci.nii.ac.jp/naid/40020325366)」『家計経済研究』(105){:target="_blank"}: 68-77.
+-   堀あきこ・関めぐみ・荒木菜穂, 2017,「[男女雇用機会均等法が取りこぼした『平等』を問い直す：大阪の女性労働運動に着目して](http://doi.org/10.24729/00004830){:target="_blank"}」『女性学研究』(24): 116-138.
+-   堀内慎一郎, 2015,「[大手日本企業における女性総合職の配置と管理職昇進](https://ci.nii.ac.jp/naid/40020325366){:target="_blank"}」『家計経済研究』(105): 68-77.
 -   細畠昌大・川上泰彦, 2019,「[『ノー残業デー』の完全実施に向けた校長の取り組み：多忙（感）を生む『負の連鎖』をどう断ち切るか](http://hdl.handle.net/10132/18525){:target="_blank"}」『兵庫教育大学学校教育学研究』32: 63-72.
--   Huang, I‐Chan, Constantine Frangakis, Mark J. Atkinson, Richard J. Willke, Walter L. Leite, W. Bruce Vogel, and Albert W. Wu, 2008, "[Addressing Ceiling Effects in Health Status Measures: A Comparison of Techniques Applied to Measures for People with HIV Disease](https://doi.org/10.1111/j.1475-6773.2007.00745.x)," _Health Service Research_, 43(1){:target="_blank"}: 327-339.
--   Hughes, Karen D., 2003, "[Pushed or Pulled? Women's Entry into Self-Employment and Small Business Ownership](https://doi.org/10.1111/1468-0432.00205)," _Gender, Work and Organization_, 10(4){:target="_blank"}: 433-454.
--   Hull, David L., 1965, "[The Effect of Essentialism on Taxonomy: Two Thousand Years of Stasis (I)](https://www.jstor.org/stable/686538)," _The British Journal for the Philosophy of Science_, (60){:target="_blank"}: 314-326.
--   Hull, David L., 1965, "[The Effect of Essentialism on Taxonomy: Two Thousand Years of Stasis (II)](http://www.jstor.org/stable/686135)," _The British Journal for the Philosophy of Science_, (61){:target="_blank"}: 1-18.
--   Hull, David L., 1967, "[The Metaphysics of Evolution](https://doi.org/10.1017/S0007087400002892)," _British Journal for the History of Science_, 3(12){:target="_blank"}: 309-337.
+-   Huang, I‐Chan, Constantine Frangakis, Mark J. Atkinson, Richard J. Willke, Walter L. Leite, W. Bruce Vogel, and Albert W. Wu, 2008, "[Addressing Ceiling Effects in Health Status Measures: A Comparison of Techniques Applied to Measures for People with HIV Disease](https://doi.org/10.1111/j.1475-6773.2007.00745.x){:target="_blank"}," _Health Service Research_, 43(1): 327-339.
+-   Hughes, Karen D., 2003, "[Pushed or Pulled? Women's Entry into Self-Employment and Small Business Ownership](https://doi.org/10.1111/1468-0432.00205){:target="_blank"}," _Gender, Work and Organization_, 10(4): 433-454.
+-   Hull, David L., 1965, "[The Effect of Essentialism on Taxonomy: Two Thousand Years of Stasis (I)](https://www.jstor.org/stable/686538){:target="_blank"}," _The British Journal for the Philosophy of Science_, (60): 314-326.
+-   Hull, David L., 1965, "[The Effect of Essentialism on Taxonomy: Two Thousand Years of Stasis (II)](http://www.jstor.org/stable/686135){:target="_blank"}," _The British Journal for the Philosophy of Science_, (61): 1-18.
+-   Hull, David L., 1967, "[The Metaphysics of Evolution](https://doi.org/10.1017/S0007087400002892){:target="_blank"}," _British Journal for the History of Science_, 3(12): 309-337.
 -   Hull, David L., 1994, "[Ernst Mayr's Influence on the History and Philosophy of Biology: A Personal Memoir](https://doi.org/10.1007/BF00857944){:target="_blank"}," _Biology and Philosophy_, 9: 375-386.
 -   Hull, David L., Peter D. Tessner, and Arthur M. Diamond, 1978, "[Planck's Principle: Do Younger Scientists Accept New Scientific Ideas with Greater Alacrity than Older Scientists?](https://doi.org/10.1126/science.202.4369.717){:target="_blank"}" _Science_, 202: 717-723.
 
@@ -345,14 +345,14 @@ title: 整理棚
    -   鶴田静, 「ベジタリアニズム：愛と思考の非肉食」pp. 131-141.
    -   一ノ瀬正樹,「『動物への配慮』の欠落と充実」pp. 143-159.
    -   関根清三,「ヴェジタリアニズムと動物実験・今後の展望」pp. 161-163.
--   井出知之, 2011,「[社会階層論における政治意識：社会構造と政治変動](https://doi.org/10.14854/jaes.27.1_72)」『選挙研究』27(1){:target="_blank"}: 72-84.
--   居神浩, 2010,「[ノンエリート大学生に伝えるべきこと：『マージナル大学』の社会的意義](https://ci.nii.ac.jp/naid/40017276856)」『日本労働研究雑誌』(602){:target="_blank"}: 27-38.
+-   井出知之, 2011,「[社会階層論における政治意識：社会構造と政治変動](https://doi.org/10.14854/jaes.27.1_72){:target="_blank"}」『選挙研究』27(1): 72-84.
+-   居神浩, 2010,「[ノンエリート大学生に伝えるべきこと：『マージナル大学』の社会的意義](https://ci.nii.ac.jp/naid/40017276856){:target="_blank"}」『日本労働研究雑誌』(602): 27-38.
 -   井保和也, 2020,「[『お前が言うな』と非難の哲学：非難の非偽善性条件を検討する](https://doi.org/10.14989/245550){:target="_blank"}」『Contemporary and Applied Philosophy』11: 1-22.
 -   飯田剛史, 2002,「[在日コリアンの宗教：文化創造の過程](https://ci.nii.ac.jp/naid/40005583569){:target="_blank"}」『環』11: 256-264.
 -   飯田隆ほか編, 2009,『[岩波講座 哲学〈11〉 歴史／物語の哲学](https://www.amazon.co.jp/%25E5%25B2%25A9%25E6%25B3%25A2%25E8%25AC%259B%25E5%25BA%25A7-%25E5%2593%25B2%25E5%25AD%25A6%25E3%2580%258811%25E3%2580%2589%25E6%25AD%25B4%25E5%258F%25B2-%25E7%2589%25A9%25E8%25AA%259E%25E3%2581%25AE%25E5%2593%25B2%25E5%25AD%25A6-%25E9%25A3%25AF%25E7%2594%25B0-%25E9%259A%2586/dp/4000112716/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D998206ee6c9fb51f6967c8ec42391d37%26language%3Dja_JP){:target="_blank"}』岩波書店.
    -   伊勢田哲治,「歴史科学における因果性と法則性」pp. 95-119.
--   飯田高, 2012,「[労働の法と経済学](https://ci.nii.ac.jp/naid/40019252842)」『日本労働研究雑誌』(621){:target="_blank"}: 72-75.
--   飯田健, 2019,「トランプ支持者再考：通説と実証研究との乖離」『[国際問題](https://www2.jiia.or.jp/BOOK/201905.php)』(681){:target="_blank"}: 6-17.
+-   飯田高, 2012,「[労働の法と経済学](https://ci.nii.ac.jp/naid/40019252842){:target="_blank"}」『日本労働研究雑誌』(621): 72-75.
+-   飯田健, 2019,「トランプ支持者再考：通説と実証研究との乖離」『[国際問題](https://www2.jiia.or.jp/BOOK/201905.php){:target="_blank"}』(681): 6-17.
 -   飯田泰之, 2019,「[『老後に2000万円不足』騒動、金融庁の欺瞞とマスコミの大間違い](https://gendai.ismedia.jp/articles/-/65151){:target="_blank"}」現代ビジネス.
 -   池田明史, 2001,「イスラーム世界を見る側の陥穽：日本人の対外認識」_SPF NEWSLETTER_, (51): 8.
 -   池田謙一編著, 2001,『[政治行動の社会心理学：社会に参加する人間のこころと行動](https://www.amazon.co.jp/%25E6%2594%25BF%25E6%25B2%25BB%25E8%25A1%258C%25E5%258B%2595%25E3%2581%25AE%25E7%25A4%25BE%25E4%25BC%259A%25E5%25BF%2583%25E7%2590%2586%25E5%25AD%25A6%25E2%2580%2595%25E7%25A4%25BE%25E4%25BC%259A%25E3%2581%25AB%25E5%258F%2582%25E5%258A%25A0%25E3%2581%2599%25E3%2582%258B%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25AE%25E3%2581%2593%25E3%2581%2593%25E3%2582%258D%25E3%2581%25A8%25E8%25A1%258C%25E5%258B%2595-%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA21%25E4%25B8%2596%25E7%25B4%2580%25E3%2581%25AE%25E7%25A4%25BE%25E4%25BC%259A%25E5%25BF%2583%25E7%2590%2586%25E5%25AD%25A6-%25E9%25AB%2598%25E6%259C%25A8-%25E4%25BF%25AE/dp/4762822167/ref%3Das_li_ss_tl%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1540049229%26sr%3D1-1%26keywords%3D%25E6%2594%25BF%25E6%25B2%25BB%25E8%25A1%258C%25E5%258B%2595%25E3%2581%25AE%25E7%25A4%25BE%25E4%25BC%259A%25E5%25BF%2583%25E7%2590%2586%25E5%25AD%25A6%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3De3f2a69dc359168b58aa5247547ffb50%26language%3Dja_JP){:target="_blank"}』北大路書房.
@@ -364,85 +364,85 @@ title: 整理棚
    -   安野智子,「世論のダイナミズム」pp. 108-121.
 -   池田浩士編, 2007,『[大東亜共栄圏の文化建設](https://www.amazon.co.jp/%25E5%25A4%25A7%25E6%259D%25B1%25E4%25BA%259C%25E5%2585%25B1%25E6%25A0%2584%25E5%259C%258F%25E3%2581%25AE%25E6%2596%2587%25E5%258C%2596%25E5%25BB%25BA%25E8%25A8%25AD-%25E9%25AB%2598%25E6%259D%2591-%25E7%25AB%259C%25E5%25B9%25B3/dp/4409520555/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D5ea831ce3444870fc1b7907964171d71%26language%3Dja_JP){:target="_blank"}』人文書院.
    -   藤原辰史,「稲も亦大和民族なり：水稲品種の『共栄圏』」pp. 189-240.
--   池田めぐみ・伏木田稚子・山内祐平, 2018,「[大学生のクラブ・サークル活動への取り組みがキャリアレジリエンスに与える影響](https://doi.org/10.15077/jjet.41067)」『日本教育工学会論文誌』42(1){:target="_blank"}: 1-14.
--   池田章子, 2015,「[組織におけるファシリテーションに関する探索的研究：メンバーの自律および協働はいかにして『促進』されるか](https://doi.org/10.20698/comm.44.1_85)」『日本コミュニケーション研究』44(1){:target="_blank"}: 85-106.
--   池田章子, 2017,「[組織変革における組織ビジョンとアイデンティティの構築](http://hdl.handle.net/10291/19328)」『情報コミュニケーション研究論集』(13){:target="_blank"}: 1-14.
+-   池田めぐみ・伏木田稚子・山内祐平, 2018,「[大学生のクラブ・サークル活動への取り組みがキャリアレジリエンスに与える影響](https://doi.org/10.15077/jjet.41067){:target="_blank"}」『日本教育工学会論文誌』42(1): 1-14.
+-   池田章子, 2015,「[組織におけるファシリテーションに関する探索的研究：メンバーの自律および協働はいかにして『促進』されるか](https://doi.org/10.20698/comm.44.1_85){:target="_blank"}」『日本コミュニケーション研究』44(1): 85-106.
+-   池田章子, 2017,「[組織変革における組織ビジョンとアイデンティティの構築](http://hdl.handle.net/10291/19328){:target="_blank"}」『情報コミュニケーション研究論集』(13): 1-14.
 -   池田章子, 2018,「組織における語りとアイデンティティの構築：中小機械メーカーの組織変革を事例に」経営戦略学会第18回研究発表大会.
--   池田裕, 2016,「[日本における争点態度の構造：PIAS調査のデータを用いた分析](http://hdl.handle.net/2433/219496)」『京都社会学年報』(24){:target="_blank"}: 141-161.
+-   池田裕, 2016,「[日本における争点態度の構造：PIAS調査のデータを用いた分析](http://hdl.handle.net/2433/219496){:target="_blank"}」『京都社会学年報』(24): 141-161.
 -   池内恵, 2011,「『アラブの春』をどうみるか：中東政治研究の再考と刷新のために」『国際問題』(605): 1-9.
 -   池内恵, 2018,「宗教と国際政治」『国際問題』(675): 1-5.
 -   池内恵・山形浩生, 2014,「[イスラム国の躍進の構造と力](https://cruel.org/other/koukenikeuchiisis.html){:target="_blank"}」『公研』2014年10月号.
--   稲葉カヨ, 2011,「[京都大学における男女共同参画に向けた取組](http://ci.nii.ac.jp/naid/40019018579)」『IDE』(534){:target="_blank"}: 56-61.
--   稲場圭信, 2011,「[無自覚の宗教性とソーシャル・キャピタル](https://doi.org/10.18910/18467)」『宗教と社会貢献』1(1){:target="_blank"}: 3-26.
--   稲増一憲・三浦麻子, 2015,「[オンライン調査を用いた『大学生の保守化』の検証：彼らは何を保守しているのか](http://hdl.handle.net/10236/13720)」『関西学院大学社会学部紀要』(120){:target="_blank"}: 53-63.
+-   稲葉カヨ, 2011,「[京都大学における男女共同参画に向けた取組](http://ci.nii.ac.jp/naid/40019018579){:target="_blank"}」『IDE』(534): 56-61.
+-   稲場圭信, 2011,「[無自覚の宗教性とソーシャル・キャピタル](https://doi.org/10.18910/18467){:target="_blank"}」『宗教と社会貢献』1(1): 3-26.
+-   稲増一憲・三浦麻子, 2015,「[オンライン調査を用いた『大学生の保守化』の検証：彼らは何を保守しているのか](http://hdl.handle.net/10236/13720){:target="_blank"}」『関西学院大学社会学部紀要』(120): 53-63.
 -   稲村務, 2009,「C.ギアツの解釈人類学と沖縄・奄美：〈中心〉と〈周縁〉を読み解くために」『琉球大学法文学部紀要 人間科学』(23): 35-80.
 -   井上彰臣, 2010,「[職業性ストレスと組織的公正](https://doi.org/10.5058/stresskagakukenkyu.25.7){:target="_blank"}」『ストレス科学研究』25: 7-13.
--   井上慧真, 2016,「[『移行の危機』にある若者への支援の形成と変容：社会関係資本の観点から](https://doi.org/10.4057/jsr.67.222)」『社会学評論』67(2){:target="_blank"}: 222-237.
--   井上紗奈・本田秀仁・森数馬・山本（前田）万里・椎名武夫・曲山幸生・永井成美・和田有史, 2018,「[“科学的”情報はどのように理解されるのか？ 食品の機能性理解と認知特性の個人差を視点とした分析](https://doi.org/10.11225/jcss.25.7)」『認知科学』25(1){:target="_blank"}: 7-25.
--   井上剛男, 2004,「[現代日本における近代家族の正当化過程：生殖補助技術言説に焦点をあてて](https://doi.org/10.14959/soshioroji.49.2_3)」『ソシオロジ』49(2){:target="_blank"}: 3-19.
--   犬飼裕一, 1995,「[ノルベルト・エリアスと歴史社会学の方法](https://doi.org/10.5690/kantoh.1995.119)」『年報社会学論集』(8){:target="_blank"}: 119-130.
--   伊勢俊彦, 2011,「[社会的世界における規則と偶然](https://doi.org/10.11439/philosophy.2011.87)」『哲学』(62){:target="_blank"}: 87-103.
+-   井上慧真, 2016,「[『移行の危機』にある若者への支援の形成と変容：社会関係資本の観点から](https://doi.org/10.4057/jsr.67.222){:target="_blank"}」『社会学評論』67(2): 222-237.
+-   井上紗奈・本田秀仁・森数馬・山本（前田）万里・椎名武夫・曲山幸生・永井成美・和田有史, 2018,「[“科学的”情報はどのように理解されるのか？ 食品の機能性理解と認知特性の個人差を視点とした分析](https://doi.org/10.11225/jcss.25.7){:target="_blank"}」『認知科学』25(1): 7-25.
+-   井上剛男, 2004,「[現代日本における近代家族の正当化過程：生殖補助技術言説に焦点をあてて](https://doi.org/10.14959/soshioroji.49.2_3){:target="_blank"}」『ソシオロジ』49(2): 3-19.
+-   犬飼裕一, 1995,「[ノルベルト・エリアスと歴史社会学の方法](https://doi.org/10.5690/kantoh.1995.119){:target="_blank"}」『年報社会学論集』(8): 119-130.
+-   伊勢俊彦, 2011,「[社会的世界における規則と偶然](https://doi.org/10.11439/philosophy.2011.87){:target="_blank"}」『哲学』(62): 87-103.
 -   伊勢田哲治, 2004,「[書評：岡本裕一朗著『異議あり！生命・環境倫理学』](https://ci.nii.ac.jp/naid/40006521521){:target="_blank"}」Nagoya Journal of Philosophy, 3: 53-59.
--   伊勢田哲治, 2005,「[応用科学哲学の問題としてのリスク](https://doi.org/10.4216/jpssj.38.2_77)」『科学哲学』38(2){:target="_blank"}: 77-91.
+-   伊勢田哲治, 2005,「[応用科学哲学の問題としてのリスク](https://doi.org/10.4216/jpssj.38.2_77){:target="_blank"}」『科学哲学』38(2): 77-91.
 -   伊勢田哲治, 2006,「[戦争倫理学における功利主義的思考：現代功利主義からの議論の検討](https://ci.nii.ac.jp/naid/120000979552/){:target="_blank"}」『応用倫理学研究』3: 1-17.
--   伊勢田哲治, 2007,「[功利主義系理論と道徳的直観](https://ci.nii.ac.jp/naid/120000974067)」『創文』(494){:target="_blank"}: 24-27.
--   伊勢田哲治, 2010,「[認識論的問題としてのモード2科学と科学コミュニケーション](https://doi.org/10.4216/jpssj.43.2_1)」『科学哲学』43(2){:target="_blank"}: 1-17.
+-   伊勢田哲治, 2007,「[功利主義系理論と道徳的直観](https://ci.nii.ac.jp/naid/120000974067){:target="_blank"}」『創文』(494): 24-27.
+-   伊勢田哲治, 2010,「[認識論的問題としてのモード2科学と科学コミュニケーション](https://doi.org/10.4216/jpssj.43.2_1){:target="_blank"}」『科学哲学』43(2): 1-17.
 -   伊勢田哲治, 2012,「リンチは何をそんなにおそれているのか」マイケル・リンチ『エスノメソドロジーと科学実践の社会学』合評会報告原稿.
 -   伊勢田哲治, 2013,「[ウィッグ史観は許容不可能か](http://hdl.handle.net/2433/179542){:target="_blank"}」Nagoya Journal of Philosophy, 10: 4-24.
 -   伊勢田哲治, 2013,「[動物の権利概論：なぜ動物倫理の話はかみあわないのか](https://www.youtube.com/watch?v=Eb5z8KqMSCE){:target="_blank"}」Kyoto Ani-love Student Party第三回合同勉強会.
 -   伊勢田哲治, 2016,「[動物福祉と供養の倫理](http://ci.nii.ac.jp/naid/120005947212){:target="_blank"}」『関西実験動物研究会会報』6-22.
--   石橋貞人, 2018,「[長時間労働是正についての一考察：組織心理学の視点から](http://id.nii.ac.jp/1225/00001502/)」『明星大学経営学研究紀要』(13){:target="_blank"}: 33-42.
--   石田淳, 2014,「[つながる力？ つながりのプラスとマイナス](https://ci.nii.ac.jp/naid/40020130332/)」『人間科学研究』(8){:target="_blank"}: 26-33.
--   石田淳, 2016,「[『日本人』の条件：インターネット調査データを用いた社会的カテゴリー分析](https://doi.org/10.4057/jsr.67.182)」『社会学評論』67(2){:target="_blank"}: 182-200.
--   石田淳, 2017,「[負の感情発生メカニズムとしての相対的剥奪](https://doi.org/10.20797/ems.3.1_25)」『エモーション・スタディーズ』3(1){:target="_blank"}: 25-29.
--   石田浩, 2012,「[社会科学における因果推論の可能性](https://doi.org/10.11218/ojjams.27.1)」『理論と方法』27(1){:target="_blank"}: 1-18.
+-   石橋貞人, 2018,「[長時間労働是正についての一考察：組織心理学の視点から](http://id.nii.ac.jp/1225/00001502/){:target="_blank"}」『明星大学経営学研究紀要』(13): 33-42.
+-   石田淳, 2014,「[つながる力？ つながりのプラスとマイナス](https://ci.nii.ac.jp/naid/40020130332/){:target="_blank"}」『人間科学研究』(8): 26-33.
+-   石田淳, 2016,「[『日本人』の条件：インターネット調査データを用いた社会的カテゴリー分析](https://doi.org/10.4057/jsr.67.182){:target="_blank"}」『社会学評論』67(2): 182-200.
+-   石田淳, 2017,「[負の感情発生メカニズムとしての相対的剥奪](https://doi.org/10.20797/ems.3.1_25){:target="_blank"}」『エモーション・スタディーズ』3(1): 25-29.
+-   石田浩, 2012,「[社会科学における因果推論の可能性](https://doi.org/10.11218/ojjams.27.1){:target="_blank"}」『理論と方法』27(1): 1-18.
 -   Ishida, Hiroshi, Seymour Spilerman, and Kuo-Hsien Su, 1997, "[Educational Credentials and Promotion Chances in Japanese and American Organizations](https://doi.org/10.2307/2657344){:target="_blank"}," _American Sociological Review_, 62: 866-882.
 -   石田賢示, 2016,「[『どちらともいえない』と『わからない』は何を意味しているのか：定住外国人の受け入れに対する態度を事例として](https://csrda.iss.u-tokyo.ac.jp/panel/dp/PanelDP_097Ishida.pdf){:target="_blank"}」東京大学社会科学研究所パネル調査プロジェクトディスカッションペーパーシリーズ, No. 97.
--   石田好江, 1992,「[女性の高転職率の背景](http://ci.nii.ac.jp/naid/120005038358)」『愛知淑徳短期大学研究紀要』(31){:target="_blank"}: 33-43.
--   石田好江, 2013,「[高等教育の大衆化と女性労働市場](http://hdl.handle.net/10638/5350)」『愛知淑徳大学論集 交流文化学部篇』(3){:target="_blank"}: 111-124.
+-   石田好江, 1992,「[女性の高転職率の背景](http://ci.nii.ac.jp/naid/120005038358){:target="_blank"}」『愛知淑徳短期大学研究紀要』(31): 33-43.
+-   石田好江, 2013,「[高等教育の大衆化と女性労働市場](http://hdl.handle.net/10638/5350){:target="_blank"}」『愛知淑徳大学論集 交流文化学部篇』(3): 111-124.
 -   石館三枝子, 1980,「[カイコの眼色に関する吉川秀男の研究について（1937〜1950）](https://ci.nii.ac.jp/naid/110009699518){:target="_blank"}」『科学史研究 第II期』19: 129-139.
--   石黒格, 2011,「[分位点回帰分析を用いた知人数の分析：分布の差異を予測する](https://doi.org/10.11218/ojjams.26.389)」『理論と方法』26(2){:target="_blank"}: 389-403.
--   石黒格・安野智子・柴内康文, 2000,「[Dynamic Social Impact Theoryシミュレーションへの全体情報の導入：マス・コミュニケーションの「強力効果」は社会を統合するか？](http://ci.nii.ac.jp/naid/110002785361)」『社会心理学研究』16(2){:target="_blank"}: 114-123.
--   石川久展・冷水豊・山口麻衣, 2009,「[高年者のソーシャルネットワークの特徴と生活満足度との関連に関する研究：4つの地域特性別分析の試み](http://hdl.handle.net/10236/3487)」『人間福祉学研究』2(1){:target="_blank"}: 49-60.
--   石川准, 1988,「[社会運動の戦略的ディレンマ：制度変革と自己変革の狭間で](https://doi.org/10.4057/jsr.39.153)」『社会学評論』39(2){:target="_blank"}: 153-167.
--   石川幹人, 2016,「[情報に踊らされないための化学リテラシー：サプリメント広告を例にして](https://doi.org/10.20665/kakyoshi.64.9_432)」『化学と教育』64(9){:target="_blank"}: 432-435.
+-   石黒格, 2011,「[分位点回帰分析を用いた知人数の分析：分布の差異を予測する](https://doi.org/10.11218/ojjams.26.389){:target="_blank"}」『理論と方法』26(2): 389-403.
+-   石黒格・安野智子・柴内康文, 2000,「[Dynamic Social Impact Theoryシミュレーションへの全体情報の導入：マス・コミュニケーションの「強力効果」は社会を統合するか？](http://ci.nii.ac.jp/naid/110002785361){:target="_blank"}」『社会心理学研究』16(2): 114-123.
+-   石川久展・冷水豊・山口麻衣, 2009,「[高年者のソーシャルネットワークの特徴と生活満足度との関連に関する研究：4つの地域特性別分析の試み](http://hdl.handle.net/10236/3487){:target="_blank"}」『人間福祉学研究』2(1): 49-60.
+-   石川准, 1988,「[社会運動の戦略的ディレンマ：制度変革と自己変革の狭間で](https://doi.org/10.4057/jsr.39.153){:target="_blank"}」『社会学評論』39(2): 153-167.
+-   石川幹人, 2016,「[情報に踊らされないための化学リテラシー：サプリメント広告を例にして](https://doi.org/10.20665/kakyoshi.64.9_432){:target="_blank"}」『化学と教育』64(9): 432-435.
 -   石川義孝・竹下修子・LIAW Kao-Lee・花岡和聖, 2018,「[戦略としての国境を越えた結婚：在米外国生まれの妻と夫の年齢差に基づく検討](http://hdl.handle.net/2433/229557){:target="_blank"}」『京都大学文学部研究紀要』57: 135-154.
 -   伊藤理史, 2016,「[現代日本における大衆民主主義の変容：階級・階層研究としての日本政治社会学再考](https://doi.org/10.18910/57228){:target="_blank"}」『大阪大学大学院人間科学研究科紀要』42: 309-328.
 -   伊藤理史, 2017,「[日本人の政治的疎外意識：政治的有効性感覚のコーホート分析](https://doi.org/10.20791/ksr.16.0_15){:target="_blank"}」『フォーラム現代社会学』16: 15-28.
--   糸賀大地・佐藤紀子, 2018,「[看護師の医療事故へのおもいに関する研究の現状と課題：医療安全の歴史的変遷を踏まえて](http://hdl.handle.net/10470/00032068)」『東京女子医科大学看護学会誌』13(1){:target="_blank"}: 28-33.
+-   糸賀大地・佐藤紀子, 2018,「[看護師の医療事故へのおもいに関する研究の現状と課題：医療安全の歴史的変遷を踏まえて](http://hdl.handle.net/10470/00032068){:target="_blank"}」『東京女子医科大学看護学会誌』13(1): 28-33.
 -   岩﨑眞和・五十嵐透子, 2015,「[青年期のソーシャル・サポート希求行動におよぼす統制感と文化的自己観の影響](http://hdl.handle.net/10513/2787){:target="_blank"}」『上越教育大学研究紀要』34: 121-128.
--   岩澤美帆, 2013,「[失われた結婚，増大する結婚：初婚タイプ別初婚表を用いた1970年代以降の未婚化と初婚構造の分析](https://ci.nii.ac.jp/naid/40019728704)」『人口問題研究』69(2){:target="_blank"}: 1-34.
+-   岩澤美帆, 2013,「[失われた結婚，増大する結婚：初婚タイプ別初婚表を用いた1970年代以降の未婚化と初婚構造の分析](https://ci.nii.ac.jp/naid/40019728704){:target="_blank"}」『人口問題研究』69(2): 1-34.
 -   岩田弘三, 1999,「理工系人材養成をめぐる問題：理工系離れ、科学技術離れ、理科離れ」中山茂・後藤郁夫・吉岡斉編『通史 日本の科学技術』5-II巻, 学陽書房, 586-599.
--   岩谷舟真・村本由紀子, 2017,「[規範遵守行動を導く2つの評判：居住地の流動性と個人の関係構築力に応じた評判の効果](https://doi.org/10.14966/jssp.1619)」『社会心理学研究』33(1){:target="_blank"}: 16-25.
+-   岩谷舟真・村本由紀子, 2017,「[規範遵守行動を導く2つの評判：居住地の流動性と個人の関係構築力に応じた評判の効果](https://doi.org/10.14966/jssp.1619){:target="_blank"}」『社会心理学研究』33(1): 16-25.
 
 ### J
 
 -   Jarvie, Ian C., and Jesus Zamora-Bonilla eds., 2011, [_The SAGE Handbook of the Philosophy of Social Sciences_](https://www.amazon.co.jp/Handbook-Philosophy-Social-Sciences-Handbooks/dp/1847874002/ref%3Das_li_ss_tl%3Fs%3Denglish-books%26ie%3DUTF8%26qid%3D1545254991%26sr%3D1-13%26keywords%3DSAGE%2BHandbook%2Bof%2Bthe%2BPhilosophy%2Bof%2BSocial%2BSciences%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3Df93584973f5865284c7c4fea664b172b%26language%3Dja_JP){:target="_blank"}, London: Sage.
    -   Steel, Daniel, "Causality, Causal Models, and Social Mechanisms" pp. 288-304.
--   Jenkins, E. W., 1999, "[School Science, Citizenship and the Public Understanding of Science](https://doi.org/10.1080/095006999290363)," _International Journal of Science Education_, 21(7){:target="_blank"}: 703-710.
+-   Jenkins, E. W., 1999, "[School Science, Citizenship and the Public Understanding of Science](https://doi.org/10.1080/095006999290363){:target="_blank"}," _International Journal of Science Education_, 21(7): 703-710.
 -   鄭炳浩, 2020,「[日本の代わりに朝鮮半島が分断された理由](http://japan.hani.co.kr/arti/opinion/37479.html){:target="_blank"}」『ハンギョレ新聞』2020年8月14日.
 
 ### K
 
 -   香川めい・相澤真一, 2006,「[戦後日本における高卒学歴の意味の変遷：教育拡大過程前後の主観的期待と客観的効用の継時的布置連関](https://doi.org/10.11151/eds1951.78.279){:target="_blank"}」『教育社会学研究』78: 279-301.
--   柿本佳美, 2009,「[近代日本の優生学の受容と科学主義](https://doi.org/10.18910/4457)」『医療・生命と倫理・社会』(8){:target="_blank"}: 104-111.
--   柿澤寿信・梅崎修, 2010,「[評価・賃金・仕事が労働意欲に与える影響：人事マイクロデータとアンケート調査による実証分析](https://ci.nii.ac.jp/naid/40017112569)」『日本労働研究雑誌』(598){:target="_blank"}: 67-82.
--   角崎洋平, 2013,「[選択結果の過酷性をめぐる一考察：福祉国家における自由・責任・リベラリズム](http://hdl.handle.net/10367/8751)」『立命館言語文化研究』24(4){:target="_blank"}: 43-57.
+-   柿本佳美, 2009,「[近代日本の優生学の受容と科学主義](https://doi.org/10.18910/4457){:target="_blank"}」『医療・生命と倫理・社会』(8): 104-111.
+-   柿澤寿信・梅崎修, 2010,「[評価・賃金・仕事が労働意欲に与える影響：人事マイクロデータとアンケート調査による実証分析](https://ci.nii.ac.jp/naid/40017112569){:target="_blank"}」『日本労働研究雑誌』(598): 67-82.
+-   角崎洋平, 2013,「[選択結果の過酷性をめぐる一考察：福祉国家における自由・責任・リベラリズム](http://hdl.handle.net/10367/8751){:target="_blank"}」『立命館言語文化研究』24(4): 43-57.
 -   『科学朝日』編, 1997,『[スキャンダルの科学史](https://www.amazon.co.jp/%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25AB%25E3%2581%25AE%25E7%25A7%2591%25E5%25AD%25A6%25E5%258F%25B2-%25E6%259C%259D%25E6%2597%25A5%25E9%2581%25B8%25E6%259B%25B8-%25E3%2580%258E%25E7%25A7%2591%25E5%25AD%25A6%25E6%259C%259D%25E6%2597%25A5%25E3%2580%258F/dp/4022596708/ref%3Das_li_ss_tl%3FSubscriptionId%3D1JWRNY3N2WTG6R0SNH82%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D4180268df8b96bd92251f62d38354825){:target="_blank"}』朝日新聞社.
    -   鬼頭秀一,「ルィセンコ学説事件：徳田御稔」pp. 243-254.
 -   加茂直樹編, 2001,『[社会哲学を学ぶ人のために](https://www.amazon.co.jp/%25E7%25A4%25BE%25E4%25BC%259A%25E5%2593%25B2%25E5%25AD%25A6%25E3%2582%2592%25E5%25AD%25A6%25E3%2581%25B6%25E4%25BA%25BA%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB-%25E5%258A%25A0%25E8%258C%2582-%25E7%259B%25B4%25E6%25A8%25B9/dp/4790708764/ref%3Das_li_ss_tl%3Fie%3DUTF8%26qid%3D1537972082%26sr%3D8-1%26keywords%3D%25E7%25A4%25BE%25E4%25BC%259A%25E5%2593%25B2%25E5%25AD%25A6%25E3%2582%2592%25E5%25AD%25A6%25E3%2581%25B6%25E4%25BA%25BA%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D33335bc973cb98de2c4408c5813f9664%26language%3Dja_JP){:target="_blank"}』世界思想社.
    -   江口聡,「知的所有権の正当化」pp. 250-260.
--   金井郁, 2013,「[『多様な正社員』施策と女性の働き方への影響](https://ci.nii.ac.jp/naid/40019728151)」『日本労働研究雑誌』55(7){:target="_blank"}: 63-76.
--   金井郁, 2015,「[なぜ女性の仕事は易しいと評価されるのか：生命保険営業職の位置づけをめぐって](https://ci.nii.ac.jp/naid/40020540327)」『家計経済研究』(107){:target="_blank"}: 26-35.
--   金井雅之, 2014,「[中堅層大学における数理社会学教育：授業内容例と学生の反応](https://doi.org/10.11218/ojjams.29.123)」『理論と方法』29(1){:target="_blank"}: 123-130.
--   金谷信子, 2013,「[日本の伝統宗教とソーシャル・キャピタル：神社活動を事例に](https://doi.org/10.18910/26027)」『宗教と社会貢献』3(2){:target="_blank"}: 1-25.
--   金澤悠介, 2018,「[『階層意識としての不公平感』再考：潜在クラス分析によるアプローチ](https://ci.nii.ac.jp/naid/40021521117)」『社会学研究』(101){:target="_blank"}: 37-59.
--   神原文子, 2001,「[〈教育する家族〉の家族問題](https://doi.org/10.4234/jjoffamilysociology.12.197)」『家族社会学研究』12(2){:target="_blank"}: 197-207.
--   神原文子, 2007,「[ひとり親家族と社会的排除](https://doi.org/10.4234/jjoffamilysociology.18.2_11)」『家族社会学研究』18(2){:target="_blank"}: 11-24.
--   神林博史, 2005,「[政治的態度におけるDK回答と政治的行動](https://doi.org/10.4057/jsr.56.452)」『社会学評論』56(2){:target="_blank"}: 452-467.
--   神林博史, 2006,「[階層帰属意識とジェンダー：分布の男女差に関する意識](http://id.nii.ac.jp/1204/00000129/)」『東北学院大学教養学部論集』(143){:target="_blank"}: 95-123.
--   神林博史, 2012,「[『総中流』と不平等をめぐる言説：戦後日本における階層帰属意識に関するノート（3）](http://id.nii.ac.jp/1204/00023147/)」『東北学院大学教養学部論集』(161){:target="_blank"}: 67-90.
--   神林博史, 2019,「[ビッグデータと社会調査：特集『社会調査に携わる人のためのビッグデータ入門』について](https://ci.nii.ac.jp/naid/40021895510)」『社会と調査』(22){:target="_blank"}: 5-7.
+-   金井郁, 2013,「[『多様な正社員』施策と女性の働き方への影響](https://ci.nii.ac.jp/naid/40019728151){:target="_blank"}」『日本労働研究雑誌』55(7): 63-76.
+-   金井郁, 2015,「[なぜ女性の仕事は易しいと評価されるのか：生命保険営業職の位置づけをめぐって](https://ci.nii.ac.jp/naid/40020540327){:target="_blank"}」『家計経済研究』(107): 26-35.
+-   金井雅之, 2014,「[中堅層大学における数理社会学教育：授業内容例と学生の反応](https://doi.org/10.11218/ojjams.29.123){:target="_blank"}」『理論と方法』29(1): 123-130.
+-   金谷信子, 2013,「[日本の伝統宗教とソーシャル・キャピタル：神社活動を事例に](https://doi.org/10.18910/26027){:target="_blank"}」『宗教と社会貢献』3(2): 1-25.
+-   金澤悠介, 2018,「[『階層意識としての不公平感』再考：潜在クラス分析によるアプローチ](https://ci.nii.ac.jp/naid/40021521117){:target="_blank"}」『社会学研究』(101): 37-59.
+-   神原文子, 2001,「[〈教育する家族〉の家族問題](https://doi.org/10.4234/jjoffamilysociology.12.197){:target="_blank"}」『家族社会学研究』12(2): 197-207.
+-   神原文子, 2007,「[ひとり親家族と社会的排除](https://doi.org/10.4234/jjoffamilysociology.18.2_11){:target="_blank"}」『家族社会学研究』18(2): 11-24.
+-   神林博史, 2005,「[政治的態度におけるDK回答と政治的行動](https://doi.org/10.4057/jsr.56.452){:target="_blank"}」『社会学評論』56(2): 452-467.
+-   神林博史, 2006,「[階層帰属意識とジェンダー：分布の男女差に関する意識](http://id.nii.ac.jp/1204/00000129/){:target="_blank"}」『東北学院大学教養学部論集』(143): 95-123.
+-   神林博史, 2012,「[『総中流』と不平等をめぐる言説：戦後日本における階層帰属意識に関するノート（3）](http://id.nii.ac.jp/1204/00023147/){:target="_blank"}」『東北学院大学教養学部論集』(161): 67-90.
+-   神林博史, 2019,「[ビッグデータと社会調査：特集『社会調査に携わる人のためのビッグデータ入門』について](https://ci.nii.ac.jp/naid/40021895510){:target="_blank"}」『社会と調査』(22): 5-7.
 -   神田貴司・當山清実, 2018,「[公立高等学校における教頭の長時間勤務の是正策に関する一考察：超過勤務時間の実態区分に着目して](http://hdl.handle.net/10132/17711){:target="_blank"}」『兵庫教育大学学校教育学研究』31: 39-46.
 -   金児暁嗣・結城雅樹編, 2005,『[文化行動の社会心理学：文化を生きる人間のこころと行動](https://www.amazon.co.jp/%25E6%2596%2587%25E5%258C%2596%25E8%25A1%258C%25E5%258B%2595%25E3%2581%25AE%25E7%25A4%25BE%25E4%25BC%259A%25E5%25BF%2583%25E7%2590%2586%25E5%25AD%25A6%25E2%2580%2595%25E6%2596%2587%25E5%258C%2596%25E3%2582%2592%25E7%2594%259F%25E3%2581%258D%25E3%2582%258B%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25AE%25E3%2581%2593%25E3%2581%2593%25E3%2582%258D%25E3%2581%25A8%25E8%25A1%258C%25E5%258B%2595-%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA21%25E4%25B8%2596%25E7%25B4%2580%25E3%2581%25AE%25E7%25A4%25BE%25E4%25BC%259A%25E5%25BF%2583%25E7%2590%2586%25E5%25AD%25A6-%25E9%2587%2591%25E5%2585%2590-%25E6%259A%2581%25E5%2597%25A3/dp/4762824305/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D373291dcee6ab5cf1da6fc0b219175d9%26language%3Dja_JP){:target="_blank"}』北大路書房.
    -   清水寛之,「文化と記憶」pp. 8-19.
@@ -452,113 +452,113 @@ title: 整理棚
    -   長谷川公一,「社会変動研究の理論的課題」pp. 23-49.
    -   佐藤嘉倫,「社会変動のミクロ―マクロ理論」pp. 51-76.
 -   Kaneko, Motohisa, 2014, "Higher Education and Work in Japan: Characteristics and Challenges," [_Japan Labor Review_](https://www.jil.go.jp/english/JLR/backissues/2014.html){:target="_blank"}: 5-22.
--   兼子諭・徳安彰, 2012,「[タルコット・パーソンズの日本社会学における受容過程の分析：従来のパーソンズ受容の認識に対する『社会学評論』調査による応答](http://ci.nii.ac.jp/naid/40019250432)」『社会志林』58(4){:target="_blank"}: 143-162.
+-   兼子諭・徳安彰, 2012,「[タルコット・パーソンズの日本社会学における受容過程の分析：従来のパーソンズ受容の認識に対する『社会学評論』調査による応答](http://ci.nii.ac.jp/naid/40019250432){:target="_blank"}」『社会志林』58(4): 143-162.
 -   金内颯斗・野中誠, 2018,「[働き方改革施策が従業員の職務満足に与える影響](https://jglobal.jst.go.jp/detail%3FJGLOBAL_ID%3D201802224929479280){:target="_blank"}」『経営情報学会全国研究発表大会要旨集』2018年度, 273-276.
 -   姜在彦, 2002,「[『在日』百年の歴史](https://ci.nii.ac.jp/naid/40005583558){:target="_blank"}」『環』11: 152-164.
 -   加納安彦, 2018,「[健康や医療に関する疑似科学はどれほど浸透しているか：医療従事者と市民を比較して](https://doi.org/10.14935/jssep.42.0_337){:target="_blank"}」『日本科学教育学会年会論文集』42: 337-340.
--   唐沢かおり・月本敬, 2010,「[情報処理スタイルが不思議現象の信じやすさに及ぼす影響](https://doi.org/10.4189/shes.8.1)」『人間環境学研究』8(1){:target="_blank"}: 1-5.
--   Karasawa, Minoru, 2002,"[Patriotism, Nationalism, and Internationalism among Japanese Citizens: An Etic-Emic Approach](https://doi.org/10.1111/0162-895X.00302)," _Political Psychology_, 23(4){:target="_blank"}: 645-666.
--   狩谷あゆみ, 2013,「[『出世する女』はお嫌いですか？ 1997年『東電OL殺人事件』に関するマスコミ報道を事例として](http://id.nii.ac.jp/1080/00001987/)」『広島修大論集』53(2){:target="_blank"}: 67-83.
--   片田孫朝日, 2007,「[男子たちのおばかな協同活動：学童クラブのおやつ時間の注意に対するふざけとからかいの集合的実践](http://hdl.handle.net/2433/192694)」『京都社会学年報』(15){:target="_blank"}: 65-86.
+-   唐沢かおり・月本敬, 2010,「[情報処理スタイルが不思議現象の信じやすさに及ぼす影響](https://doi.org/10.4189/shes.8.1){:target="_blank"}」『人間環境学研究』8(1): 1-5.
+-   Karasawa, Minoru, 2002,"[Patriotism, Nationalism, and Internationalism among Japanese Citizens: An Etic-Emic Approach](https://doi.org/10.1111/0162-895X.00302){:target="_blank"}," _Political Psychology_, 23(4): 645-666.
+-   狩谷あゆみ, 2013,「[『出世する女』はお嫌いですか？ 1997年『東電OL殺人事件』に関するマスコミ報道を事例として](http://id.nii.ac.jp/1080/00001987/){:target="_blank"}」『広島修大論集』53(2): 67-83.
+-   片田孫朝日, 2007,「[男子たちのおばかな協同活動：学童クラブのおやつ時間の注意に対するふざけとからかいの集合的実践](http://hdl.handle.net/2433/192694){:target="_blank"}」『京都社会学年報』(15): 65-86.
 -   片岡栄美編, 1998,『[文化と社会階層](http://srdq.hus.osaka-u.ac.jp/metadata.cgi%3Flang%3Djp%26page%3Drefs%26rid%3D12){:target="_blank"}（1995年SSM調査シリーズ18）』1995年SSM調査研究会.
    -   片岡栄美,「地位形成に及ぼす読書文化と芸術文化の効果：教育・職業・結婚における文化資本の転換効果と収益」pp. 171-191.
    -   片岡栄美,「文化弁別力と文化威信スコア：文化評価の構造と社会階層」pp. 249-261.
--   片岡えみ, 2016,「[友人選択の基準にみる象徴的境界：バウンダリー・ワークとしての友人選択](https://ci.nii.ac.jp/naid/120006618516)」『駒澤社会学研究』(48){:target="_blank"}: 39-70.
--   片岡栄美, 2018,「[文化的オムニボア再考：複数ハビトゥスと文脈の概念からみた文化実践の多次元性と測定](https://ci.nii.ac.jp/naid/120006618907)」『駒澤社会学研究』(50){:target="_blank"}: 17-60.
--   片岡栄美, 2018,「[子育て実践と子育て意識の階級差に関する研究](https://ci.nii.ac.jp/naid/120006619003/)」『駒澤大学文学部研究紀要』(76){:target="_blank"}: 1-27.
--   片瀬一男, 2004,「[親密圏のポリティクスのなかの性的被害：女子大学生の性的被害の現状を中心に](https://ci.nii.ac.jp/naid/40006353842)」『東北学院大学論集 人間・言語・情報』(138){:target="_blank"}: 1-17.
--   片山恵二朗・中西美和, 2016,「[安全管理活動に対する個人の態度特性と自発的なモチベーションとの関係：内発的動機づけに関する心理学理論を応用して](https://doi.org/10.11443/jphf.21.1_24)」『ヒューマンファクターズ』21(1){:target="_blank"}: 24-33.
+-   片岡えみ, 2016,「[友人選択の基準にみる象徴的境界：バウンダリー・ワークとしての友人選択](https://ci.nii.ac.jp/naid/120006618516){:target="_blank"}」『駒澤社会学研究』(48): 39-70.
+-   片岡栄美, 2018,「[文化的オムニボア再考：複数ハビトゥスと文脈の概念からみた文化実践の多次元性と測定](https://ci.nii.ac.jp/naid/120006618907){:target="_blank"}」『駒澤社会学研究』(50): 17-60.
+-   片岡栄美, 2018,「[子育て実践と子育て意識の階級差に関する研究](https://ci.nii.ac.jp/naid/120006619003/){:target="_blank"}」『駒澤大学文学部研究紀要』(76): 1-27.
+-   片瀬一男, 2004,「[親密圏のポリティクスのなかの性的被害：女子大学生の性的被害の現状を中心に](https://ci.nii.ac.jp/naid/40006353842){:target="_blank"}」『東北学院大学論集 人間・言語・情報』(138): 1-17.
+-   片山恵二朗・中西美和, 2016,「[安全管理活動に対する個人の態度特性と自発的なモチベーションとの関係：内発的動機づけに関する心理学理論を応用して](https://doi.org/10.11443/jphf.21.1_24){:target="_blank"}」『ヒューマンファクターズ』21(1): 24-33.
 -   加藤彰彦, 2010,「グローバル化の限界・ローカル化の可能性：人工変動から読み解く21世紀の世界と日本」明治大学政治経済学部編『ようこそ！政治経済学部の知の世界へ』明治大学政治経済学部, 109-126.
--   加藤尚武, 1997,「[現象学批判](https://ci.nii.ac.jp/naid/40004514891)」『現象学年報』(13){:target="_blank"}: 55-66.
--   加藤尚武, 2015,「[臨床と予防：放射線障害の認識論](http://doi.org/10.15083/00026764)」『死生学・応用倫理研究』(20){:target="_blank"}: 159-177.
--   加藤純子, 2009,「[ワーク・ライフ・バランスを実現する職場環境：出版社A社の事例から](https://ci.nii.ac.jp/naid/40016452817)」『日本労働研究雑誌』(583){:target="_blank"}: 47-56.
--   河野銀子, 2009,「[女子高等教育の量的拡大と質的変容：1990年度以降の変化に注目して](http://id.nii.ac.jp/1348/00001709/)」『山形大学紀要（教育科学）』14(4){:target="_blank"}: 359-370.
--   河野銀子, 2009,「[女子高校生の『文』『理』選択の実態と課題](http://ci.nii.ac.jp/naid/40016900701)」『科学技術社会論研究』(7){:target="_blank"}: 21-33.
--   河崎健, 2010,「[2009年ドイツ連邦議会選挙の分析：連立政策の新展開と各党の支持動員戦略](https://doi.org/10.14854/jaes.26.1_78)」『選挙研究』26(1){:target="_blank"}: 78-87.
+-   加藤尚武, 1997,「[現象学批判](https://ci.nii.ac.jp/naid/40004514891){:target="_blank"}」『現象学年報』(13): 55-66.
+-   加藤尚武, 2015,「[臨床と予防：放射線障害の認識論](http://doi.org/10.15083/00026764){:target="_blank"}」『死生学・応用倫理研究』(20): 159-177.
+-   加藤純子, 2009,「[ワーク・ライフ・バランスを実現する職場環境：出版社A社の事例から](https://ci.nii.ac.jp/naid/40016452817){:target="_blank"}」『日本労働研究雑誌』(583): 47-56.
+-   河野銀子, 2009,「[女子高等教育の量的拡大と質的変容：1990年度以降の変化に注目して](http://id.nii.ac.jp/1348/00001709/){:target="_blank"}」『山形大学紀要（教育科学）』14(4): 359-370.
+-   河野銀子, 2009,「[女子高校生の『文』『理』選択の実態と課題](http://ci.nii.ac.jp/naid/40016900701){:target="_blank"}」『科学技術社会論研究』(7): 21-33.
+-   河崎健, 2010,「[2009年ドイツ連邦議会選挙の分析：連立政策の新展開と各党の支持動員戦略](https://doi.org/10.14854/jaes.26.1_78){:target="_blank"}」『選挙研究』26(1): 78-87.
 -   上總康行, 2010,「[京セラのアメーバ経営の仕組み：機会損失の創出と全員参加経営の視点から](https://ci.nii.ac.jp/naid/40018879708){:target="_blank"}」『関西大学経済・政治研究所セミナー年報』2010: 131-146.
--   Kearney, William S., 2012, "[Defining a Discipline: George Gaylord Simpson and the Invention of Modern Paleontology](https://repository.upenn.edu/momentum/vol1/iss2/5)," _Momentum_, 1(2){:target="_blank"}: Article 5.
+-   Kearney, William S., 2012, "[Defining a Discipline: George Gaylord Simpson and the Invention of Modern Paleontology](https://repository.upenn.edu/momentum/vol1/iss2/5){:target="_blank"}," _Momentum_, 1(2): Article 5.
 -   Kevles, Daniel J., 1980, "[Genetics in the United States and Great Britain, 1890-1930: A Review with Speculations](https://doi.org/10.1086/352543){:target="_blank"}," _ISIS_, 71: 441-455.
--   吉川徹, 1994,「[現代社会における権威主義的態度尺度の有用性：環境保護意識、ヘルス・コンシャスの分析視角として](https://doi.org/10.14959/soshioroji.39.2_125)」『ソシオロジ』39(2){:target="_blank"}: 125-137.
--   菊地英明, 2007,「[排除されているのは誰か？ 『社会生活に関する実態調査』からの検討](https://ci.nii.ac.jp/naid/40015526854)」『季刊社会保障研究』43(1){:target="_blank"}: 4-14.
+-   吉川徹, 1994,「[現代社会における権威主義的態度尺度の有用性：環境保護意識、ヘルス・コンシャスの分析視角として](https://doi.org/10.14959/soshioroji.39.2_125){:target="_blank"}」『ソシオロジ』39(2): 125-137.
+-   菊地英明, 2007,「[排除されているのは誰か？ 『社会生活に関する実態調査』からの検討](https://ci.nii.ac.jp/naid/40015526854){:target="_blank"}」『季刊社会保障研究』43(1): 4-14.
 -   菊池信輝, 1998,「[官僚神話の源流を追う](https://cruel.org/other/stupidburo.html){:target="_blank"}」（※出典として挙げられている別冊宝島『官僚くんが行く』が見つからない）
--   菊池信輝, 2018,「[安倍政権の社会・労働政策と経営者団体](http://hdl.handle.net/10114/14265)」『大原社会問題研究所雑誌』(715){:target="_blank"}: 2-14.
+-   菊池信輝, 2018,「[安倍政権の社会・労働政策と経営者団体](http://hdl.handle.net/10114/14265){:target="_blank"}」『大原社会問題研究所雑誌』(715): 2-14.
 -   菊池聡, 2013,「[学校教員と生徒の超常信奉と科学への態度](https://doi.org/10.20587/pamjaep.55.0_288){:target="_blank"}」『日本教育心理学会第55回総会発表論文集』p. 288.
 -   菊池聡, 2017,「[中学高校生の疑似科学信奉と科学への態度の関連性](http://hdl.handle.net/10091/00019622){:target="_blank"}」『信州大学人文科学論集』4: 39-52.
--   菊池聡・石川幹人, 2015,「[高齢者の疑似科学信念と健康法への態度 : 「科学的に疑わしい」という批判をどう受け止めるか](http://ci.nii.ac.jp/naid/110010014201)」『日本教育心理学会総会発表論文集』(57){:target="_blank"}: 307.
+-   菊池聡・石川幹人, 2015,「[高齢者の疑似科学信念と健康法への態度 : 「科学的に疑わしい」という批判をどう受け止めるか](http://ci.nii.ac.jp/naid/110010014201){:target="_blank"}」『日本教育心理学会総会発表論文集』(57): 307.
 -   金明秀, 2015,「[日本における排外主義の規定要因：社会意識論のフレームを用いて](https://doi.org/10.20791/ksr.14.0_36){:target="_blank"}」『フォーラム現代社会学』14: 36-53.
 -   Kim, Sung Ho, 2012, "[Max Weber](https://plato.stanford.edu/archives/fall2012/entries/weber/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 -   木村祐子・小針誠, 2009,「[『PTSD』はいかに語られたか：新聞記事における心理主義化現象の分析](http://hdl.handle.net/10083/49026){:target="_blank"}」『人間文化創成科学論叢』12: 191-199.
 -   紀葉子, 2001,「[現代日本社会における『ディスタンクシオン』：中流幻想の陥穽あるいは日本社会学界におけるブルデュー社会学の悲惨](https://doi.org/10.20811/nichifutsusocio.11.0_53){:target="_blank"}」『日仏社会学会年報』11: 53-64.
--   木下昭, 2004,「[民族ダンスの創造と国民国家フィリピンの形成](https://ci.nii.ac.jp/naid/40006132738)」『立命館言語文化研究』15(4){:target="_blank"}: 65-76.
--   Kiser, Edgar, and Michael Hechter, 1998, "[The Debate on Historical Sociology: Rational Choice Theory and Its Critics](https://doi.org/10.1086/210086)," _American Journal of Sociology_, 104(3){:target="_blank"}: 785-816.
+-   木下昭, 2004,「[民族ダンスの創造と国民国家フィリピンの形成](https://ci.nii.ac.jp/naid/40006132738){:target="_blank"}」『立命館言語文化研究』15(4): 65-76.
+-   Kiser, Edgar, and Michael Hechter, 1998, "[The Debate on Historical Sociology: Rational Choice Theory and Its Critics](https://doi.org/10.1086/210086){:target="_blank"}," _American Journal of Sociology_, 104(3): 785-816.
 -   北田暁大, 2017,「[脱成長派は優し気な仮面を被ったトランピアンである：上野千鶴子氏の『移民論』と日本特殊性論の左派的転用](https://synodos.jp/politics/19136){:target="_blank"}」SYNODOS, 2017年2月21日.
--   北居明, 2004,「[80年代における『強い文化』論をめぐる諸議論について](http://doi.org/10.24729/00001248)」『経済研究』50(1){:target="_blank"}: 287-306.
--   北居明, 2016,「[組織文化の構造と変革プロセスに対する批判的考察：社会構築主義的観点から](http://doi.org/10.14990/00002204)」『甲南経営研究』57(1){:target="_blank"}: 199-225.
--   北居明, 2019,「[解釈の遠近法：組織開発・組織変革に対する含意を求めて](http://doi.org/10.14990/00003396)」『甲南経営研究』60(1-2){:target="_blank"}: 117-135.
--   Kitcher, Patricia, 1995, "[Revisiting Kant's Epistemology: Skepticism, Apriority, and Psychologism](https://www.jstor.org/stable/2215601)," _Noûs_, 29(3){:target="_blank"}: 285-315.
--   Kitcher, Philip, 1990, "[The Division of Cognitive Labor](https://philpapers.org/rec/KITTDO-5)," _The Journal of Philosophy_, 87(1){:target="_blank"}: 5-22.
+-   北居明, 2004,「[80年代における『強い文化』論をめぐる諸議論について](http://doi.org/10.24729/00001248){:target="_blank"}」『経済研究』50(1): 287-306.
+-   北居明, 2016,「[組織文化の構造と変革プロセスに対する批判的考察：社会構築主義的観点から](http://doi.org/10.14990/00002204){:target="_blank"}」『甲南経営研究』57(1): 199-225.
+-   北居明, 2019,「[解釈の遠近法：組織開発・組織変革に対する含意を求めて](http://doi.org/10.14990/00003396){:target="_blank"}」『甲南経営研究』60(1-2): 117-135.
+-   Kitcher, Patricia, 1995, "[Revisiting Kant's Epistemology: Skepticism, Apriority, and Psychologism](https://www.jstor.org/stable/2215601){:target="_blank"}," _Noûs_, 29(3): 285-315.
+-   Kitcher, Philip, 1990, "[The Division of Cognitive Labor](https://philpapers.org/rec/KITTDO-5){:target="_blank"}," _The Journal of Philosophy_, 87(1): 5-22.
 -   小針誠, 2011,「[高度経済成長期における家族と家族のおこなう教育：大衆社会における家族の格差と子どもの教育の不平等](http://doi.org/10.15020/00000324){:target="_blank"}」『同志社女子大学学術研究年報』62: 71-81.
--   小林敦子・田中賢一郎, 2010,「[ジェンダー・ハラスメント測定尺度の作成](https://doi.org/10.32222/jaiop.24.1_15)」『産業・組織心理学研究』24(1){:target="_blank"}: 15-27.
+-   小林敦子・田中賢一郎, 2010,「[ジェンダー・ハラスメント測定尺度の作成](https://doi.org/10.32222/jaiop.24.1_15){:target="_blank"}」『産業・組織心理学研究』24(1): 15-27.
 -   小林江里香, 2014,「日本の高齢者はどのように変化しているか：全国高齢者の健康と生活に関する長期縦断研究における1987年、1999年、2012年調査の比較より」『中央調査報』(679): 1-5.
--   小林盾, 2002,「[社会規範の数理社会学にむけて](https://doi.org/10.11218/ojjams.17.183)」『理論と方法』17(2){:target="_blank"}: 183-194.
--   小林盾, 2010,「[社会階層と食生活：健康への影響の分析](https://doi.org/10.11218/ojjams.25.81)」『理論と方法』25(1){:target="_blank"}: 81-93.
--   小林盾, 2011,「[食生活の評価の構造：食料威信スコアと飲料威信スコアの測定をとおして](http://hdl.handle.net/10928/84)」『成蹊大学文学部紀要』(46){:target="_blank"}: 125-136.
--   小林盾, 2012,「[恋愛の壁、結婚の壁：ソーシャル・キャピタルの役割](http://hdl.handle.net/10928/216)」『成蹊大学文学部紀要』(47){:target="_blank"}: 157-164.
--   小林盾, 2017,「[容姿の自己評価は他者からの評価と一致するのか：自計式調査による測定の可能性](http://hdl.handle.net/10928/907)」『成蹊大学文学部紀要』(52){:target="_blank"}: 123-133.
+-   小林盾, 2002,「[社会規範の数理社会学にむけて](https://doi.org/10.11218/ojjams.17.183){:target="_blank"}」『理論と方法』17(2): 183-194.
+-   小林盾, 2010,「[社会階層と食生活：健康への影響の分析](https://doi.org/10.11218/ojjams.25.81){:target="_blank"}」『理論と方法』25(1): 81-93.
+-   小林盾, 2011,「[食生活の評価の構造：食料威信スコアと飲料威信スコアの測定をとおして](http://hdl.handle.net/10928/84){:target="_blank"}」『成蹊大学文学部紀要』(46): 125-136.
+-   小林盾, 2012,「[恋愛の壁、結婚の壁：ソーシャル・キャピタルの役割](http://hdl.handle.net/10928/216){:target="_blank"}」『成蹊大学文学部紀要』(47): 157-164.
+-   小林盾, 2017,「[容姿の自己評価は他者からの評価と一致するのか：自計式調査による測定の可能性](http://hdl.handle.net/10928/907){:target="_blank"}」『成蹊大学文学部紀要』(52): 123-133.
 -   小林盾・武藤正義・渡邉大輔・香川めい・見田朱子, 2015,「[回収率70%への挑戦：郵送調査でどのように接触を最小化できるのか](http://hdl.handle.net/10928/862){:target="_blank"}」『成蹊大学一般研究報告』49: 1-16.
--   小林盾・谷本奈穂, 2016,「[容姿と社会的不平等：キャリア形成、家族形成、心理にどう影響するのか](http://hdl.handle.net/10928/760)」『成蹊大学文学部紀要』(51){:target="_blank"}: 99-113.
--   小林和夫, 2004,「[インドネシアにおける『伝統』の実践とポリティクス：新秩序体制下のゴトン・ロヨン（相互扶助）と都市住民組織RT/RWの夜警をめぐって](https://doi.org/10.4057/jsr.55.98)」『社会学評論』55(2){:target="_blank"}: 98-114.
--   小林雅之, 2018,「[高等教育費負担の国際比較と日本の課題](https://ci.nii.ac.jp/naid/40021615659)」『日本労働研究雑誌』(694){:target="_blank"}: 4-15.
--   小林道夫, 1990,「[科学的世界と日常的世界：デカルトとウィトゲンシュタイン](https://doi.org/10.11439/philosophy1952.1990.48)」『哲学』(40){:target="_blank"}: 48-68.
--   小林傳司, 1998,「[日本における進化論受容の評価をめぐって](https://ci.nii.ac.jp/naid/110000130179)」『アカデミア 人文・社会科学編』(67){:target="_blank"}: 229-249.
--   小林裕一郎, 2012,「[ノルベルト・エリアス暴力論の日本での受容について](http://harp.lib.hiroshima-u.ac.jp/hkg/metadata/10808)」『現代社会学』(13){:target="_blank"}: 63-77.
+-   小林盾・谷本奈穂, 2016,「[容姿と社会的不平等：キャリア形成、家族形成、心理にどう影響するのか](http://hdl.handle.net/10928/760){:target="_blank"}」『成蹊大学文学部紀要』(51): 99-113.
+-   小林和夫, 2004,「[インドネシアにおける『伝統』の実践とポリティクス：新秩序体制下のゴトン・ロヨン（相互扶助）と都市住民組織RT/RWの夜警をめぐって](https://doi.org/10.4057/jsr.55.98){:target="_blank"}」『社会学評論』55(2): 98-114.
+-   小林雅之, 2018,「[高等教育費負担の国際比較と日本の課題](https://ci.nii.ac.jp/naid/40021615659){:target="_blank"}」『日本労働研究雑誌』(694): 4-15.
+-   小林道夫, 1990,「[科学的世界と日常的世界：デカルトとウィトゲンシュタイン](https://doi.org/10.11439/philosophy1952.1990.48){:target="_blank"}」『哲学』(40): 48-68.
+-   小林傳司, 1998,「[日本における進化論受容の評価をめぐって](https://ci.nii.ac.jp/naid/110000130179){:target="_blank"}」『アカデミア 人文・社会科学編』(67): 229-249.
+-   小林裕一郎, 2012,「[ノルベルト・エリアス暴力論の日本での受容について](http://harp.lib.hiroshima-u.ac.jp/hkg/metadata/10808){:target="_blank"}」『現代社会学』(13): 63-77.
 -   児玉真樹子・唐本ふみ, 2017,「[理想のキャリア・パターン別にみた女子高校生のキャリア自己効力と専門職に対する興味との関連：理系希望者の多い進学校を対象に](https://doi.org/10.20757/jssce.36.1_1){:target="_blank"}」『キャリア教育研究』36: 1-11.
--   児玉聡, 2007,「[生命倫理学における功利主義と直観主義の争い](https://ci.nii.ac.jp/naid/40015334689)」『創文』(494){:target="_blank"}: 28-31.
--   児玉聡, 2010,「[ハート・デブリン論争再考](https://ci.nii.ac.jp/naid/40017339685/)」『社会と倫理』(24){:target="_blank"}: 181-199.
+-   児玉聡, 2007,「[生命倫理学における功利主義と直観主義の争い](https://ci.nii.ac.jp/naid/40015334689){:target="_blank"}」『創文』(494): 28-31.
+-   児玉聡, 2010,「[ハート・デブリン論争再考](https://ci.nii.ac.jp/naid/40017339685/){:target="_blank"}」『社会と倫理』(24): 181-199.
 -   児玉聡, 2011,「[功利主義と公衆衛生](https://ci.nii.ac.jp/naid/40019458686){:target="_blank"}」『法哲学年報』2010: 7-22.
 -   小泉潤二・志水宏吉編, 2007,『[実践的研究のすすめ：人間科学のリアリティ](https://www.amazon.co.jp/%25E5%25AE%259F%25E8%25B7%25B5%25E7%259A%2584%25E7%25A0%2594%25E7%25A9%25B6%25E3%2581%25AE%25E3%2581%2599%25E3%2581%2599%25E3%2582%2581%25E2%2580%2595%25E4%25BA%25BA%25E9%2596%2593%25E7%25A7%2591%25E5%25AD%25A6%25E3%2581%25AE%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3-%25E5%25B0%258F%25E6%25B3%2589-%25E6%25BD%25A4%25E4%25BA%258C/dp/464117332X/ref%3Das_li_ss_tl%3F__mk_ja_JP%3D%25E3%2582%25AB%25E3%2582%25BF%25E3%2582%25AB%25E3%2583%258A%26dchild%3D1%26keywords%3D%25E5%25AE%259F%25E8%25B7%25B5%25E7%259A%2584%25E7%25A0%2594%25E7%25A9%25B6%25E3%2581%25AE%25E3%2581%2599%25E3%2581%2599%25E3%2582%2581%26qid%3D1598087348%26s%3Dbooks%26sr%3D1-1%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D27fb8dcba2df4793ade31429b1b0b711%26language%3Dja_JP){:target="_blank"}』有斐閣.
    -   草郷孝好,「アクション・リサーチ」pp. 251-266.
 -   小島かほり・林博史, 2019,「[今さら聞けない『慰安婦』問題の基本を研究者に聞く：なぜ何度も『謝罪』しているのに火種となるのか](https://www.cyzowoman.com/2019/08/post_244183_1.html){:target="_blank"}」サイゾーウーマン, 2019年8月7日.
--   國分典子, 2009,「[日本の初期憲法思想における法実証主義と進化論](https://ci.nii.ac.jp/naid/120005653135)」『法学研究』82(1){:target="_blank"}: 687-710.
--   駒川智子, 2007,「[女性事務職のキャリア形成と『女性活用』：ジェンダー間職務分離の歴史的形成・変容過程](https://ci.nii.ac.jp/naid/40015451647)」『大原社会問題研究所雑誌』(582){:target="_blank"}: 31-56.
+-   國分典子, 2009,「[日本の初期憲法思想における法実証主義と進化論](https://ci.nii.ac.jp/naid/120005653135){:target="_blank"}」『法学研究』82(1): 687-710.
+-   駒川智子, 2007,「[女性事務職のキャリア形成と『女性活用』：ジェンダー間職務分離の歴史的形成・変容過程](https://ci.nii.ac.jp/naid/40015451647){:target="_blank"}」『大原社会問題研究所雑誌』(582): 31-56.
 -   小松佳代子, 2011,「[功利主義と教育：J・ベンサムの統治論における教育の位置づけを中心として](https://ci.nii.ac.jp/naid/40019458755){:target="_blank"}」『法哲学年報』2010: 27-42.
 -   紺田広明・与謝野有紀, 2013,「[コホートサイズの自殺率規定力に対する年齢効果の検討：世代間，世代内コンフリクトが日本の自殺率に対して与える影響の計量分析](http://hdl.handle.net/10112/7749){:target="_blank"}」『社会的信頼学』1: 23-42.
--   近藤博之, 2015,「[学歴ミスマッチの様相：国際成人力調査（PIAAC）から](https://ci.nii.ac.jp/naid/110010040377/)」『日本教育社会学会大会発表要旨集録』(67){:target="_blank"}: 294-295.
--   河野哲也, 2001,「[現象工学と身体器官：ガストン・バシュラールにおける科学と想像力](https://doi.org/10.4288/kisoron1954.29.35)」『科学基礎論研究』29(1){:target="_blank"}: 35-41.
--   小阪玄次郎・上智大学小阪ゼミナール, 2014,「[市場調査業界：ネットリサーチの登場と新旧企業の攻防](https://ci.nii.ac.jp/naid/40020208435/)」『一橋ビジネスレビュー』62(2){:target="_blank"}: 114-129.
--   高坂健次, 2000,「[数理社会学と古典理論：架橋を促すためのノート](https://doi.org/10.11218/ojjams.15.235)」『理論と方法』15(2){:target="_blank"}: 235-248.
--   高坂康雅, 2018,「[恋人を欲しいと思わない大学生の1年後の恋愛状況の変化：恋人を欲しいと思わない理由と恋人を欲しいと思うようになった理由に着目して](https://doi.org/10.2132/personality.27.1.11)」『パーソナリティ研究』27(1){:target="_blank"}: 90-93.
--   小城英子・萩原滋・渋谷明子・志岐裕子・李光鎬・上瀬由美子, 2012,「[テレビが構築する社会的出来事・音楽番組・アイドルの集合的記憶：ウェブ・モニター調査（2011年2月）の報告（3）](https://ci.nii.ac.jp/naid/120005844666)」『慶応義塾大学メディア・コミュニケーション研究所紀要』(62){:target="_blank"}: 79-105.
+-   近藤博之, 2015,「[学歴ミスマッチの様相：国際成人力調査（PIAAC）から](https://ci.nii.ac.jp/naid/110010040377/){:target="_blank"}」『日本教育社会学会大会発表要旨集録』(67): 294-295.
+-   河野哲也, 2001,「[現象工学と身体器官：ガストン・バシュラールにおける科学と想像力](https://doi.org/10.4288/kisoron1954.29.35){:target="_blank"}」『科学基礎論研究』29(1): 35-41.
+-   小阪玄次郎・上智大学小阪ゼミナール, 2014,「[市場調査業界：ネットリサーチの登場と新旧企業の攻防](https://ci.nii.ac.jp/naid/40020208435/){:target="_blank"}」『一橋ビジネスレビュー』62(2): 114-129.
+-   高坂健次, 2000,「[数理社会学と古典理論：架橋を促すためのノート](https://doi.org/10.11218/ojjams.15.235){:target="_blank"}」『理論と方法』15(2): 235-248.
+-   高坂康雅, 2018,「[恋人を欲しいと思わない大学生の1年後の恋愛状況の変化：恋人を欲しいと思わない理由と恋人を欲しいと思うようになった理由に着目して](https://doi.org/10.2132/personality.27.1.11){:target="_blank"}」『パーソナリティ研究』27(1): 90-93.
+-   小城英子・萩原滋・渋谷明子・志岐裕子・李光鎬・上瀬由美子, 2012,「[テレビが構築する社会的出来事・音楽番組・アイドルの集合的記憶：ウェブ・モニター調査（2011年2月）の報告（3）](https://ci.nii.ac.jp/naid/120005844666){:target="_blank"}」『慶応義塾大学メディア・コミュニケーション研究所紀要』(62): 79-105.
 -   小城英子・川上正浩・坂田浩之, 2006,「[不思議現象に対する態度の探索的研究](https://ci.nii.ac.jp/naid/40007436171){:target="_blank"}」『聖心女子大学論叢』107：220-181.
--   小城英子・坂田浩之・川上正浩, 2008,「[不思議現象に対する態度：態度構造の分析および類型化](https://doi.org/10.14966/jssp.KJ00004896220)」『社会心理学研究』23(3){:target="_blank"}: 246-258.
+-   小城英子・坂田浩之・川上正浩, 2008,「[不思議現象に対する態度：態度構造の分析および類型化](https://doi.org/10.14966/jssp.KJ00004896220){:target="_blank"}」『社会心理学研究』23(3): 246-258.
 -   小城英子・坂田浩之・川上正浩, 2009,「[不思議現象に対する態度とテレビ視聴：テレビに対する態度尺度の作成](https://ci.nii.ac.jp/naid/40016849369){:target="_blank"}」『聖心女子大学論叢』113：148-131.
 -   小杉礼子, 2017,「[大卒者の仕事の変容](https://doi.org/10.32116/jaher.20.0_71){:target="_blank"}」『高等教育研究』20: 71-92.
 -   小杉正太郎編, 2006,『[ストレスと健康の心理学](https://www.amazon.co.jp/%25E6%259C%259D%25E5%2580%2589%25E5%25BF%2583%25E7%2590%2586%25E5%25AD%25A6%25E8%25AC%259B%25E5%25BA%25A7%25E3%2580%258819%25E3%2580%2589%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2582%25B9%25E3%2581%25A8%25E5%2581%25A5%25E5%25BA%25B7%25E3%2581%25AE%25E5%25BF%2583%25E7%2590%2586%25E5%25AD%25A6-%25E6%259C%259D%25E5%2580%2589%25E5%25BF%2583%25E7%2590%2586%25E5%25AD%25A6%25E8%25AC%259B%25E5%25BA%25A7-19-%25E5%25B0%258F%25E6%259D%2589-%25E6%25AD%25A3%25E5%25A4%25AA%25E9%2583%258E/dp/4254526792/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3Dee3fb97b11aa5b1da7eb0634a7d0c5e0%26language%3Dja_JP){:target="_blank"}』朝倉書店.
    -   種市康太郎,「ソーシャルサポートと健康」pp. 35-51.
--   Kousha, Kayvan, and Mike Thelwall, 2008, "[Sources of Google Scholar Citations outside the Science Citation Index: A Comparison between Four Science Disciplines](https://doi.org/10.1007/s11192-008-0217-x)," _Scientometrics_, 74(2){:target="_blank"}: 273-294.
--   小籔明生, 2018,「[個人レベル・地域レベルの社会関係資本と犯罪不安：一般的信頼・近隣のつながり・信頼の範囲のマルチレベル分析](https://ci.nii.ac.jp/naid/40021500851)」『社会学年誌』(59){:target="_blank"}: 61-75.
+-   Kousha, Kayvan, and Mike Thelwall, 2008, "[Sources of Google Scholar Citations outside the Science Citation Index: A Comparison between Four Science Disciplines](https://doi.org/10.1007/s11192-008-0217-x){:target="_blank"}," _Scientometrics_, 74(2): 273-294.
+-   小籔明生, 2018,「[個人レベル・地域レベルの社会関係資本と犯罪不安：一般的信頼・近隣のつながり・信頼の範囲のマルチレベル分析](https://ci.nii.ac.jp/naid/40021500851){:target="_blank"}」『社会学年誌』(59): 61-75.
 -   神山進編, 1999,『[被服行動の社会心理学](https://www.amazon.co.jp/%25E8%25A2%25AB%25E6%259C%258D%25E8%25A1%258C%25E5%258B%2595%25E3%2581%25AE%25E7%25A4%25BE%25E4%25BC%259A%25E5%25BF%2583%25E7%2590%2586%25E5%25AD%25A6%25E2%2580%2595%25E8%25A3%2585%25E3%2581%2586%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%25AE%25E3%2581%2593%25E3%2581%2593%25E3%2582%258D%25E3%2581%25A8%25E8%25A1%258C%25E5%258B%2595-%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA21%25E4%25B8%2596%25E7%25B4%2580%25E3%2581%25AE%25E7%25A4%25BE%25E4%25BC%259A%25E5%25BF%2583%25E7%2590%2586%25E5%25AD%25A6-%25E7%25A5%259E%25E5%25B1%25B1-%25E9%2580%25B2/dp/4762821616/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3Db211075572bca42c2ee86a8cd42b5405%26language%3Dja_JP){:target="_blank"}』北大路書房.
    -   田中優,「自己意識と着装行動」pp. 16-29.
    -   福岡欣治,「社会的規範としての着装規範」pp. 30-42.
 -   Krause, Neal, Berit Ingersoll-Dayton, Jersey Liang, and Hidehiro Sugisawa, 1999, "[Religion, Social Support, and Health among the Japanese Elderly](https://www.jstor.org/stable/2676333){:target="_blank"}," _Journal of Health and Social Behavior_, 40: 405-421.
 -   久保佳子・仲田郁子, 2013,「[女子高校生の生活設計における職業についての意識](https://opac.ll.chiba-u.jp/da/curator/900116866/){:target="_blank"}」『千葉大学教育学部研究紀要』61: 365-71.
--   久保田裕之, 2009,「[『家族の多様化』論再考：家族概念の分節化を通じて](https://doi.org/10.4234/jjoffamilysociology.21.78)」『家族社会学研究』21(1){:target="_blank"}: 78-90.
+-   久保田裕之, 2009,「[『家族の多様化』論再考：家族概念の分節化を通じて](https://doi.org/10.4234/jjoffamilysociology.21.78){:target="_blank"}」『家族社会学研究』21(1): 78-90.
 -   工藤怜之, 2009,「[自然法則とは何か：ナンシー・カートライトを手がかりに](http://hdl.handle.net/2261/23882){:target="_blank"}」『哲学・科学史論叢』11: 197-224.
 -   Kuhse, Helga and Peter Singer, 1999, "Introduction," Helga Kuhse and Peter Singer eds., [_Bioethics: An Anthology_](https://www.amazon.co.jp/exec/obidos/ASIN/0631203117/lockedroommm-22/ref%3Dnosim){:target="_blank"}, Oxford: Blackwell Publishers, pp. 1-7.
--   久木田水生, 2005,「[フィクションの中のロボット：ホワイダニットのジレンマとロボット工学三原則](http://hdl.handle.net/2433/24231)」『京都大学文学部哲学研究室紀要：Prospectus』(8){:target="_blank"}: 52-64.
--   久木田水生, 2008,「[ロボット倫理学の可能性](http://hdl.handle.net/2433/71114)」『京都大学文学部哲学研究室紀要：Prospectus』(11){:target="_blank"}.
--   久木田水生, 2019,「[人を評価する人工知能が人間同士の関係に与える影響とその倫理的含意](https://www.mita-hyoron.keio.ac.jp/features/2019/02-4.html)」『三田評論』(1230){:target="_blank"}: 40-46.
+-   久木田水生, 2005,「[フィクションの中のロボット：ホワイダニットのジレンマとロボット工学三原則](http://hdl.handle.net/2433/24231){:target="_blank"}」『京都大学文学部哲学研究室紀要：Prospectus』(8): 52-64.
+-   久木田水生, 2008,「[ロボット倫理学の可能性](http://hdl.handle.net/2433/71114){:target="_blank"}」『京都大学文学部哲学研究室紀要：Prospectus』(11).
+-   久木田水生, 2019,「[人を評価する人工知能が人間同士の関係に与える影響とその倫理的含意](https://www.mita-hyoron.keio.ac.jp/features/2019/02-4.html){:target="_blank"}」『三田評論』(1230): 40-46.
 -   熊谷苑子・大久保孝治編, 2005,『[コーホート比較による戦後日本の家族変動の研究](http://www.waseda.jp/assoc-nfroffice/NFRJS01_publishing.htm){:target="_blank"}』（NFRJS01第二次報告書）
    -   加藤彰彦,「離婚の要因：家族構造・社会階層・経済成長」pp. 77-90.
 -   熊安貴美江, 2019,「日本のスポーツ界におけるセクシュアル・ハラスメントの実態と防止のための課題」『女性学研究』26: 67-82.
--   Kuo, Chien-Chin, Kirk Chang, Sarah Quinton, Chiu-Yi Lu, and Iling Lee, 2015, "[Gossip in the Workplace and the Implications for HR Management: A Study of Gossip and Its Relationship to Employee Cynicism](https://psycnet.apa.org/doi/10.1080/09585192.2014.985329)," _The International Journal of Human Resource Management_, 26(18){:target="_blank"}: 2288-2307.
--   倉本由香利, 2003,「[ツカえる科学論へ：科学論の非専門家である参加者から科学論への提言](https://ci.nii.ac.jp/naid/40005926629/)」『生物科学』55(1){:target="_blank"}: 15-21.
+-   Kuo, Chien-Chin, Kirk Chang, Sarah Quinton, Chiu-Yi Lu, and Iling Lee, 2015, "[Gossip in the Workplace and the Implications for HR Management: A Study of Gossip and Its Relationship to Employee Cynicism](https://psycnet.apa.org/doi/10.1080/09585192.2014.985329){:target="_blank"}," _The International Journal of Human Resource Management_, 26(18): 2288-2307.
+-   倉本由香利, 2003,「[ツカえる科学論へ：科学論の非専門家である参加者から科学論への提言](https://ci.nii.ac.jp/naid/40005926629/){:target="_blank"}」『生物科学』55(1): 15-21.
 -   倉田量介, 2014,「[ポピュラー文化と社会学：アプローチをめぐる考察](http://id.nii.ac.jp/1114/00006047/){:target="_blank"}」『大妻女子大学人間関係学部紀要 人間関係学研究』16: 33-49.
--   栗原裕一郎, 2011,「[村上春樹論の終焉：そして象が平原に還った日](https://ci.nii.ac.jp/naid/40017651453)」『ユリイカ』42(15){:target="_blank"}: 197-212.
+-   栗原裕一郎, 2011,「[村上春樹論の終焉：そして象が平原に還った日](https://ci.nii.ac.jp/naid/40017651453){:target="_blank"}」『ユリイカ』42(15): 197-212.
 -   栗田知宏, 2007,「[『エミネム』の文化社会学：ヒップホップ／ロックの真正性・正統性指標による『差別』表現の解釈](https://doi.org/10.11385/jaspmpms1997.11.3){:target="_blank"}」『ポピュラー音楽研究』11: 3-17.
--   黒田麻耶, 2016,「[〈書評論文〉選択的離脱：女性はなぜキャリアを中断し家庭に入るのか](http://hdl.handle.net/2433/219492)」『京都社会学年報』(24){:target="_blank"}: 209-216.
+-   黒田麻耶, 2016,「[〈書評論文〉選択的離脱：女性はなぜキャリアを中断し家庭に入るのか](http://hdl.handle.net/2433/219492){:target="_blank"}」『京都社会学年報』(24): 209-216.
 -   黒田祐二・有年恵一・桜井茂男, 2004,「[大学生の親友関係における関係性高揚と精神的健康との関係：相互協調的-相互独立的自己観を踏まえた検討](https://doi.org/10.5926/jjep1953.52.1_24){:target="_blank"}」『教育心理学研究』52: 24-32.
--   久山健太, 2014,「[文化行動としての資格・検定受験 : 男女別にみる受験行動](http://ci.nii.ac.jp/naid/120005396190)」『年報人間科学』(35){:target="_blank"}: 1-17.
+-   久山健太, 2014,「[文化行動としての資格・検定受験 : 男女別にみる受験行動](http://ci.nii.ac.jp/naid/120005396190){:target="_blank"}」『年報人間科学』(35): 1-17.
 -   Kvanvig, Jonathan, 2007, "[Coherentist Theories of Epistemic Justification](https://plato.stanford.edu/archives/fall2007/entries/justep-coherence/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 
 ### L
@@ -566,228 +566,228 @@ title: 整理棚
 -   Lamm, Ehud, 2012, "[Inheritance Systems](https://plato.stanford.edu/entries/inheritance-systems/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 -   Lau, Joe, and Max Deutsch, 2010, "[Externalism about Mental Content](https://plato.stanford.edu/archives/fall2010/entries/content-externalism/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 -   Leahey, Erin, 2008, "[Methodological Memes and Mores: Toward a Sociology of Social Research](https://doi.org/10.1146/annurev.soc.34.040507.134731){:target="_blank"}," _Annual Review of Sociology_, 34: 33-53.
--   Leary, Mark R., and Robin M. Kowalski, 1990, "[Impression Management: A Literature Review and Two-Component Model](http://dx.doi.org/10.1037/0033-2909.107.1.34)," _Psychological Bulletin_, 107(1){:target="_blank"}: 34-47.
--   李洪章, 2010,「[朝鮮籍在日朝鮮人青年のナショナル・アイデンティティと連帯戦略](https://doi.org/10.4057/jsr.61.168)」『社会学評論』61(2){:target="_blank"}: 168-185.
--   李洪章, 2015,「[朝鮮籍在日朝鮮人の『共和国』をめぐる語り：ナショナル・アイデンティティ論の視角から](https://ci.nii.ac.jp/naid/120005682745)」『三田社会学』(20){:target="_blank"}: 22-37.
+-   Leary, Mark R., and Robin M. Kowalski, 1990, "[Impression Management: A Literature Review and Two-Component Model](http://dx.doi.org/10.1037/0033-2909.107.1.34){:target="_blank"}," _Psychological Bulletin_, 107(1): 34-47.
+-   李洪章, 2010,「[朝鮮籍在日朝鮮人青年のナショナル・アイデンティティと連帯戦略](https://doi.org/10.4057/jsr.61.168){:target="_blank"}」『社会学評論』61(2): 168-185.
+-   李洪章, 2015,「[朝鮮籍在日朝鮮人の『共和国』をめぐる語り：ナショナル・アイデンティティ論の視角から](https://ci.nii.ac.jp/naid/120005682745){:target="_blank"}」『三田社会学』(20): 22-37.
 -   Levit, Georgy S., and Kay Meister, 2006, "[The History of Essentialism vs. Ernst Mayr's 'Essentialism Story': A Case Study of German Idealistic Morphology](https://doi.org/10.1016/j.thbio.2005.11.003){:target="_blank"}," _Theory in Biosciences_, 124: 281-307.
 -   Lewens, Tim, 2007, "[Cultural Evolution](https://plato.stanford.edu/archives/spr2008/entries/evolution-cultural/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 -   Lindström, Martin, 2011, "[Social Capital, Political Trust, and Health Locus of Control: A Population-Based Study](https://doi.org/10.1177/1403494810382811){:target="_blank"}," _Scandinavian Journal of Public Health_, 39: 3-9.
--   Link, Bruce G., Francis T. Cullen, Elmer Struening, Patrick E. Shrout and Bruce P. Dohrenwend, 1989, "[A Modified Labeling Theory Approach to Mental Disorders: An Empirical Assessment](https://www.jstor.org/stable/2095613)," _American Sociological Review_, 54(3){:target="_blank"}: 400-23.
+-   Link, Bruce G., Francis T. Cullen, Elmer Struening, Patrick E. Shrout and Bruce P. Dohrenwend, 1989, "[A Modified Labeling Theory Approach to Mental Disorders: An Empirical Assessment](https://www.jstor.org/stable/2095613){:target="_blank"}," _American Sociological Review_, 54(3): 400-23.
 -   Lopez-Corredoira, Martin, 2008, "[Sociology of Modern Cosmology](https://arxiv.org/abs/0812.0537){:target="_blank"}," arXiv:0812.0537 \[physics.gen-ph\].
--   Lotfi, Shidan, 2010, "[The 'Purposiveness' of Life: Kant's Critique of Natural Teleology](https://doi.org/10.5840/monist20109318)," _The Monist_, 93(1){:target="_blank"}: 123-134.
+-   Lotfi, Shidan, 2010, "[The 'Purposiveness' of Life: Kant's Critique of Natural Teleology](https://doi.org/10.5840/monist20109318){:target="_blank"}," _The Monist_, 93(1): 123-134.
 -   Luciano, Floridi, 2020, "[Mind the App: Considerations on the Ethical Risks of COVID-19 Apps](https://doi.org/10.1007/s13347-020-00408-5){:target="_blank"}," _Philosophy & Technology_, 33: 167-172.
--   Lynch, Michael, 2000, "[Against Reflexivity as an Academic Virtue and Source of Privileged Knowledge](https://doi.org/10.1177/02632760022051202)," _Theory, Culture & Society_, 17(3){:target="_blank"}: 26-54.
+-   Lynch, Michael, 2000, "[Against Reflexivity as an Academic Virtue and Source of Privileged Knowledge](https://doi.org/10.1177/02632760022051202){:target="_blank"}," _Theory, Culture & Society_, 17(3): 26-54.
 
 ### M
 
--   馬渕浩ニ, 2002,「[環境倫理学と正義の問題](http://id.nii.ac.jp/1471/00001394/)」『中央学院大学人間・自然論叢』(16){:target="_blank"}: 91-108.
--   前田崇, 2004,「[マーガレット・アーチャーの教育拡大モデルに関する一考察](http://hdl.handle.net/2065/5898)」『早稲田大学大学院教育学研究科紀要』(12-1){:target="_blank"}: 13-23.
+-   馬渕浩ニ, 2002,「[環境倫理学と正義の問題](http://id.nii.ac.jp/1471/00001394/){:target="_blank"}」『中央学院大学人間・自然論叢』(16): 91-108.
+-   前田崇, 2004,「[マーガレット・アーチャーの教育拡大モデルに関する一考察](http://hdl.handle.net/2065/5898){:target="_blank"}」『早稲田大学大学院教育学研究科紀要』(12-1): 13-23.
 -   前田佐恵子・濱秋純哉・堀雅博・村田啓子, 2010,「[新卒時就職活動の失敗は挽回可能か？ 家計研パネルの個票を用いた女性就業の実証分析](http://www.esri.go.jp/jp/archive/e_dis/e_dis234/e_dis234.html){:target="_blank"}」ESRI Discussion Paper Series No. 234.
--   前田由貴子・大島叶・佐藤寛, 2017,「[大学生のQOLに及ぼすコミュニケーションスキルとソーシャルサポートの影響](http://id.nii.ac.jp/1197/00000763/)」『国際研究論叢』30(3){:target="_blank"}: 147-155.
--   前田豊, 2014,「[比較対象選択と所得イメージ](https://doi.org/10.11218/ojjams.29.37)」『理論と方法』29(1){:target="_blank"}: 37-57.
+-   前田由貴子・大島叶・佐藤寛, 2017,「[大学生のQOLに及ぼすコミュニケーションスキルとソーシャルサポートの影響](http://id.nii.ac.jp/1197/00000763/){:target="_blank"}」『国際研究論叢』30(3): 147-155.
+-   前田豊, 2014,「[比較対象選択と所得イメージ](https://doi.org/10.11218/ojjams.29.37){:target="_blank"}」『理論と方法』29(1): 37-57.
 -   前浦穂高, 2008,「評価結果に対する納得度の研究：人事データとアンケート調査の分析を基に」『立教経済学研究』62(1): 91-105.
--   間嶋崇, 2008,「[組織アイデンティティと組織不祥事](http://id.nii.ac.jp/1015/00005490/)」『専修大学経営研究所報』(174){:target="_blank"}: 1-28.
--   眞嶋良全, 2011,「[疑似科学信奉に個人の経験と思考傾向が与える影響の検討](https://ci.nii.ac.jp/naid/40019233273)」『北海道心理学研究』(34){:target="_blank"}: 1-19.
--   Majima, Yoshimasa, 2015, "[Belief in Pseudoscience, Cognitive Style and Science Literacy](https://doi.org/10.1002/acp.3136)," _Applied Cognitive Psychology_, 29(4){:target="_blank"}: 552-559.
+-   間嶋崇, 2008,「[組織アイデンティティと組織不祥事](http://id.nii.ac.jp/1015/00005490/){:target="_blank"}」『専修大学経営研究所報』(174): 1-28.
+-   眞嶋良全, 2011,「[疑似科学信奉に個人の経験と思考傾向が与える影響の検討](https://ci.nii.ac.jp/naid/40019233273){:target="_blank"}」『北海道心理学研究』(34): 1-19.
+-   Majima, Yoshimasa, 2015, "[Belief in Pseudoscience, Cognitive Style and Science Literacy](https://doi.org/10.1002/acp.3136){:target="_blank"}," _Applied Cognitive Psychology_, 29(4): 552-559.
 -   牧野智和, 2006,「[少年犯罪報道に見る『不安』：『朝日新聞』報道を例にして](https://doi.org/10.11151/eds1951.78.129){:target="_blank"}」『教育社会学研究』78: 129-146.
 -   マラビー, セバスチャン, 2004,「[貧困と闘いつつ、貧困者に害をなすNGOたち](https://cruel.org/econ/idiotngo.html){:target="_blank"}」（山形浩生訳）
 -   Mallon, Ron, 2008, "[Naturalistic Approaches to Social Construction](https://plato.stanford.edu/archives/win2008/entries/social-construction-naturalistic/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   丸山真央, 2007,「[投票行動研究における社会学モデルの現代的再生に向けて：社会的ミリュー論による日本政治研究のための方法論的整理](http://doi.org/10.15057/17957)」『一橋研究』32(1){:target="_blank"}: 31-46.
--   政木みき, 2011,「[負担意識と行動からみる環境への“危機感”：ISSP国際比較調査（環境）から](https://ci.nii.ac.jp/naid/110009470496/)」『放送研究と調査』61(4){:target="_blank"}: 22-37.
+-   丸山真央, 2007,「[投票行動研究における社会学モデルの現代的再生に向けて：社会的ミリュー論による日本政治研究のための方法論的整理](http://doi.org/10.15057/17957){:target="_blank"}」『一橋研究』32(1): 31-46.
+-   政木みき, 2011,「[負担意識と行動からみる環境への“危機感”：ISSP国際比較調査（環境）から](https://ci.nii.ac.jp/naid/110009470496/){:target="_blank"}」『放送研究と調査』61(4): 22-37.
 -   益田圭, 2003,「[相愛女子短期大学生の結婚と恋愛に関する意識](http://id.nii.ac.jp/1074/00000737/){:target="_blank"}」『相愛女子短期大学研究論集』50: 23-32.
--   増田真也・坂上貴之・北岡和代・佐々木恵, 2016,「[回答指示の非遵守と反応バイアスの関連](https://doi.org/10.4992/jjpsy.87.15034)」『心理学研究』87(4){:target="_blank"}: 354-363.
--   松井暁, 1995,「[分析的マルクス主義への招待](http://doi.org/10.15099/00001732)」『富大経済論集』41(1){:target="_blank"}: 45-75.
--   松井豊, 2001,「[不思議現象を信じる心理的背景](http://hdl.handle.net/2241/9649)」『筑波大学心理学研究』(23){:target="_blank"}: 67-74.
--   松室美紀・三輪和久・寺井仁・山田賢人, 2016,「[二重過程理論に基づく不確実性を伴う値の推定に関する検討](https://doi.org/10.4992/jjpsy.87.14077)」『心理学研究』87(3){:target="_blank"}: 229-239.
--   Matsunaga, Toshio, 2002, "[Evolutionism in Early Twentieth Century Japan](https://ci.nii.ac.jp/naid/110006458986)," _Historia Scientiarum_, 11(3){:target="_blank"}: 218-225.
+-   増田真也・坂上貴之・北岡和代・佐々木恵, 2016,「[回答指示の非遵守と反応バイアスの関連](https://doi.org/10.4992/jjpsy.87.15034){:target="_blank"}」『心理学研究』87(4): 354-363.
+-   松井暁, 1995,「[分析的マルクス主義への招待](http://doi.org/10.15099/00001732){:target="_blank"}」『富大経済論集』41(1): 45-75.
+-   松井豊, 2001,「[不思議現象を信じる心理的背景](http://hdl.handle.net/2241/9649){:target="_blank"}」『筑波大学心理学研究』(23): 67-74.
+-   松室美紀・三輪和久・寺井仁・山田賢人, 2016,「[二重過程理論に基づく不確実性を伴う値の推定に関する検討](https://doi.org/10.4992/jjpsy.87.14077){:target="_blank"}」『心理学研究』87(3): 229-239.
+-   Matsunaga, Toshio, 2002, "[Evolutionism in Early Twentieth Century Japan](https://ci.nii.ac.jp/naid/110006458986){:target="_blank"}," _Historia Scientiarum_, 11(3): 218-225.
 -   松王政浩, 2011,「[温暖化科学論争への応用哲学的視点](http://hdl.handle.net/2115/48220){:target="_blank"}」『応用倫理』5: 1-24.
 -   松岡亮二・中室牧子・乾友彦, 2014,「[縦断データを用いた文化資本相続過程の実証的検討](https://doi.org/10.11151/eds.95.89){:target="_blank"}」『教育社会学研究』95: 89-110.
--   松島悦子, 2016,「[子育て期女性が友人と行う共食の機能：互酬性とネットワークの観点から](https://doi.org/10.11402/cookeryscience.49.187)」『日本調理科学会誌』49(3){:target="_blank"}: 187-194.
+-   松島悦子, 2016,「[子育て期女性が友人と行う共食の機能：互酬性とネットワークの観点から](https://doi.org/10.11402/cookeryscience.49.187){:target="_blank"}」『日本調理科学会誌』49(3): 187-194.
 -   松島欣哉, 2015,「[ウィリアム・エラリー・チャニングの『自己修養論』](https://ci.nii.ac.jp/naid/120006375132/){:target="_blank"}」『香川大学教育研究』12: 79-90.
 -   松沢哲郎・長谷川寿一編, 2000,『[心の進化：人間性の起源をもとめて](https://www.amazon.co.jp/%25E5%25BF%2583%25E3%2581%25AE%25E9%2580%25B2%25E5%258C%2596%25E2%2580%2595%25E4%25BA%25BA%25E9%2596%2593%25E6%2580%25A7%25E3%2581%25AE%25E8%25B5%25B7%25E6%25BA%2590%25E3%2582%2592%25E3%2582%2582%25E3%2581%25A8%25E3%2582%2581%25E3%2581%25A6-%25E6%259D%25BE%25E6%25B2%25A2-%25E5%2593%25B2%25E9%2583%258E/dp/4000053817/ref%3Das_li_ss_tl%3F__mk_ja_JP%3D%25E3%2582%25AB%25E3%2582%25BF%25E3%2582%25AB%25E3%2583%258A%26keywords%3D%25E5%25BF%2583%25E3%2581%25AE%25E9%2580%25B2%25E5%258C%2596%2B%25E6%259D%25BE%25E6%25B2%25A2%25E5%2593%25B2%25E9%2583%258E%26qid%3D1583501808%26s%3Dbooks%26sr%3D1-5%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D0e2073fd8170e70f86a72d0be36ec4ee%26language%3Dja_JP){:target="_blank"}』岩波書店.
    -   板倉昭二,「他者の心を理解する：その発達と進化」pp. 50-57.
    -   Emlen, Stephen T.,「ヒトの家族関係のダイナミクス」（長谷川眞理子・長谷川寿一訳）pp. 86-95.
    -   長谷川眞理子・長谷川寿一,「戦前日本における女子死亡の過剰」pp. 112-120.
    -   長谷川寿一・長谷川眞理子,「戦後日本の殺人の動向：とくに、嬰児殺しと男性による殺人について」pp. 121-129.
--   May, Ann Mari, Mary G. McGarvey, and David Kucera, 2018, "[Gender and European Economic Policy: A Survey of the Views of European Economists on Contemporary Economic Policy](https://doi.org/10.1111/kykl.12166)," _Kyklos_, 71(1){:target="_blank"}: 162-183.
+-   May, Ann Mari, Mary G. McGarvey, and David Kucera, 2018, "[Gender and European Economic Policy: A Survey of the Views of European Economists on Contemporary Economic Policy](https://doi.org/10.1111/kykl.12166){:target="_blank"}," _Kyklos_, 71(1): 162-183.
 -   Mayr, Ernst, 1957, "Species Concepts and Definitions," Ernst Mayr ed., [_The Species Problem_](https://philpapers.org/rec/MAYTSP-5){:target="_blank"}, Washington: American Association for the Advancement of Science, 1-22.
 -   Mayr, Ernst, 1959, "Darwin and the Evolutionary Theory in Biology," Betty J. Meggers ed., [_Evolution and Anthropology: A Centennial Appraisal_](https://www.worldcat.org/title/evolution-and-anthropology-a-centennial-appraisal/oclc/14606732){:target="_blank"}, The Anthropological Society of Washington, 1-10.
--   McCain, Katherine W., and Kathleen Turner, 1989, "[Citation Context Analysis and Aging Patterns of Journal Articles in Molecular Genetics](https://link.springer.com/article/10.1007/BF02017729)," _Scientometrics_, 17(1-2){:target="_blank"}: 127-163.
--   Meade, Adam W., and S. Bartholomew Craig, 2012, "[Identifying Careless Responses in Survey Data](https://psycnet.apa.org/doi/10.1037/a0028085)," _Psychological Methods_, 17(3){:target="_blank"}: 437-455.
--   目久田純一・越中康治, 2019,「[道徳の教科化に賛成する学校教員は権威主義的伝統主義者か？](http://doi.org/10.20832/00000163)」『梅花女子大学心理こども学部紀要』(9){:target="_blank"}: 41-48.
--   Meyer, John W., and Brian Rowan, 1977, "[Institutionalized Organizations: Formal Structure as Myth and Ceremony](https://www.jstor.org/stable/2778293)," _American Journal of Sociology_, 83(2){:target="_blank"}: 340-363.
--   三上俊治, 2015,「[SNSにおける自己開示とプライバシー・パラドックス](http://id.nii.ac.jp/1060/00008220/)」『東洋大学社会学部紀要』53(1){:target="_blank"}: 65-77.
+-   McCain, Katherine W., and Kathleen Turner, 1989, "[Citation Context Analysis and Aging Patterns of Journal Articles in Molecular Genetics](https://link.springer.com/article/10.1007/BF02017729){:target="_blank"}," _Scientometrics_, 17(1-2): 127-163.
+-   Meade, Adam W., and S. Bartholomew Craig, 2012, "[Identifying Careless Responses in Survey Data](https://psycnet.apa.org/doi/10.1037/a0028085){:target="_blank"}," _Psychological Methods_, 17(3): 437-455.
+-   目久田純一・越中康治, 2019,「[道徳の教科化に賛成する学校教員は権威主義的伝統主義者か？](http://doi.org/10.20832/00000163){:target="_blank"}」『梅花女子大学心理こども学部紀要』(9): 41-48.
+-   Meyer, John W., and Brian Rowan, 1977, "[Institutionalized Organizations: Formal Structure as Myth and Ceremony](https://www.jstor.org/stable/2778293){:target="_blank"}," _American Journal of Sociology_, 83(2): 340-363.
+-   三上俊治, 2015,「[SNSにおける自己開示とプライバシー・パラドックス](http://id.nii.ac.jp/1060/00008220/){:target="_blank"}」『東洋大学社会学部紀要』53(1): 65-77.
 -   三木朋乃, 2011,「[グローバルスタンダードの普及プロセス：広域地方公共団体によるISO14001の採用意図](http://doi.org/10.14992/00000470){:target="_blank"}」『立教ビジネスレビュー』4: 55-66.
 -   御厨貴・山岡龍一編著, 2016,『[政治学へのいざない](https://www.amazon.co.jp/%25E6%2594%25BF%25E6%25B2%25BB%25E5%25AD%25A6%25E3%2581%25B8%25E3%2581%25AE%25E3%2581%2584%25E3%2581%2596%25E3%2581%25AA%25E3%2581%2584-%25E6%2594%25BE%25E9%2580%2581%25E5%25A4%25A7%25E5%25AD%25A6%25E6%2595%2599%25E6%259D%2590-%25E5%25BE%25A1%25E5%258E%25A8-%25E8%25B2%25B4/dp/4595316240/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3Dee683162579378972c59ca4a132041cd%26language%3Dja_JP){:target="_blank"}』放送大学教育振興会.
    -   苅部直,「都市空間と政治」pp. 109-121.
    -   苅部直,「オオヤケから『公共』へ」pp. 122-134.
    -   山岡龍一,「党派と政治」pp. 234-254.
 -   耳塚寛明, 1980,「[生徒文化の分化に関する研究](https://doi.org/10.11151/eds1951.35.111){:target="_blank"}」『教育社会学研究』35: 111-122.
--   三中信宏, 2003,「[科学論は科学からみれば〈たわごと〉なのかもしれない](https://ci.nii.ac.jp/naid/40005926628)」『生物科学』55(1){:target="_blank"}: 10-14.
--   南田勝也, 1998,「[ロック音楽文化の構造分析：ブルデュー〈場〉の理論の応用展開](https://doi.org/10.4057/jsr.49.568)」『社会学評論』49(4){:target="_blank"}: 568-583.
--   Mirowski, Philip, and Steven Sklivas, 1991, "[Why Econometricians Don't Replicate (although They Do Reproduce)](https://doi.org/10.1080/09538259100000040)," _Review of Political Economy_, 3(2){:target="_blank"}: 146-163.
--   三澤仁平, 2011,「[補完代替医療の利用における心理社会的要因の影響](https://ci.nii.ac.jp/naid/40018881971)」『厚生の指標』58(6){:target="_blank"}: 1-7.
--   三沢良・佐相邦英・山口裕幸, 2009,「[看護師のチームワーク測定尺度の作成](https://doi.org/10.14966/jssp.KJ00005381247)」『社会心理学研究』24(3){:target="_blank"}: 219-232.
--   三隅一人, 2010,「[三つ組みフォーマライゼーションと社会学理論：古典、類型、事例](https://doi.org/10.11218/ojjams.25.1)」『理論と方法』25(1){:target="_blank"}: 1-14.
--   三谷はるよ, 2013,「[市民参加は学習の帰結か？ ボランティア行動の社会化プロセス](https://doi.org/10.11433/janpora.13.37)」『ノンプロフィット・レビュー』13(2){:target="_blank"}: 37-46.
+-   三中信宏, 2003,「[科学論は科学からみれば〈たわごと〉なのかもしれない](https://ci.nii.ac.jp/naid/40005926628){:target="_blank"}」『生物科学』55(1): 10-14.
+-   南田勝也, 1998,「[ロック音楽文化の構造分析：ブルデュー〈場〉の理論の応用展開](https://doi.org/10.4057/jsr.49.568){:target="_blank"}」『社会学評論』49(4): 568-583.
+-   Mirowski, Philip, and Steven Sklivas, 1991, "[Why Econometricians Don't Replicate (although They Do Reproduce)](https://doi.org/10.1080/09538259100000040){:target="_blank"}," _Review of Political Economy_, 3(2): 146-163.
+-   三澤仁平, 2011,「[補完代替医療の利用における心理社会的要因の影響](https://ci.nii.ac.jp/naid/40018881971){:target="_blank"}」『厚生の指標』58(6): 1-7.
+-   三沢良・佐相邦英・山口裕幸, 2009,「[看護師のチームワーク測定尺度の作成](https://doi.org/10.14966/jssp.KJ00005381247){:target="_blank"}」『社会心理学研究』24(3): 219-232.
+-   三隅一人, 2010,「[三つ組みフォーマライゼーションと社会学理論：古典、類型、事例](https://doi.org/10.11218/ojjams.25.1){:target="_blank"}」『理論と方法』25(1): 1-14.
+-   三谷はるよ, 2013,「[市民参加は学習の帰結か？ ボランティア行動の社会化プロセス](https://doi.org/10.11433/janpora.13.37){:target="_blank"}」『ノンプロフィット・レビュー』13(2): 37-46.
 -   三谷はるよ, 2013,「[『利他』への計量社会学的アプローチ](https://doi.org/10.18910/51803){:target="_blank"}」『未来共生学』2: 97-110.
--   三谷直紀, 2012,「[余暇と労働時間の長期的推移に関する経済理論と実際](https://ci.nii.ac.jp/naid/40019394000/)」『日本労働研究雑誌』(625){:target="_blank"}: 4-20.
--   三井さよ, 2006,「[看護職における感情労働](https://ci.nii.ac.jp/naid/40007126913/)」『大原社会問題研究所雑誌』(567){:target="_blank"}: 14-26.
--   三浦有紀子, 2009,「[科学技術分野における女子学生の動向、現状と今後](https://ci.nii.ac.jp/naid/40016900703)」『科学技術社会論研究』(7){:target="_blank"}: 45-56.
--   三浦有紀子, 2011,「[理系に女子学生を増やすために](https://ci.nii.ac.jp/naid/40019018578)」『IDE 現代の高等教育』(534){:target="_blank"}: 52-56.
--   三輪哲, 2009,「[潜在クラスモデル入門](https://doi.org/10.11218/ojjams.24.345)」『理論と方法』24(2){:target="_blank"}: 345-356.
--   三輪哲, 2013,「[パネルデータ分析の基礎と応用](https://doi.org/10.11218/ojjams.28.355)」『理論と方法』28(2){:target="_blank"}: 355-366.
--   三輪哲, 2014,「[NFRJ-08Panelにおけるウェイトによる脱落への対処](https://doi.org/10.4234/jjoffamilysociology.26.169)」『家族社会学研究』26(2){:target="_blank"}: 169-178.
--   宮地由芽子・村越暁子・赤塚肇・鈴木綾子, 2009,「[職場の安全風土評価手法の開発](https://ci.nii.ac.jp/naid/40016805138)」『鉄道総研報告』23(9){:target="_blank"}: 23-28.
--   宮地尚子, 1998,「[孕ませる性と孕む性：避妊責任の実体化の可能性を探る](https://ci.nii.ac.jp/naid/40005394573)」『現代文明学研究』(1){:target="_blank"}: 19-29.
--   宮本万里, 2007,「[現代ブータンにおけるネイション形成：文化・環境政策からみた自画像のポリティクス](https://doi.org/10.14989/71063)」『人文学報』(94){:target="_blank"}: 77-100.
--   宮本みち子, 2004,「[社会的排除と若年無業：イギリス・スウェーデンの対応](http://id.nii.ac.jp/1146/00008353/)」『日本労働研究雑誌』(533){:target="_blank"}: 17-26.
+-   三谷直紀, 2012,「[余暇と労働時間の長期的推移に関する経済理論と実際](https://ci.nii.ac.jp/naid/40019394000/){:target="_blank"}」『日本労働研究雑誌』(625): 4-20.
+-   三井さよ, 2006,「[看護職における感情労働](https://ci.nii.ac.jp/naid/40007126913/){:target="_blank"}」『大原社会問題研究所雑誌』(567): 14-26.
+-   三浦有紀子, 2009,「[科学技術分野における女子学生の動向、現状と今後](https://ci.nii.ac.jp/naid/40016900703){:target="_blank"}」『科学技術社会論研究』(7): 45-56.
+-   三浦有紀子, 2011,「[理系に女子学生を増やすために](https://ci.nii.ac.jp/naid/40019018578){:target="_blank"}」『IDE 現代の高等教育』(534): 52-56.
+-   三輪哲, 2009,「[潜在クラスモデル入門](https://doi.org/10.11218/ojjams.24.345){:target="_blank"}」『理論と方法』24(2): 345-356.
+-   三輪哲, 2013,「[パネルデータ分析の基礎と応用](https://doi.org/10.11218/ojjams.28.355){:target="_blank"}」『理論と方法』28(2): 355-366.
+-   三輪哲, 2014,「[NFRJ-08Panelにおけるウェイトによる脱落への対処](https://doi.org/10.4234/jjoffamilysociology.26.169){:target="_blank"}」『家族社会学研究』26(2): 169-178.
+-   宮地由芽子・村越暁子・赤塚肇・鈴木綾子, 2009,「[職場の安全風土評価手法の開発](https://ci.nii.ac.jp/naid/40016805138){:target="_blank"}」『鉄道総研報告』23(9): 23-28.
+-   宮地尚子, 1998,「[孕ませる性と孕む性：避妊責任の実体化の可能性を探る](https://ci.nii.ac.jp/naid/40005394573){:target="_blank"}」『現代文明学研究』(1): 19-29.
+-   宮本万里, 2007,「[現代ブータンにおけるネイション形成：文化・環境政策からみた自画像のポリティクス](https://doi.org/10.14989/71063){:target="_blank"}」『人文学報』(94): 77-100.
+-   宮本みち子, 2004,「[社会的排除と若年無業：イギリス・スウェーデンの対応](http://id.nii.ac.jp/1146/00008353/){:target="_blank"}」『日本労働研究雑誌』(533): 17-26.
 -   宮本聡介・宇井美代子編, 2014,『[質問紙調査と心理測定尺度：計画から実施・解析まで](https://www.amazon.co.jp/%25E8%25B3%25AA%25E5%2595%258F%25E7%25B4%2599%25E8%25AA%25BF%25E6%259F%25BB%25E3%2581%25A8%25E5%25BF%2583%25E7%2590%2586%25E6%25B8%25AC%25E5%25AE%259A%25E5%25B0%25BA%25E5%25BA%25A6%25E2%2580%2595%25E8%25A8%2588%25E7%2594%25BB%25E3%2581%258B%25E3%2582%2589%25E5%25AE%259F%25E6%2596%25BD%25E3%2583%25BB%25E8%25A7%25A3%25E6%259E%2590%25E3%2581%25BE%25E3%2581%25A7-%25E5%25AE%25AE%25E6%259C%25AC-%25E8%2581%25A1%25E4%25BB%258B/dp/4781913415/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3Db94bb353aed36a46a01b94f621faddea%26language%3Dja_JP){:target="_blank"}』サイエンス社.
    -   市村美帆,「心理測定尺度の概要」pp. 61-74.
    -   畑中美穂,「心理測定尺度の尺度構成」pp. 151-167.
    -   立脇洋介,「自由回答法とその後の分析方法：テキストマイニング」pp. 246-263.
    -   野村信威,「質問紙調査法と質的研究」pp. 264-286.
--   宮本匠・渥美公秀・矢守克也, 2012,「[人間科学における研究者の役割：アクションリサーチにおける『巫女の視点』](https://doi.org/10.2130/jjesp.52.35)」『実験社会心理学研究』52(1){:target="_blank"}: 35-44.
--   水野清, 2018,「[マネジメントシステムの普及と制度化：制度派組織論アプローチ](http://id.nii.ac.jp/1155/00000945/)」『愛知学泉大学現代マネジメント学部紀要』6(2){:target="_blank"}: 1-8.
+-   宮本匠・渥美公秀・矢守克也, 2012,「[人間科学における研究者の役割：アクションリサーチにおける『巫女の視点』](https://doi.org/10.2130/jjesp.52.35){:target="_blank"}」『実験社会心理学研究』52(1): 35-44.
+-   水野清, 2018,「[マネジメントシステムの普及と制度化：制度派組織論アプローチ](http://id.nii.ac.jp/1155/00000945/){:target="_blank"}」『愛知学泉大学現代マネジメント学部紀要』6(2): 1-8.
 -   水野幸輝, 2020,「[オワハラと日本的雇用慣行](http://hdl.handle.net/2433/245881){:target="_blank"}」京都大学文学部2019年度卒業論文.
--   森真一, 1999,「[心理学のヘゲモニー：社会のフレキシブルな編成と心理主義化](https://doi.org/10.14959/soshioroji.44.2_37)」『ソシオロジ』44(2){:target="_blank"}: 37-53.
--   森口千晶, 2013,「[日本型人事管理モデルと高度成長](https://ci.nii.ac.jp/naid/120006346387)」『日本労働研究雑誌』(634){:target="_blank"}: 52-63.
--   森川夏乃, 2014,「[きょうだい関係のメカニズムに関する研究動向](http://hdl.handle.net/10097/59489)」『東北大学大学院教育学研究科研究年報』63(1){:target="_blank"}: 319-334.
--   森下美佳・服部園美・宮井信行, 2017,「[高齢糖尿病患者におけるセルフケア能力と主観的健康統制感およびソーシャルサポートの関連](https://doi.org/10.1265/jjh.72.77)」『日本衛生学雑誌』72(1){:target="_blank"}: 77-86.
--   森田真也・城田愛, 2017,「[フェンスをこえるエイサー：戦後沖縄における民俗芸能の復興と米軍基地](https://ci.nii.ac.jp/naid/40021344364)」『筑紫女学園大学人間文化研究所年報』(28){:target="_blank"}: 1-14.
+-   森真一, 1999,「[心理学のヘゲモニー：社会のフレキシブルな編成と心理主義化](https://doi.org/10.14959/soshioroji.44.2_37){:target="_blank"}」『ソシオロジ』44(2): 37-53.
+-   森口千晶, 2013,「[日本型人事管理モデルと高度成長](https://ci.nii.ac.jp/naid/120006346387){:target="_blank"}」『日本労働研究雑誌』(634): 52-63.
+-   森川夏乃, 2014,「[きょうだい関係のメカニズムに関する研究動向](http://hdl.handle.net/10097/59489){:target="_blank"}」『東北大学大学院教育学研究科研究年報』63(1): 319-334.
+-   森下美佳・服部園美・宮井信行, 2017,「[高齢糖尿病患者におけるセルフケア能力と主観的健康統制感およびソーシャルサポートの関連](https://doi.org/10.1265/jjh.72.77){:target="_blank"}」『日本衛生学雑誌』72(1): 77-86.
+-   森田真也・城田愛, 2017,「[フェンスをこえるエイサー：戦後沖縄における民俗芸能の復興と米軍基地](https://ci.nii.ac.jp/naid/40021344364){:target="_blank"}」『筑紫女学園大学人間文化研究所年報』(28): 1-14.
 -   森脇靖子, 2010,「[外山亀太郎と明治期の蚕糸業における蚕の『種類改良』](https://ci.nii.ac.jp/naid/110007730702){:target="_blank"}」『科学史研究 第II期』49: 163-173.
 -   Morley, Jessica, Josh Cowls, Mariarosaria Taddeo, and Luciano Floridi, 2020, "Ethical Guidelines for SARS-CoV-2 Digital Tracking and Tracing Systems," Available at SSRN: [https://ssrn.com/abstract%3D3582550)
 -   元濱奈穗子・鈴木富美子・山口泰史, 2016,「30歳前後における生活・教育機会・価値観の変化：高卒パネル調査wave12の結果から」[東京大学社会科学研究所パネル調査プロジェクトディスカッションペーパーシリーズ](https://csrda.iss.u-tokyo.ac.jp/panel/dp/){:target="_blank"}, No.100.
 -   毛利光輝, 2017,「自己満イクメン、妻は興ざめで離婚：欠けていたのは…」『朝日新聞デジタル』2017年6月5日.
 -   村上あかね, 2010,「[パネル調査にみる若者の交際の現状](https://csrda.iss.u-tokyo.ac.jp/panel/dp/PanelDP_036Murakami.pdf){:target="_blank"}」東京大学社会科学研究所 パネル調査プロジェクト ディスカッションペーパーシリーズ, No.36.
--   村上あかね, 2017,「[脱落理由の内容分析：『消費生活に関するパネル調査』24年間の分析から](https://ci.nii.ac.jp/naid/40021408769)」『季刊家計経済研究』(114){:target="_blank"}: 48-56.
--   村上恭一, 2010,「[報告行動に影響を与える組織風土の分類](https://doi.org/10.34391/worksrev.5.11_1)」『Works Review』5: 138-151.［[剽窃を見つけたので指摘しておきました](https://sites.google.com/site/yamakovchain/shelf/murakami2010plagiarism?authuser=0){:target="_blank"}］
--   村本由紀子, 1996,「[集団と集合状態との曖昧な境界：早朝の公園で見出される多様なアイデンティティ](https://doi.org/10.14966/jssp.KJ00003724726)」『社会心理学研究』12(2){:target="_blank"}: 113-124.
--   村瀬英子・斎藤和志, 2015,「[主観的健康統制感との関連からみた受療行動タイプ分類の試み](http://hdl.handle.net/10638/5650)」『愛知淑徳大学論集 心理学部篇』(5){:target="_blank"}: 19-25.
--   村田ひろ子, 2018,「[友人関係が希薄な中高年男性：調査からみえる日本人の人間関係](https://doi.org/10.24634/bunken.68.6_78)」『放送研究と調査』68(6){:target="_blank"}: 78-94.
+-   村上あかね, 2017,「[脱落理由の内容分析：『消費生活に関するパネル調査』24年間の分析から](https://ci.nii.ac.jp/naid/40021408769){:target="_blank"}」『季刊家計経済研究』(114): 48-56.
+-   村上恭一, 2010,「[報告行動に影響を与える組織風土の分類](https://doi.org/10.34391/worksrev.5.11_1){:target="_blank"}」『Works Review』5: 138-151.［[剽窃を見つけたので指摘しておきました](https://sites.google.com/site/yamakovchain/shelf/murakami2010plagiarism?authuser=0){:target="_blank"}］
+-   村本由紀子, 1996,「[集団と集合状態との曖昧な境界：早朝の公園で見出される多様なアイデンティティ](https://doi.org/10.14966/jssp.KJ00003724726){:target="_blank"}」『社会心理学研究』12(2): 113-124.
+-   村瀬英子・斎藤和志, 2015,「[主観的健康統制感との関連からみた受療行動タイプ分類の試み](http://hdl.handle.net/10638/5650){:target="_blank"}」『愛知淑徳大学論集 心理学部篇』(5): 19-25.
+-   村田ひろ子, 2018,「[友人関係が希薄な中高年男性：調査からみえる日本人の人間関係](https://doi.org/10.24634/bunken.68.6_78){:target="_blank"}」『放送研究と調査』68(6): 78-94.
 -   Murphy, Dominic, 2008, "[Concepts of Disease and Health](https://plato.stanford.edu/archives/win2008/entries/health-disease/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 -   Murphy, Dominic, 2010, "[Philosophy of Psychiatry](https://plato.stanford.edu/archives/fall2010/entries/psychiatry/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   Murphy, Timothy F., 2011, "[Same-Sex Marriage: Not a Threat to Marriage or Children](https://doi.org/10.1111/j.1467-9833.2011.01534.x)," _Journal of Social Philosophy_, 42(3){:target="_blank"}: 288-304.
+-   Murphy, Timothy F., 2011, "[Same-Sex Marriage: Not a Threat to Marriage or Children](https://doi.org/10.1111/j.1467-9833.2011.01534.x){:target="_blank"}," _Journal of Social Philosophy_, 42(3): 288-304.
 -   Murray, Michael, and Michael Rea, 2012, "[Philosophy and Christian Theology](https://plato.stanford.edu/archives/spr2012/entries/christiantheology-philosophy/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 
 ### N
 
--   長松奈美江, 2011,「[現代的マルクス主義階級論における正義の原理：E. O. WrightとJ. E. Roemerの搾取概念に注目して](http://hdl.handle.net/10236/7730)」『関西学院大学社会学部紀要』(112){:target="_blank"}: 79-90.
+-   長松奈美江, 2011,「[現代的マルクス主義階級論における正義の原理：E. O. WrightとJ. E. Roemerの搾取概念に注目して](http://hdl.handle.net/10236/7730){:target="_blank"}」『関西学院大学社会学部紀要』(112): 79-90.
 -   Nagamatsu, Namie, 2014, "[Inter-Industry Wage Differentials in Japan: Evidence from Quantile Regressions](http://hdl.handle.net/10236/13167){:target="_blank"}," _Kwansei Gakuin University Social Science Review_, 19: 25-50.
--   長松奈美江, 2016,「[サービス産業化がもたらす働き方の変化：『仕事の質』に注目して](https://ci.nii.ac.jp/naid/40020707045)」『日本労働研究雑誌』(666){:target="_blank"}: 27-39.
--   長松奈美江・阪口祐介・太郎丸博, 2009,「[仕事の複雑性スコアの構成：職務内容を反映した職業指標の提案](https://doi.org/10.11218/ojjams.24.77)」『理論と方法』24(1){:target="_blank"}: 77-93.
--   永守伸年, 2011,「[客観性なき実在論：近年の道徳心理学における感情主義の検討](http://hdl.handle.net/2433/161653)」『実践哲学研究』(33){:target="_blank"}: 99-125.
+-   長松奈美江, 2016,「[サービス産業化がもたらす働き方の変化：『仕事の質』に注目して](https://ci.nii.ac.jp/naid/40020707045){:target="_blank"}」『日本労働研究雑誌』(666): 27-39.
+-   長松奈美江・阪口祐介・太郎丸博, 2009,「[仕事の複雑性スコアの構成：職務内容を反映した職業指標の提案](https://doi.org/10.11218/ojjams.24.77){:target="_blank"}」『理論と方法』24(1): 77-93.
+-   永守伸年, 2011,「[客観性なき実在論：近年の道徳心理学における感情主義の検討](http://hdl.handle.net/2433/161653){:target="_blank"}」『実践哲学研究』(33): 99-125.
 -   長尾由希子, 2005,「[女子高校生にとっての短期高等教育と将来展望：専門学校進学者と短大進学者の比較から](http://doi.org/10.15083/00031354){:target="_blank"}」『東京大学大学院教育学研究科紀要』45: 97-103.
 -   長澤徹・野村恭子・竹之下真一・平池春子・土谷明子・大久保孝義・冲永寛子, 2019,「[医療系総合大学教員におけるアカデミック・ハラスメント尺度の開発](https://doi.org/10.1265/jjh.18033){:target="_blank"}」『日本衛生学雑誌』74.
--   永瀬圭, 2016,「[男性の配偶者選択の基準に関する分析：社会経済的地位に注目して](http://hdl.handle.net/2433/219498)」『京都社会学年報』(24){:target="_blank"}: 95-108.
--   永瀬圭・太郎丸博, 2014,「[性役割意識のコーホート分析：若者は保守化しているか？](https://doi.org/10.14959/soshioroji.58.3_19)」『ソシオロジ』58(3){:target="_blank"}: 19-33.
--   永冨陽子, 2015,「[職場におけるハラスメントとメンタルヘルスに関する研究動向と課題](https://doi.org/10.24644/keidaironshu.66.1_223)」『大阪経大論集』66(1){:target="_blank"}: 223-233.
--   永吉希久子, 2012,「[日本人の排外意識に対する分断労働市場の影響：JGSS-2006の分析から](https://doi.org/10.4057/jsr.63.19)」『社会学評論』63(1){:target="_blank"}: 19-35.
--   永吉希久子, 2014,「[外国籍者への権利付与意識の規定構造：潜在クラス分析を用いたアプローチ](https://doi.org/10.11218/ojjams.29.345)」『理論と方法』29(2){:target="_blank"}: 345-361.
--   永吉希久子, 2017,「[非家族ネットワーク喪失の規定要因におけるジェンダー差：固定効果モデルを用いた失業と貧困の効果の検証](https://doi.org/10.11218/ojjams.32.114)」『理論と方法』32(1){:target="_blank"}: 114-126.
--   内藤忍, 2015,「[労使で取り組むいじめ・ハラスメントのない職場：実情と課題](https://ci.nii.ac.jp/naid/40020430689)」『労働の科学』70(3){:target="_blank"}: 132-137.
+-   永瀬圭, 2016,「[男性の配偶者選択の基準に関する分析：社会経済的地位に注目して](http://hdl.handle.net/2433/219498){:target="_blank"}」『京都社会学年報』(24): 95-108.
+-   永瀬圭・太郎丸博, 2014,「[性役割意識のコーホート分析：若者は保守化しているか？](https://doi.org/10.14959/soshioroji.58.3_19){:target="_blank"}」『ソシオロジ』58(3): 19-33.
+-   永冨陽子, 2015,「[職場におけるハラスメントとメンタルヘルスに関する研究動向と課題](https://doi.org/10.24644/keidaironshu.66.1_223){:target="_blank"}」『大阪経大論集』66(1): 223-233.
+-   永吉希久子, 2012,「[日本人の排外意識に対する分断労働市場の影響：JGSS-2006の分析から](https://doi.org/10.4057/jsr.63.19){:target="_blank"}」『社会学評論』63(1): 19-35.
+-   永吉希久子, 2014,「[外国籍者への権利付与意識の規定構造：潜在クラス分析を用いたアプローチ](https://doi.org/10.11218/ojjams.29.345){:target="_blank"}」『理論と方法』29(2): 345-361.
+-   永吉希久子, 2017,「[非家族ネットワーク喪失の規定要因におけるジェンダー差：固定効果モデルを用いた失業と貧困の効果の検証](https://doi.org/10.11218/ojjams.32.114){:target="_blank"}」『理論と方法』32(1): 114-126.
+-   内藤忍, 2015,「[労使で取り組むいじめ・ハラスメントのない職場：実情と課題](https://ci.nii.ac.jp/naid/40020430689){:target="_blank"}」『労働の科学』70(3): 132-137.
 -   中河伸俊・北澤毅・土井隆義編, 2001,『[社会構築主義のスペクトラム：パースペクティブの現在と可能性](https://www.amazon.co.jp/%25E7%25A4%25BE%25E4%25BC%259A%25E6%25A7%258B%25E7%25AF%2589%25E4%25B8%25BB%25E7%25BE%25A9%25E3%2581%25AE%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25A0%25E2%2580%2595%25E3%2583%2591%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25AF%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2596%25E3%2581%25AE%25E7%258F%25BE%25E5%259C%25A8%25E3%2581%25A8%25E5%258F%25AF%25E8%2583%25BD%25E6%2580%25A7-%25E4%25B8%25AD%25E6%25B2%25B3-%25E4%25BC%25B8%25E4%25BF%258A/dp/4888486441/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D73d0dcc33a46e56d7b18b37e5d68fb7b%26language%3Dja_JP){:target="_blank"}』ナカニシヤ出版.
    -   野村知二・上野加代子,「児童虐待事例の構成：記述のテクニックと解釈モードの選択」pp. 156-174.
    -   足立重和,「伝統文化の管理人：郡上おどりの保存をめぐる郷土史家の言説実践」pp. 175-195.
 -   中井美樹・杉野勇編, 2008,『ライフコース・ライフスタイルから見た社会階層〔2005年SSM調査シリーズ9〕』2005年SSM調査研究会.
    -   杉野勇,「仕事と家庭のコンフリクトの規定因とその波及効果」pp. 175-189.
 -   中島弘至, 2014,「[偏差値による大学変数の分析：文系・理工系、国公立・私立の観点から](http://hdl.handle.net/2261/57016){:target="_blank"}」『東京大学大学院教育学研究科紀要』54: 201-210.
--   中島沙紀, 2014,「[差別における非対称性の計量研究に向けて](https://ci.nii.ac.jp/naid/40020248250)」『KG社会学批評』(3){:target="_blank"}: 13-22.（佐藤裕『差別論』の書評論文）
+-   中島沙紀, 2014,「[差別における非対称性の計量研究に向けて](https://ci.nii.ac.jp/naid/40020248250){:target="_blank"}」『KG社会学批評』(3): 13-22.（佐藤裕『差別論』の書評論文）
 -   中島岳志・片山杜秀・高田里惠子・植村和秀・田中秀臣, 2010,『[日本思想という病：なぜこの国は行きづまるのか？](https://www.amazon.co.jp/%25E6%2597%25A5%25E6%259C%25AC%25E6%2580%259D%25E6%2583%25B3%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E7%2597%2585-SYNODOS-READINGS-%25E8%258A%25B9%25E6%25B2%25A2-%25E4%25B8%2580%25E4%25B9%259F/dp/4334976034/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3Db872f152c3f7e5de9d462fc724c25927%26language%3Dja_JP){:target="_blank"}』光文社.
    -   片山杜秀,「中今・無・無責任」pp. 83-155.
    -   高田里惠子,「文系知識人の受難：それはいつから始まったか」pp. 157-219.
    -   田中秀臣,「ニッポンの意識：反復する経済思想」pp. 273-334.
--   中村浩子・岩崎久美子, 2009,「[ポストドクターのキャリア形成：理論物理学専攻者調査から](https://ci.nii.ac.jp/naid/40016900715)」『科学技術社会論研究』(7){:target="_blank"}: 181-192.
--   中村正利, 2000,「[カルナップの規約主義：『言語の論理的構文論』を中心に](https://doi.org/10.4216/jpssj.33.31)」『科学哲学』33(1){:target="_blank"}: 31-42.
--   中村三緒子, 2015,「[高学歴既婚女性の職業経歴分化に関する考察：短大卒者と大卒者を比較して](http://id.nii.ac.jp/1510/00000414/)」『白鴎大学教育学部論集』9(2){:target="_blank"}: 381-402.
--   中村隆, 2019,「[コウホート分析の古今：一般化線形混合モデルとしてのコウホートモデル](https://ci.nii.ac.jp/naid/40021895599)」『社会と調査』(22){:target="_blank"}: 106-114.
+-   中村浩子・岩崎久美子, 2009,「[ポストドクターのキャリア形成：理論物理学専攻者調査から](https://ci.nii.ac.jp/naid/40016900715){:target="_blank"}」『科学技術社会論研究』(7): 181-192.
+-   中村正利, 2000,「[カルナップの規約主義：『言語の論理的構文論』を中心に](https://doi.org/10.4216/jpssj.33.31){:target="_blank"}」『科学哲学』33(1): 31-42.
+-   中村三緒子, 2015,「[高学歴既婚女性の職業経歴分化に関する考察：短大卒者と大卒者を比較して](http://id.nii.ac.jp/1510/00000414/){:target="_blank"}」『白鴎大学教育学部論集』9(2): 381-402.
+-   中村隆, 2019,「[コウホート分析の古今：一般化線形混合モデルとしてのコウホートモデル](https://ci.nii.ac.jp/naid/40021895599){:target="_blank"}」『社会と調査』(22): 106-114.
 -   中村高康編, 2008,『[階層社会の中の教育現象](http://srdq.hus.osaka-u.ac.jp/metadata.cgi%3Flang%3Djp%26page%3Drefs%26rid%3D4493){:target="_blank"}（2005年SSM調査シリーズ6）』2005年SSM調査研究会.
    -   相澤真一,「進学期待・進学行動の関連と社会的規定要因の継時的変化：ジェンダー間の差異を手がかりに」pp. 1-19.
    -   濱中義隆,「高等教育の拡大過程における『非大学型』高等教育機会の役割と変容：専門学校の制度化と定着に着目して」pp. 49-67.
 -   中村禎里, 1965,「日本における生物科学の研究費」『生物学史研究ノート』(11): 38-40.
 -   中村禎里, 1966,「日本における生物科学の条件：科学社会学のこころみ」『生物科学』18(1): 40-47.
--   中西準子, 2004,「[リスク評価とリスクマネジメントのあり方：BSEの事例研究](https://ci.nii.ac.jp/naid/40006308644)」『思想』(963){:target="_blank"}: 16-35.
+-   中西準子, 2004,「[リスク評価とリスクマネジメントのあり方：BSEの事例研究](https://ci.nii.ac.jp/naid/40006308644){:target="_blank"}」『思想』(963): 16-35.
 -   中野千秋・山田敏之・福永昌彦, 2019,「[非倫理的行為と組織の倫理風土](https://www.reitaku-u.ac.jp/site_reitaku/wp-content/uploads/2019/04/a88e4c9fdca580b0d7da6b91933bb6e6.pdf){:target="_blank"}」麗澤大学企業倫理研究センター.
 -   中野剛志編, 2010,『[成長なき時代の「国家」を構想する：経済政策のオルタナティヴ・ヴィジョン](https://www.amazon.co.jp/%25E6%2588%2590%25E9%2595%25B7%25E3%2581%25AA%25E3%2581%258D%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E3%2580%258C%25E5%259B%25BD%25E5%25AE%25B6%25E3%2580%258D%25E3%2582%2592%25E6%25A7%258B%25E6%2583%25B3%25E3%2581%2599%25E3%2582%258B-%25E2%2580%2595%25E7%25B5%258C%25E6%25B8%2588%25E6%2594%25BF%25E7%25AD%2596%25E3%2581%25AE%25E3%2582%25AA%25E3%2583%25AB%25E3%2582%25BF%25E3%2583%258A%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B4%25E3%2583%25BB%25E3%2583%25B4%25E3%2582%25A3%25E3%2582%25B8%25E3%2583%25A7%25E3%2583%25B3%25E2%2580%2595-%25E4%25B8%25AD%25E9%2587%258E%25E5%2589%259B%25E5%25BF%2597/dp/4779505135/ref%3Das_li_ss_tl%3Fie%3DUTF8%26qid%3D1532824924%26sr%3D8-1%26keywords%3D%25E6%2588%2590%25E9%2595%25B7%25E3%2581%25AA%25E3%2581%258D%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E3%2580%258C%25E5%259B%25BD%25E5%25AE%25B6%25E3%2580%258D%25E3%2582%2592%25E6%25A7%258B%25E6%2583%25B3%25E3%2581%2599%25E3%2582%258B%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D2ae11fbc8b3601af34c202f44974fe5a){:target="_blank"}』ナカニシヤ出版.
    -   安藤馨,「幸福・福利・効用」pp. 130-155.
--   中野康人, 2009,「[『環境にやさしい』の国際比較](http://hdl.handle.net/10236/2589)」『関西学院大学社会学部紀要』(107){:target="_blank"}: 143-154.
--   中尾央, 2010,「[ミームという視点](https://doi.org/10.14989/108695)」『科学哲学科学史研究』(4){:target="_blank"}: 45-64.
--   中尾央, 2011,「[文化の系譜：文化系統学の（再）興隆](https://doi.org/10.14989/137422)」『科学哲学科学史研究』(5){:target="_blank"}: 51-69.
--   ナカル, エルダド, 2007,「[天国から地獄へ：マンガから見た日本の第二次世界大戦の記憶、敗戦直後から1970年代まで](https://ci.nii.ac.jp/naid/110007409490/)」『哲学』(117){:target="_blank"}: 89-123.
--   Nakata, Tomoo, 2000, "[Authoritarian Conservatism and Health Locus of Control in Elderly Japanese People](http://id.nii.ac.jp/1238/00000804/)," 『北星学園大学社会福祉学部北星論集』(37){:target="_blank"}: 17-30.
+-   中野康人, 2009,「[『環境にやさしい』の国際比較](http://hdl.handle.net/10236/2589){:target="_blank"}」『関西学院大学社会学部紀要』(107): 143-154.
+-   中尾央, 2010,「[ミームという視点](https://doi.org/10.14989/108695){:target="_blank"}」『科学哲学科学史研究』(4): 45-64.
+-   中尾央, 2011,「[文化の系譜：文化系統学の（再）興隆](https://doi.org/10.14989/137422){:target="_blank"}」『科学哲学科学史研究』(5): 51-69.
+-   ナカル, エルダド, 2007,「[天国から地獄へ：マンガから見た日本の第二次世界大戦の記憶、敗戦直後から1970年代まで](https://ci.nii.ac.jp/naid/110007409490/){:target="_blank"}」『哲学』(117): 89-123.
+-   Nakata, Tomoo, 2000, "[Authoritarian Conservatism and Health Locus of Control in Elderly Japanese People](http://id.nii.ac.jp/1238/00000804/){:target="_blank"}," 『北星学園大学社会福祉学部北星論集』(37): 17-30.
 -   中山玄三, 2015,「[科学的知識の特質についての理解：理工系学部の大学生を対象とした実態調査](http://id.nii.ac.jp/1176/00000836/){:target="_blank"}」『崇城大学紀要』40: 103-108.
 -   中澤智恵・余田翔平, 2014,「[〈家族と教育〉に関する研究動向](https://doi.org/10.11151/eds.95.171){:target="_blank"}」『教育社会学研究』95: 171-205.
--   難波功士, 1997,「[『サブカルチャー』再考](http://hdl.handle.net/10236/14056)」『関西学院大学社会学部紀要』(78){:target="_blank"}: 71-84.
--   Nanay, Bence, 2011, "[What If Reality Has No Architecture](https://doi.org/10.5840/monist20119429)," _The Monist_, 94(2){:target="_blank"}: 181-196.
--   直江清隆, 1990,「[存在被拘束性と相関主義：マンハイムの文化社会学と知識社会学およびその新カント派価値哲学との関わり](https://doi.org/10.14959/soshioroji.35.2_61)」『ソシオロジ』35(2){:target="_blank"}: 61-78.
+-   難波功士, 1997,「[『サブカルチャー』再考](http://hdl.handle.net/10236/14056){:target="_blank"}」『関西学院大学社会学部紀要』(78): 71-84.
+-   Nanay, Bence, 2011, "[What If Reality Has No Architecture](https://doi.org/10.5840/monist20119429){:target="_blank"}," _The Monist_, 94(2): 181-196.
+-   直江清隆, 1990,「[存在被拘束性と相関主義：マンハイムの文化社会学と知識社会学およびその新カント派価値哲学との関わり](https://doi.org/10.14959/soshioroji.35.2_61){:target="_blank"}」『ソシオロジ』35(2): 61-78.
 -   直井優・藤田英典編, 2008,『[講座社会学13 階層](https://www.amazon.co.jp/%25E8%25AC%259B%25E5%25BA%25A7%25E7%25A4%25BE%25E4%25BC%259A%25E5%25AD%25A6-13-%25E9%259A%258E%25E5%25B1%25A4-%25E7%259B%25B4%25E4%25BA%2595-%25E5%2584%25AA/dp/4130551132/ref%3Das_li_ss_tl%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1537350535%26sr%3D1-1%26keywords%3D%25E8%25AC%259B%25E5%25BA%25A7%25E7%25A4%25BE%25E4%25BC%259A%25E5%25AD%25A613%2B%25E9%259A%258E%25E5%25B1%25A4%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D8033b54bd8f57536d9a305075e76aab6%26language%3Dja_JP){:target="_blank"}』東京大学出版会.
    -   直井優,「総論：液状化する社会階層」pp. 1-37.
    -   吉川徹,「階級・階層意識の計量社会学」pp. 77-108.
 -   成瀬麻夕・川畑智子, 2016,「[日本の大学におけるハラスメント関連資料から見えた特徴：テキスト分析を用いたセクシュアル・ハラスメント事例の検討](https://doi.org/10.7129/hokkaidoshakai.29.43){:target="_blank"}」『現代社会学研究』29: 43-61.
--   縄田健悟, 2015,「[集団間紛争の発生と激化に関する社会心理学的研究の概観と展望](https://doi.org/10.2130/jjesp.1105)」『実験社会心理学研究』53(1){:target="_blank"}: 52-74.
+-   縄田健悟, 2015,「[集団間紛争の発生と激化に関する社会心理学的研究の概観と展望](https://doi.org/10.2130/jjesp.1105){:target="_blank"}」『実験社会心理学研究』53(1): 52-74.
 -   畷素代, 2009,「[女子大学生の主観的健康統制感と生活経験・健康行動との関連性](https://ci.nii.ac.jp/naid/110008667979){:target="_blank"}」『人間文化研究科年報』24: 149-161.
--   Nederman, Cary J. and James Wray Goulding, 1981, "[Popular Occultism and Critical Social Theory: Exploring Some Themes in Adorno's Critique of Astrology and the Occult](https://doi.org/10.2307/3711544)," _Sociological Analysis_, 42(4){:target="_blank"}: 325-332.
--   Netemeyer, Richard G., James S. Boles, and Robert McMurrian, 1996, "[Development and Validation of Work-Family Conflict and Family-Work Conflict Scales](https://psycnet.apa.org/doi/10.1037/0021-9010.81.4.400)," _Journal of Applied Psychology_, 81(4){:target="_blank"}: 400-410.
--   伍嘉誠・寺沢重法, 2015,「[香港の高齢者の主観的ウェルビーイングにおける宗教の役割：一貫道の高齢信徒へのインタビュー調査から](https://doi.org/10.18910/51352)」『宗教と社会貢献』5(1){:target="_blank"}: 1-27.
--   Nieuwenhuis, Rense, Manfred te Grotenhuis, and Ben Pelzer, 2017, "[Weighted Effect Coding for Observational Data with wec](https://doi.org/10.32614/RJ-2017-017)," _The R Journal_, 9(1){:target="_blank"}: 477-485.
--   新山陽子・西川朗・三輪さち子, 2007,「[食品購買における消費者の情報処理プロセスの特質：認知的概念モデルと発話思考プロトコル分析](https://doi.org/10.5874/jfsr.14.15)」『フードシステム研究』14(1){:target="_blank"}: 15-33.
+-   Nederman, Cary J. and James Wray Goulding, 1981, "[Popular Occultism and Critical Social Theory: Exploring Some Themes in Adorno's Critique of Astrology and the Occult](https://doi.org/10.2307/3711544){:target="_blank"}," _Sociological Analysis_, 42(4): 325-332.
+-   Netemeyer, Richard G., James S. Boles, and Robert McMurrian, 1996, "[Development and Validation of Work-Family Conflict and Family-Work Conflict Scales](https://psycnet.apa.org/doi/10.1037/0021-9010.81.4.400){:target="_blank"}," _Journal of Applied Psychology_, 81(4): 400-410.
+-   伍嘉誠・寺沢重法, 2015,「[香港の高齢者の主観的ウェルビーイングにおける宗教の役割：一貫道の高齢信徒へのインタビュー調査から](https://doi.org/10.18910/51352){:target="_blank"}」『宗教と社会貢献』5(1): 1-27.
+-   Nieuwenhuis, Rense, Manfred te Grotenhuis, and Ben Pelzer, 2017, "[Weighted Effect Coding for Observational Data with wec](https://doi.org/10.32614/RJ-2017-017){:target="_blank"}," _The R Journal_, 9(1): 477-485.
+-   新山陽子・西川朗・三輪さち子, 2007,「[食品購買における消費者の情報処理プロセスの特質：認知的概念モデルと発話思考プロトコル分析](https://doi.org/10.5874/jfsr.14.15){:target="_blank"}」『フードシステム研究』14(1): 15-33.
 -   西田豊, 2017,「安全風土と安全文化：概念、測定と理論、醸成について」『INSS Journal』24: 21-31.
--   西垣悦代, 2008,「[医師に対する信頼の観点からみた日本の患者タイプの特徴](https://doi.org/10.11560/jahp.21.1_1)」『健康心理学研究』21(1){:target="_blank"}: 1-9.
+-   西垣悦代, 2008,「[医師に対する信頼の観点からみた日本の患者タイプの特徴](https://doi.org/10.11560/jahp.21.1_1){:target="_blank"}」『健康心理学研究』21(1): 1-9.
 -   西原宏, 1999,「INSSにおけるトランスサイエンスとしての安全研究」『INSS Journal』6: 188-194.
 -   西城戸誠, 2003,「[抗議活動への参加と運動の『文化的基盤』：フレーム分析の再検討](https://doi.org/10.7129/jject.16.119){:target="_blank"}」『現代社会学研究』16: 119-136.
--   西村純子, 2001,「[性別分業意識の多元性とその規定要因](https://doi.org/10.5690/kantoh.2001.139)」『年報社会学論集』(14){:target="_blank"}: 139-150.
--   西村智, 2016,「[若者の恋愛離れに関する一考察：恋人探しにみる先送り行動](https://doi.org/10.24454/jps.52.0_25)」『人口学研究』(52){:target="_blank"}: 25-37.
--   西脇与作, 1980,「[生物種の指示について](https://doi.org/10.4288/kisoron1954.15.15)」『科学基礎論研究』15(1){:target="_blank"}: 15-21.
+-   西村純子, 2001,「[性別分業意識の多元性とその規定要因](https://doi.org/10.5690/kantoh.2001.139){:target="_blank"}」『年報社会学論集』(14): 139-150.
+-   西村智, 2016,「[若者の恋愛離れに関する一考察：恋人探しにみる先送り行動](https://doi.org/10.24454/jps.52.0_25){:target="_blank"}」『人口学研究』(52): 25-37.
+-   西脇与作, 1980,「[生物種の指示について](https://doi.org/10.4288/kisoron1954.15.15){:target="_blank"}」『科学基礎論研究』15(1): 15-21.
 -   新田義弘ほか編, 1994,『[岩波講座 現代思想〈10〉 科学論](https://www.amazon.co.jp/%25E5%25B2%25A9%25E6%25B3%25A2%25E8%25AC%259B%25E5%25BA%25A7-%25E7%258F%25BE%25E4%25BB%25A3%25E6%2580%259D%25E6%2583%25B3%25E3%2580%258810%25E3%2580%2589%25E7%25A7%2591%25E5%25AD%25A6%25E8%25AB%2596-%25E6%2596%25B0%25E7%2594%25B0-%25E7%25BE%25A9%25E5%25BC%2598/dp/400010540X/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D880880b91f720746ee57c18baca133e5%26language%3Dja_JP){:target="_blank"}』岩波書店.
    -   クーン, トーマス,「解釈学的転回：自然科学と人間科学」（佐々木力訳）pp. 97-108.
    -   戸田山和久,「ウィトゲンシュタイン的科学論」pp. 139-170.
    -   佐々木力,「マルクス主義科学論」pp. 197-267.
    -   成定薫,「科学社会学の成立と展開：客観主義的科学観から相対主義的科学観へ」pp. 315-336.
--   信原幸弘, 2008,「[脳科学と心の機械化](https://doi.org/10.11439/philosophy1952.2008.97)」『哲学』2008(59){:target="_blank"}: 97-114.
--   野上真・古川久敬, 2010,「[目標設定に関わる運用方略の効果性に関する研究の概括](https://doi.org/10.32222/jaiop.23.2_129)」『産業・組織心理学』23(2){:target="_blank"}: 129-144.
--   Nolen, David S., and Hillary A.H. Richardson, 2016, "[The Search for Landmark Works in English Literary Studies: A Citation Analysis](http://www.sciencedirect.com/science/article/pii/S0099133316300155)," _The Journal of Academic Librarianship_, 42(4){:target="_blank"}: 453-458.
+-   信原幸弘, 2008,「[脳科学と心の機械化](https://doi.org/10.11439/philosophy1952.2008.97){:target="_blank"}」『哲学』2008(59): 97-114.
+-   野上真・古川久敬, 2010,「[目標設定に関わる運用方略の効果性に関する研究の概括](https://doi.org/10.32222/jaiop.23.2_129){:target="_blank"}」『産業・組織心理学』23(2): 129-144.
+-   Nolen, David S., and Hillary A.H. Richardson, 2016, "[The Search for Landmark Works in English Literary Studies: A Citation Analysis](http://www.sciencedirect.com/science/article/pii/S0099133316300155){:target="_blank"}," _The Journal of Academic Librarianship_, 42(4): 453-458.
 -   野内玲, 2007,「[カートライトのモデル論は科学的実在論論争に変化をもたらしうるか](https://ci.nii.ac.jp/naid/40015705748){:target="_blank"}」『Nagoya Journal of Philosophy』6: 69-83.
 -   野内玲, 2008,「[カートライトの形而上学的科学観](https://ci.nii.ac.jp/naid/40016396894){:target="_blank"}」『Nagoya Journal of Philosophy』7: 85-100.
--   額賀淑郎, 2006,「[医療化論と生物医療化論](http://doi.org/10.4057/jsr.56.815)」『社会学評論』56(4){:target="_blank"}: 815-829.
+-   額賀淑郎, 2006,「[医療化論と生物医療化論](http://doi.org/10.4057/jsr.56.815){:target="_blank"}」『社会学評論』56(4): 815-829.
 
 ### O
 
--   O'Brien, Tomothy, 2013, "[Education and Support for Scientists and Elected Officials in Public Policy Decisions](https://doi.org/10.1093/scipol/scs112)," _Science and Public Policy_, 40(3){:target="_blank"}: 340-353.
--   O'Brien, Timothy L., and Shiri Noy, 2015, "[Traditional, Modern, and Post-Secular Perspectives on Science and Religion in the United States](https://doi.org/10.1177/0003122414558919)," _American Sociological Review_, 80(1){:target="_blank"}: 92-115.
--   Ochiai, Emiko, 2014, "[Leaving the West, Rejoining the East? Gender and Family in Japan’s Semi-compressed Modernity](http://journals.sagepub.com/doi/abs/10.1177/0268580914530415)," _International Sociology_, 29(3){:target="_blank"}: 209-228.
--   織田暁子, 2011,「[日本における男女間賃金格差の地域差に関する研究動向](http://hdl.handle.net/2433/192734)」『京都社会学年報』(19){:target="_blank"}: 23-37.
+-   O'Brien, Tomothy, 2013, "[Education and Support for Scientists and Elected Officials in Public Policy Decisions](https://doi.org/10.1093/scipol/scs112){:target="_blank"}," _Science and Public Policy_, 40(3): 340-353.
+-   O'Brien, Timothy L., and Shiri Noy, 2015, "[Traditional, Modern, and Post-Secular Perspectives on Science and Religion in the United States](https://doi.org/10.1177/0003122414558919){:target="_blank"}," _American Sociological Review_, 80(1): 92-115.
+-   Ochiai, Emiko, 2014, "[Leaving the West, Rejoining the East? Gender and Family in Japan’s Semi-compressed Modernity](http://journals.sagepub.com/doi/abs/10.1177/0268580914530415){:target="_blank"}," _International Sociology_, 29(3): 209-228.
+-   織田暁子, 2011,「[日本における男女間賃金格差の地域差に関する研究動向](http://hdl.handle.net/2433/192734){:target="_blank"}」『京都社会学年報』(19): 23-37.
 -   小田中直樹, 2018,「[フランスデモ、怒りの根底にある『庶民軽視・緊縮財政』の現代史](https://gendai.ismedia.jp/articles/-/58947){:target="_blank"}」現代ビジネス, 2018年12月14日.
 -   大出春江, 2005,「[病院出産の成立と加速：正常産をめぐる攻防と産師法制定運動を中心として](http://ci.nii.ac.jp/naid/110003482150){:target="_blank"}」『人間関係学研究』7: 25-39.
--   小笠原祐子, 2009,「[性別役割分業意識の多元性と父親による仕事と育児の調整](https://ci.nii.ac.jp/naid/40016443798)」『家計経済研究』(81){:target="_blank"}: 34-42.
--   小方直幸・金子元久, 1997,「[『女子事務職』の形成と融解：短大卒を中心に](https://ci.nii.ac.jp/naid/110000516001)」『日本労働研究雑誌』(445){:target="_blank"}: 2-12.
+-   小笠原祐子, 2009,「[性別役割分業意識の多元性と父親による仕事と育児の調整](https://ci.nii.ac.jp/naid/40016443798){:target="_blank"}」『家計経済研究』(81): 34-42.
+-   小方直幸・金子元久, 1997,「[『女子事務職』の形成と融解：短大卒を中心に](https://ci.nii.ac.jp/naid/110000516001){:target="_blank"}」『日本労働研究雑誌』(445): 2-12.
 -   荻野美穂, 2008,「[資源化される身体：戦前・戦中・戦後の人口政策をめぐって](https://doi.org/10.5363/tits.13.4_21){:target="_blank"}」『学術の動向』21-26.
 -   大平章, 2005,「[『定着者と部外者』におけるノルベルト・エリアスの理論的革新性](http://hdl.handle.net/2065/12760){:target="_blank"}」『Waseda Global Forum』2: 67-78.
--   大平章, 2014,「[スポーツ社会学者としてのノルベルト・エリアス](http://doi.org/10.15057/26539)」『人文・自然研究』 (8){:target="_blank"}: 73-102.
+-   大平章, 2014,「[スポーツ社会学者としてのノルベルト・エリアス](http://doi.org/10.15057/26539){:target="_blank"}」『人文・自然研究』 (8): 73-102.
 -   尾嶋史章編, 1998,『ジェンダーと階層意識（1995年SSM調査シリーズ14）』1995年SSM調査研究会.
    -   木村邦博,「既婚女性の学歴・就業形態と性別役割意識」pp. 23-48.
--   Okamura, Keisuke, 2016, "[Dynamic Development of Public Attitudes towards Science Policymaking](https://doi.org/10.1177/0963662515605420)," _Public Understanding of Science_, 25(4){:target="_blank"}: 465-479.
+-   Okamura, Keisuke, 2016, "[Dynamic Development of Public Attitudes towards Science Policymaking](https://doi.org/10.1177/0963662515605420){:target="_blank"}," _Public Understanding of Science_, 25(4): 465-479.
 -   Okasha, Samir, 2002, "[Darwinian Metaphysics: Species and the Question of Essentialism](https://doi.org/10.1023/A%3A1015731831011){:target="_blank"}," _Synthese_, 131: 191-213.
 -   Okasha, Samir, 2012, "[Population Genetics](https://plato.stanford.edu/archives/fall2012/entries/population-genetics/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   桶川泰, 2008,「[親密性をめぐる『新たな不安』：雑誌記事における『モテる』『モテない』格差の説明原理](https://doi.org/10.14959/soshioroji.52.3_155)」『ソシオロジ』52(3){:target="_blank"}: 155-171.
--   桶川泰, 2014,「[『恋愛意欲』『結婚意欲』が高いのは誰か、異性との交際意欲が低いのは誰か](https://ci.nii.ac.jp/naid/110009758490)」『追手門学院大学社会学部紀要』(8){:target="_blank"}: 1-12.
--   大木富雄, 2003,「[動物愛護に対する世論調査から](https://doi.org/10.11266/jpan1998.6.3_145)」『ペット栄養学会誌』6(3){:target="_blank"}: 145-146.
--   大久保将貴, 2014,「[制度研究のフロンティア：ゲーム理論・因果推論・操作変数法](https://doi.org/10.18910/27116)」『年報人間科学』(35){:target="_blank"}: 19-37.
--   奥田太郎, 2004,「[マイケル・スミスのヒューム主義とヒューム道徳哲学の比較検討の試み](http://hdl.handle.net/2433/59245)」『実践哲学研究』(27){:target="_blank"}: 1-28.
--   奥村晴彦, 2008,「[情報教育と統計](http://id.nii.ac.jp/1001/00054018/)」『情報処理学会研究報告コンピュータと教育（CE）』(128){:target="_blank"}: 81-88.
+-   桶川泰, 2008,「[親密性をめぐる『新たな不安』：雑誌記事における『モテる』『モテない』格差の説明原理](https://doi.org/10.14959/soshioroji.52.3_155){:target="_blank"}」『ソシオロジ』52(3): 155-171.
+-   桶川泰, 2014,「[『恋愛意欲』『結婚意欲』が高いのは誰か、異性との交際意欲が低いのは誰か](https://ci.nii.ac.jp/naid/110009758490){:target="_blank"}」『追手門学院大学社会学部紀要』(8): 1-12.
+-   大木富雄, 2003,「[動物愛護に対する世論調査から](https://doi.org/10.11266/jpan1998.6.3_145){:target="_blank"}」『ペット栄養学会誌』6(3): 145-146.
+-   大久保将貴, 2014,「[制度研究のフロンティア：ゲーム理論・因果推論・操作変数法](https://doi.org/10.18910/27116){:target="_blank"}」『年報人間科学』(35): 19-37.
+-   奥田太郎, 2004,「[マイケル・スミスのヒューム主義とヒューム道徳哲学の比較検討の試み](http://hdl.handle.net/2433/59245){:target="_blank"}」『実践哲学研究』(27): 1-28.
+-   奥村晴彦, 2008,「[情報教育と統計](http://id.nii.ac.jp/1001/00054018/){:target="_blank"}」『情報処理学会研究報告コンピュータと教育（CE）』(128): 81-88.
 -   奥野満里子, 1995,「[パーフィットの人格および人格同一性の議論について](http://hdl.handle.net/2433/59198){:target="_blank"}」『実践哲学研究』18: 21-39.
--   大前敦巳, 1995,「[P.ブルデューにおける「社会空間」と「界」の構築：データ分析を通した反省的社会学の可能性](http://hdl.handle.net/10513/402)」『上越教育大学研究紀要』14(2){:target="_blank"}: 509-523.
+-   大前敦巳, 1995,「[P.ブルデューにおける「社会空間」と「界」の構築：データ分析を通した反省的社会学の可能性](http://hdl.handle.net/10513/402){:target="_blank"}」『上越教育大学研究紀要』14(2): 509-523.
 -   大前敦巳, 2002,「[キャッチアップ文化資本による再生産戦略：日本型学歴社会における『文化的再生産』論の展開可能性](https://doi.org/10.11151/eds1951.70.165){:target="_blank"}」『教育社会学研究』70: 165-184.
 -   大前敦巳, 2012,「[P.ブルデューにおける高等教育の文化変動論：市場化に伴う正統的文化の自律性低下に着目して](https://doi.org/10.20811/nichifutsusocio.21.0_45){:target="_blank"}」『日仏社会学会年報』21: 45-65.
 -   O'Muircheartaigh, Colm, Jon A. Krosnick, and Armin Helic, 2000, "Middle Alternatives, Acquiescence, and the Quality of Questionnaire Data," Working Papers 0103, Harris School of Public Policy Studies, University of Chicago.
 -   大西孝弘, 2020,「[ドイツ成功の陰に『州分権』、小国の機動力に新型コロナ対策の光明](https://business.nikkei.com/atcl/gen/19/00122/051100022/){:target="_blank"}」『日経ビジネス』2020年5月12日.
 -   小野浩, 2016,「日本の労働時間はなぜ減らないのか？ 長時間労働の社会学的考察」『日本労働研究雑誌』(677): 15-27.
--   大貫敦子, 1999,「[抵抗から反抗へ：ジェンダー理論の現在](https://ci.nii.ac.jp/naid/40004183520)」『社会思想史研究』(23){:target="_blank"}: 44-51.
--   オプ, カール-データー, 2009,「[社会学における個人主義リサーチプログラム：その発展、現状、問題点](http://id.nii.ac.jp/1204/00000095/)」（久慈利武訳）『東北学院大学教養学部論集』(159){:target="_blank"}: 75-108.
--   Oppenheimer, Valerie Kincade, 1988, "[A Theory of Marriage Timing](https://doi.org/10.1086/229030)," _American Journal of Sociology_, 94(3){:target="_blank"}: 563-591.
+-   大貫敦子, 1999,「[抵抗から反抗へ：ジェンダー理論の現在](https://ci.nii.ac.jp/naid/40004183520){:target="_blank"}」『社会思想史研究』(23): 44-51.
+-   オプ, カール-データー, 2009,「[社会学における個人主義リサーチプログラム：その発展、現状、問題点](http://id.nii.ac.jp/1204/00000095/){:target="_blank"}」（久慈利武訳）『東北学院大学教養学部論集』(159): 75-108.
+-   Oppenheimer, Valerie Kincade, 1988, "[A Theory of Marriage Timing](https://doi.org/10.1086/229030){:target="_blank"}," _American Journal of Sociology_, 94(3): 563-591.
 -   Orzack, Steven Hecht, and Patrick Forber, 2010, "[Adaptationism](https://plato.stanford.edu/entries/adaptationism/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   大沢真知子, 2015,「[今後の大学における女性のキャリア形成支援](https://ci.nii.ac.jp/naid/40020672055)」『IDE 現代の高等教育』(576){:target="_blank"}: 27-32.
+-   大沢真知子, 2015,「[今後の大学における女性のキャリア形成支援](https://ci.nii.ac.jp/naid/40020672055){:target="_blank"}」『IDE 現代の高等教育』(576): 27-32.
 -   大沢真知子・馬欣欣, 2015,「[高学歴女性の学卒時のキャリア意識と転職行動：『逆選択』はおきているのか](http://id.nii.ac.jp/1133/00001931/){:target="_blank"}」『現代女性とキャリア』7: 87-107.
--   太田雅子, 2020,「[無知の責任と無知による行為の責任](http://doi.org/10.34428/00011569)」『国際哲学研究』(9){:target="_blank"}: 187-194.
+-   太田雅子, 2020,「[無知の責任と無知による行為の責任](http://doi.org/10.34428/00011569){:target="_blank"}」『国際哲学研究』(9): 187-194.
 -   大竹文雄, 2016,「[社会保障制度に行動経済学を活かす](http://www3.keizaireport.com/report.php/RID/266198/){:target="_blank"}」日本経済研究センターWebコラム, 2016年1月27日.
 -   大竹文雄・唐渡広志, 2003,「成果主義的賃金制度と労働意欲」『経済研究』54(3): 193-205.
 -   大竹文雄・奥平寛子, 2008,「[長時間労働の経済分析](https://www.rieti.go.jp/jp/publications/summary/08050011.html){:target="_blank"}」RIETI Discussion Paper 08-J-019.
@@ -797,24 +797,24 @@ title: 整理棚
    -   川口嘉奈子,「ユビキタス社会のプライバシー」pp. 85-105.
    -   大谷卓史,「動画共有サイトにMAD動画を投稿してもよいだろうか」pp. 127-141.
 -   大谷剛・松繁寿和・梅崎修, 2003,「卒業生の所得とキャリアに関する学部間比較」OSIPP Discussion Paper DP-2003-J-007.
--   大塚淳, 2006,「[拡張する身体：サイボーグ技術と脳の可塑性](http://hdl.handle.net/2433/24214)」『京都大学文学部哲学研究室紀要：Prospectus』(9){:target="_blank"}: 1-9.
--   大塚淳, 2007,「[結局、機能とは何だったのか](https://doi.org/10.4216/jpssj.40.29)」『科学哲学』40(1){:target="_blank"}: 29-41.
+-   大塚淳, 2006,「[拡張する身体：サイボーグ技術と脳の可塑性](http://hdl.handle.net/2433/24214){:target="_blank"}」『京都大学文学部哲学研究室紀要：Prospectus』(9): 1-9.
+-   大塚淳, 2007,「[結局、機能とは何だったのか](https://doi.org/10.4216/jpssj.40.29){:target="_blank"}」『科学哲学』40(1): 29-41.
 -   大塚淳, 2008,「[哲学者のためのベイジアンネットワーク入門](http://hdl.handle.net/2433/96277){:target="_blank"}」『哲学論叢』35: 106-117.
--   大塚泰正, 2017,「[働く人にとってのモチベーションの意義：ワーク・エンゲイジメントとワーカホリズムを中心に](https://ci.nii.ac.jp/naid/40021255441)」『日本労働研究雑誌』(684){:target="_blank"}: 59-68.
--   大内章子, 2010,「[均等処遇と女性人材の活用](https://ci.nii.ac.jp/naid/40017040088)」『日本労働研究雑誌』(597){:target="_blank"}: 66-69.
--   大和田寛, 2010,「[1920年代におけるマルクス主義の受容と社会科学文献](https://ci.nii.ac.jp/naid/40017009479)」『大原社会問題研究所雑誌』(617){:target="_blank"}: 54-66.
+-   大塚泰正, 2017,「[働く人にとってのモチベーションの意義：ワーク・エンゲイジメントとワーカホリズムを中心に](https://ci.nii.ac.jp/naid/40021255441){:target="_blank"}」『日本労働研究雑誌』(684): 59-68.
+-   大内章子, 2010,「[均等処遇と女性人材の活用](https://ci.nii.ac.jp/naid/40017040088){:target="_blank"}」『日本労働研究雑誌』(597): 66-69.
+-   大和田寛, 2010,「[1920年代におけるマルクス主義の受容と社会科学文献](https://ci.nii.ac.jp/naid/40017009479){:target="_blank"}」『大原社会問題研究所雑誌』(617): 54-66.
 
 ### P
 
--   Paciello, Marinella, Roberta Fida, Carlo Tramontano, Ellie Cole, and Luca Cerniglia, 2013, "[Moral Dilemma in Adolescence: The Role of Values, Prosocial Moral Reasoning and Moral Disengagement in Helping Decision Making](https://www.researchgate.net/deref/http%253A%252F%252Fdx.doi.org%252F10.1080%252F17405629.2012.759099)," _European Journal of Developmental Psychology_, 10(2){:target="_blank"}: 190-205.
--   朴堯星・前田忠彦, 2015,「[誰が努力は報われると感じているか：現代日本人の〈努力有効感〉に関する分析](https://ci.nii.ac.jp/naid/40020797797/)」『統計数理』63(2){:target="_blank"}: 261-276.
+-   Paciello, Marinella, Roberta Fida, Carlo Tramontano, Ellie Cole, and Luca Cerniglia, 2013, "[Moral Dilemma in Adolescence: The Role of Values, Prosocial Moral Reasoning and Moral Disengagement in Helping Decision Making](https://www.researchgate.net/deref/http%253A%252F%252Fdx.doi.org%252F10.1080%252F17405629.2012.759099){:target="_blank"}," _European Journal of Developmental Psychology_, 10(2): 190-205.
+-   朴堯星・前田忠彦, 2015,「[誰が努力は報われると感じているか：現代日本人の〈努力有効感〉に関する分析](https://ci.nii.ac.jp/naid/40020797797/){:target="_blank"}」『統計数理』63(2): 261-276.
 -   朴沙羅, 2014,「研究動向：オーラルヒストリー研究の歩みと現在」『京都社会学年報』(22): 89-115.
--   Passini, Stefano, 2017, "[Different Ways of Being Authoritarian: The Distinct Effects of Authoritarian Dimensions on Values and Prejudice](https://doi.org/10.1111/pops.12309)," _Political Psychology_, 38(1){:target="_blank"}: 73-86.
--   Pauly, Philip J., 1984, "[The Appearance of Academic Biology in Late Nineteenth-Century America](https://www.jstor.org/stable/4330907)," _Journal of the History of Biology_, 17(3){:target="_blank"}: 369-397.
+-   Passini, Stefano, 2017, "[Different Ways of Being Authoritarian: The Distinct Effects of Authoritarian Dimensions on Values and Prejudice](https://doi.org/10.1111/pops.12309){:target="_blank"}," _Political Psychology_, 38(1): 73-86.
+-   Pauly, Philip J., 1984, "[The Appearance of Academic Biology in Late Nineteenth-Century America](https://www.jstor.org/stable/4330907){:target="_blank"}," _Journal of the History of Biology_, 17(3): 369-397.
 -   Pickett, Brent, 2011, "[Homosexuality](https://plato.stanford.edu/archives/spr2011/entries/homosexuality/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   Piskorski, Mikołaj Jan, and Andreea Gorbatâi, 2017, "[Testing Coleman's Social-Norm Enforcement Mechanism: Evidence from Wikipedia](https://doi.org/10.1086/689816)," _American Journal of Sociology_, 122(4){:target="_blank"}: 1183-1222.
+-   Piskorski, Mikołaj Jan, and Andreea Gorbatâi, 2017, "[Testing Coleman's Social-Norm Enforcement Mechanism: Evidence from Wikipedia](https://doi.org/10.1086/689816){:target="_blank"}," _American Journal of Sociology_, 122(4): 1183-1222.
 -   Pitt, David, 2008, "[Mental Representation](https://plato.stanford.edu/archives/fall2008/entries/mental-representation/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   Platt, Jennifer, and Simon Hopper, 1997, "[Fragmentation, Social Theory, and Feminism: Sociology in the United Kingdom](https://www.jstor.org/stable/2654004)," _Contemporary Sociology_, 26(3){:target="_blank"}: 283-285.
+-   Platt, Jennifer, and Simon Hopper, 1997, "[Fragmentation, Social Theory, and Feminism: Sociology in the United Kingdom](https://www.jstor.org/stable/2654004){:target="_blank"}," _Contemporary Sociology_, 26(3): 283-285.
 -   ポパー哲学研究会編, 2002,『[批判的合理主義〈第2巻〉応用的諸問題](https://www.amazon.co.jp/%25E6%2589%25B9%25E5%2588%25A4%25E7%259A%2584%25E5%2590%2588%25E7%2590%2586%25E4%25B8%25BB%25E7%25BE%25A9%25E3%2580%2588%25E7%25AC%25AC2%25E5%25B7%25BB%25E3%2580%2589%25E5%25BF%259C%25E7%2594%25A8%25E7%259A%2584%25E8%25AB%25B8%25E5%2595%258F%25E9%25A1%258C-%25E3%2583%259D%25E3%2583%2591%25E3%2583%25BC%25E5%2593%25B2%25E5%25AD%25A6%25E7%25A0%2594%25E7%25A9%25B6%25E4%25BC%259A/dp/4624011619/ref%3Das_li_ss_tl%3Fqid%3D1583499846%26s%3Dbooks%26sr%3D1-2%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D57789a89edab570d0f6fb8fb2e120210%26language%3Dja_JP){:target="_blank"}』未来社.
    -   三中信宏・鈴木邦雄,「生物体系学におけるポパー哲学の比較受容」pp. 71-124.
    -   坪野吉孝,「ポパーと医学と環境ホルモン：社会医学におけるポパー論争の歴史と意義」pp. 125-170.
@@ -824,156 +824,156 @@ title: 整理棚
 
 ### R
 
--   Raaijmakers, Quinten A. W., Anne van Hoof, Harm 't Hart, Tom F. M. A. Verbogt, and Wilma A. M. Vollebergh, 2000, "[Adolescents' Midpoint Responses on Likert-Type Scale Items: Neutral or Missing Values?](https://doi.org/10.1093/ijpor/12.2.209)" _International Journal of Public Opinion Research_, 12(2){:target="_blank"}: 208-216.
--   Radimer, Scott, and Heather Rowan-Kenyon, 2019, "[Undergraduate Men's Alcohol Consumption: Masculine Norms, Ethnic Identity, and Social Dominance Orientation](http://doi.org/10.1353/csd.2019.0000)," _Journal of College Student Development_, 60(1){:target="_blank"}: 1-16.
+-   Raaijmakers, Quinten A. W., Anne van Hoof, Harm 't Hart, Tom F. M. A. Verbogt, and Wilma A. M. Vollebergh, 2000, "[Adolescents' Midpoint Responses on Likert-Type Scale Items: Neutral or Missing Values?](https://doi.org/10.1093/ijpor/12.2.209){:target="_blank"}" _International Journal of Public Opinion Research_, 12(2): 208-216.
+-   Radimer, Scott, and Heather Rowan-Kenyon, 2019, "[Undergraduate Men's Alcohol Consumption: Masculine Norms, Ethnic Identity, and Social Dominance Orientation](http://doi.org/10.1353/csd.2019.0000){:target="_blank"}," _Journal of College Student Development_, 60(1): 1-16.
 -   Ravenscroft, Ian, 2010, "[Folk Psychology as a Theory](https://plato.stanford.edu/archives/fall2010/entries/folkpsych-theory/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 -   Rheinberger, Hans-Jörg, and Staffan Müller-Wille, 2009, "[Gene](https://plato.stanford.edu/archives/spr2009/entries/gene/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   Rice, Tom W., 2003, "[Believe It Or Not: Religious and Other Paranormal Beliefs in the United States](https://doi.org/10.1111/1468-5906.00163)," _Journal for the Scientific Study of Religion_, 42(1){:target="_blank"}: 95-106.
--   Ridgeway, Cecilia L., and Shelley J. Correll, 2004, "[Unpacking the Gender System: A Theoretical Perspective on Gender Beliefs and Social Relations](https://doi.org/10.1177/0891243204265269)," _Gender & Society_, 18(4){:target="_blank"}: 510-531.
+-   Rice, Tom W., 2003, "[Believe It Or Not: Religious and Other Paranormal Beliefs in the United States](https://doi.org/10.1111/1468-5906.00163){:target="_blank"}," _Journal for the Scientific Study of Religion_, 42(1): 95-106.
+-   Ridgeway, Cecilia L., and Shelley J. Correll, 2004, "[Unpacking the Gender System: A Theoretical Perspective on Gender Beliefs and Social Relations](https://doi.org/10.1177/0891243204265269){:target="_blank"}," _Gender & Society_, 18(4): 510-531.
 -   Robertson, Teresa, 2008, "[Essential vs. Accidental Properties](https://plato.stanford.edu/archives/sum2008/entries/essential-accidental/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   Robst, John, 2007, "[Education, College Major, and Job Match: Gender Differences in Reasons for Mismatch](https://doi.org/10.1080/09645290701263070)," _Education Economics_, 15(2){:target="_blank"}: 159-175.
--   Rose-Redwood, Reuben, Derek Alderman, and Maoz Azaryahu, 2008, "[Collective Memory and the Politics of Urban Space: An Introduction](https://doi.org/10.1007/s10708-008-9200-6)," _GeoJournal_, 73(3){:target="_blank"}: 161-164.
--   Rosenberg, Charles E., 1967, "[Factors in the Development of Genetics in the United States: Some Suggestions](https://doi.org/10.1093/jhmas/XXII.1.27)," _Journal of the History of Medicine_, 22(1){:target="_blank"}: 27-46.
+-   Robst, John, 2007, "[Education, College Major, and Job Match: Gender Differences in Reasons for Mismatch](https://doi.org/10.1080/09645290701263070){:target="_blank"}," _Education Economics_, 15(2): 159-175.
+-   Rose-Redwood, Reuben, Derek Alderman, and Maoz Azaryahu, 2008, "[Collective Memory and the Politics of Urban Space: An Introduction](https://doi.org/10.1007/s10708-008-9200-6){:target="_blank"}," _GeoJournal_, 73(3): 161-164.
+-   Rosenberg, Charles E., 1967, "[Factors in the Development of Genetics in the United States: Some Suggestions](https://doi.org/10.1093/jhmas/XXII.1.27){:target="_blank"}," _Journal of the History of Medicine_, 22(1): 27-46.
 -   Rosenhan, D. L., 1973, "[On Being Sane in Insane Places](http://science.sciencemag.org/content/179/4070/250){:target="_blank"}," _Science_, 179: 250-8.
 -   Ross, Don, 2010, "[Game Theory](https://plato.stanford.edu/archives/sum2010/entries/game-theory/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   Rossianov, Kirill O., 1993, "[Stalin as Lysenko's Editor: Reshaping Political Discourse in Soviet Science](https://muse.jhu.edu/article/8016)," _Configurations_ 1(3){:target="_blank"}: 439-456.
+-   Rossianov, Kirill O., 1993, "[Stalin as Lysenko's Editor: Reshaping Political Discourse in Soviet Science](https://muse.jhu.edu/article/8016){:target="_blank"}," _Configurations_ 1(3): 439-456.
 -   Rothstein, Bo, and Sven Steinmo, 2018, "['Us Too!': The Rise of Middle-Class Populism in Sweden and Beyond](https://www.socialeurope.eu/me-too-the-rise-of-middle-class-populism-in-sweden-and-beyond){:target="_blank"}," _Social Europe_, 3rd October 2018.
 
 ### S
 
--   佐川佳南枝, 2009,「[記憶の社会学の可能性：ケア現場の視点から](https://ci.nii.ac.jp/naid/40016662237)」『社会学研究科年報』(16){:target="_blank"}: 7-19.
--   佐川佳之, 2009,「[フリースクール運動のフレーム分析：1980〜1990年代に着目して](https://ci.nii.ac.jp/naid/120005399820)」『〈教育と社会〉研究』(19){:target="_blank"}: 46-54.
--   西條玲奈, 2011,「[現代普遍論争の諸相：普遍者・クラス・トロープ](http://hdl.handle.net/2433/151119)」『哲学論叢』38(別冊){:target="_blank"}: S73-S84.
--   坂口尚文, 2016,「[調査への態度や考え方はどのように変わるのか：『消費生活に関するパネル調査』若年対象者の事例より](https://ci.nii.ac.jp/naid/40021034146)」『季刊家計経済研究』(112){:target="_blank"}: 46-58.
--   阪口祐介, 2009,「[環境保護の支持と環境リスク認知の国際比較分析：二つの環境への関心の異なる規定構造](https://doi.org/10.14959/soshioroji.53.3_109)」『ソシオロジ』53(3){:target="_blank"}: 109-124.
--   阪口祐介, 2011,「[失業リスクの趨勢分析：非正規雇用拡大の影響と規定構造の変化に注目して](https://doi.org/10.14959/soshioroji.55.3_3)」『ソシオロジ』55(3){:target="_blank"}: 3-18.
+-   佐川佳南枝, 2009,「[記憶の社会学の可能性：ケア現場の視点から](https://ci.nii.ac.jp/naid/40016662237){:target="_blank"}」『社会学研究科年報』(16): 7-19.
+-   佐川佳之, 2009,「[フリースクール運動のフレーム分析：1980〜1990年代に着目して](https://ci.nii.ac.jp/naid/120005399820){:target="_blank"}」『〈教育と社会〉研究』(19): 46-54.
+-   西條玲奈, 2011,「[現代普遍論争の諸相：普遍者・クラス・トロープ](http://hdl.handle.net/2433/151119){:target="_blank"}」『哲学論叢』38(別冊): S73-S84.
+-   坂口尚文, 2016,「[調査への態度や考え方はどのように変わるのか：『消費生活に関するパネル調査』若年対象者の事例より](https://ci.nii.ac.jp/naid/40021034146){:target="_blank"}」『季刊家計経済研究』(112): 46-58.
+-   阪口祐介, 2009,「[環境保護の支持と環境リスク認知の国際比較分析：二つの環境への関心の異なる規定構造](https://doi.org/10.14959/soshioroji.53.3_109){:target="_blank"}」『ソシオロジ』53(3): 109-124.
+-   阪口祐介, 2011,「[失業リスクの趨勢分析：非正規雇用拡大の影響と規定構造の変化に注目して](https://doi.org/10.14959/soshioroji.55.3_3){:target="_blank"}」『ソシオロジ』55(3): 3-18.
 -   阪口祐介, 2016,「[原発への態度と世代・ジェンダー・社会階層：価値媒介メカニズムの検証](http://id.nii.ac.jp/1420/00000404/){:target="_blank"}」『桃山学院大学社会学論集』49: 47-68.
 -   酒井朗, 2015,「[教育における排除と包摂](https://doi.org/10.11151/eds.96.5){:target="_blank"}」『教育社会学研究』96: 5-24.
 -   酒井大輔, 2017,「日本政治学史の二つの転換：政治学教科書の引用分析の試み」『年報政治学』2017(2): 295-317.
 -   酒井大輔, 2018,「[『新しい政治学』の構想：大嶽秀夫の体制論とその方法](http://hdl.handle.net/10723/00003442){:target="_blank"}」『明治学院大学法律科学研究所年報』34: 139-160.
--   坂本忠次, 2009,「[福祉社会における『新たな公共』への可能性：NPO、福祉協同組合、社会的企業](http://id.nii.ac.jp/1068/00000004/)」『社会福祉学部紀要』(12){:target="_blank"}: 1-10.
--   坂本有芳, 2012,「[出産離職のイベントヒストリ分析：均等施策とワーク・ライフ・バランス施策への示唆](http://hdl.handle.net/2261/61107)」『社会科学研究』64(1){:target="_blank"}: 90-113.
+-   坂本忠次, 2009,「[福祉社会における『新たな公共』への可能性：NPO、福祉協同組合、社会的企業](http://id.nii.ac.jp/1068/00000004/){:target="_blank"}」『社会福祉学部紀要』(12): 1-10.
+-   坂本有芳, 2012,「[出産離職のイベントヒストリ分析：均等施策とワーク・ライフ・バランス施策への示唆](http://hdl.handle.net/2261/61107){:target="_blank"}」『社会科学研究』64(1): 90-113.
 -   Sakura, Osamu, 1998, "[Similarities and Varieties: A Brief Sketch on the Reception of Darwinism and Sociobiology in Japan](https://doi.org/10.1023/A%3A1006504623820){:target="_blank"}," _Biology and Philosophy_, 13: 341-357.
--   佐倉統・三中信宏編, 2009,「進化論の系統樹：時代／主題別主要著作ガイド」『[現代思想](https://www.amazon.co.jp/%25E7%258F%25BE%25E4%25BB%25A3%25E6%2580%259D%25E6%2583%25B32009%25E5%25B9%25B44%25E6%259C%2588%25E8%2587%25A8%25E6%2599%2582%25E5%25A2%2597%25E5%2588%258A%25E5%258F%25B7-%25E7%25B7%258F%25E7%2589%25B9%25E9%259B%2586-%25E3%2583%2580%25E3%2583%25BC%25E3%2582%25A6%25E3%2582%25A3%25E3%2583%25B3-%25E3%2580%258E%25E7%25A8%25AE%25E3%2581%25AE%25E8%25B5%25B7%25E6%25BA%2590%25E3%2580%258F%25E3%2581%25AE%25E7%25B3%25BB%25E7%25B5%25B1%25E6%25A8%25B9-%25E6%25B8%25A1%25E8%25BE%25BA/dp/4791711955/ref%3Das_li_ss_tl%3Fie%3DUTF8%26qid%3D1532823094%26sr%3D8-1%26keywords%3D%25E7%258F%25BE%25E4%25BB%25A3%25E6%2580%259D%25E6%2583%25B3%2B%25E3%2583%2580%25E3%2583%25BC%25E3%2582%25A6%25E3%2582%25A3%25E3%2583%25B3%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D1830b74d3be747cc75afe244991147a6)』37(5){:target="_blank"}: 286-309.
--   櫻井秀彦・恩田光子・高木美保・中川明子・我藤有香・荒川行生・早瀬幸俊, 2011,「[保険薬局におけるスタッフの組織や職務に対する意識と安全意識の関連性に関する研究](https://doi.org/10.11397/jsqsh.6.3)」『医療の質・安全学会誌』6(1){:target="_blank"}: 3-21.
--   桜井政成, 2007,「[ボランティア・NPOとソーシャル・キャピタル：パットナムを越えて](https://ci.nii.ac.jp/naid/110006378938/)」『立命館人間科学研究』(14){:target="_blank"}: 41-52.
--   櫻井義秀, 2011,「[ソーシャル・キャピタル論の射程と宗教](http://hdl.handle.net/2115/47981)」『宗教と社会貢献』1(1){:target="_blank"}: 27-51.
--   櫻井義秀, 2017,「[人は宗教で幸せになれるのか：ウェル・ビーイングと宗教の分析](https://doi.org/10.11218/ojjams.32.80)」『理論と方法』32(1){:target="_blank"}: 80-96.
--   Sapp, Jan, 1983, "[The Struggle for Authority in the Field of Heredity, 1900-1932: New Perspectives on the Rise of Genetics](https://doi.org/10.1007/BF00582405)," _Journal of the History of Biology_, 16(3){:target="_blank"}: 311-342.
+-   佐倉統・三中信宏編, 2009,「進化論の系統樹：時代／主題別主要著作ガイド」『[現代思想](https://www.amazon.co.jp/%25E7%258F%25BE%25E4%25BB%25A3%25E6%2580%259D%25E6%2583%25B32009%25E5%25B9%25B44%25E6%259C%2588%25E8%2587%25A8%25E6%2599%2582%25E5%25A2%2597%25E5%2588%258A%25E5%258F%25B7-%25E7%25B7%258F%25E7%2589%25B9%25E9%259B%2586-%25E3%2583%2580%25E3%2583%25BC%25E3%2582%25A6%25E3%2582%25A3%25E3%2583%25B3-%25E3%2580%258E%25E7%25A8%25AE%25E3%2581%25AE%25E8%25B5%25B7%25E6%25BA%2590%25E3%2580%258F%25E3%2581%25AE%25E7%25B3%25BB%25E7%25B5%25B1%25E6%25A8%25B9-%25E6%25B8%25A1%25E8%25BE%25BA/dp/4791711955/ref%3Das_li_ss_tl%3Fie%3DUTF8%26qid%3D1532823094%26sr%3D8-1%26keywords%3D%25E7%258F%25BE%25E4%25BB%25A3%25E6%2580%259D%25E6%2583%25B3%2B%25E3%2583%2580%25E3%2583%25BC%25E3%2582%25A6%25E3%2582%25A3%25E3%2583%25B3%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D1830b74d3be747cc75afe244991147a6){:target="_blank"}』37(5): 286-309.
+-   櫻井秀彦・恩田光子・高木美保・中川明子・我藤有香・荒川行生・早瀬幸俊, 2011,「[保険薬局におけるスタッフの組織や職務に対する意識と安全意識の関連性に関する研究](https://doi.org/10.11397/jsqsh.6.3){:target="_blank"}」『医療の質・安全学会誌』6(1): 3-21.
+-   桜井政成, 2007,「[ボランティア・NPOとソーシャル・キャピタル：パットナムを越えて](https://ci.nii.ac.jp/naid/110006378938/){:target="_blank"}」『立命館人間科学研究』(14): 41-52.
+-   櫻井義秀, 2011,「[ソーシャル・キャピタル論の射程と宗教](http://hdl.handle.net/2115/47981){:target="_blank"}」『宗教と社会貢献』1(1): 27-51.
+-   櫻井義秀, 2017,「[人は宗教で幸せになれるのか：ウェル・ビーイングと宗教の分析](https://doi.org/10.11218/ojjams.32.80){:target="_blank"}」『理論と方法』32(1): 80-96.
+-   Sapp, Jan, 1983, "[The Struggle for Authority in the Field of Heredity, 1900-1932: New Perspectives on the Rise of Genetics](https://doi.org/10.1007/BF00582405){:target="_blank"}," _Journal of the History of Biology_, 16(3): 311-342.
 -   Sarkar, Sahotra, and Anya Plutynski eds., 2008, [_A Companion to the Philosophy of Biology_](https://www.amazon.co.jp/Companion-Philosophy-Biology-Blackwell-Companions/dp/1444337858/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D1cf91a83dd35f1c4a7e14b7008752025%26language%3Dja_JP){:target="_blank"}, Blackwell.
    -   Ereshefsky, Marc, "Systematics and Taxonomy," pp. 99-118.
--   笹原和俊, 2019,「[ビッグデータとは何か](https://ci.nii.ac.jp/naid/40021895512)」『社会と調査』(22){:target="_blank"}: 8-15.
--   佐々木尚之, 2012,「[不確実な時代の結婚：JGSSライフコース調査による潜在的稼得力の影響の検証](https://doi.org/10.4234/jjoffamilysociology.24.152)」『家族社会学研究』24(2){:target="_blank"}: 152-164.
+-   笹原和俊, 2019,「[ビッグデータとは何か](https://ci.nii.ac.jp/naid/40021895512){:target="_blank"}」『社会と調査』(22): 8-15.
+-   佐々木尚之, 2012,「[不確実な時代の結婚：JGSSライフコース調査による潜在的稼得力の影響の検証](https://doi.org/10.4234/jjoffamilysociology.24.152){:target="_blank"}」『家族社会学研究』24(2): 152-164.
 -   佐々木周作・若野綾子・平井啓・大竹文雄, 2016,「[看護師の利他性と燃え尽き症候群：プログレス・レポート](https://doi.org/10.11167/jbef.9.91){:target="_blank"}」『行動経済学』9: 91-94.
--   佐藤厚・梅崎修・外川洋子, 2014,「[不況下における企業の採用・雇用管理](http://hdl.handle.net/10114/9545)」『生涯学習とキャリアデザイン』12(1){:target="_blank"}: 23-34.
+-   佐藤厚・梅崎修・外川洋子, 2014,「[不況下における企業の採用・雇用管理](http://hdl.handle.net/10114/9545){:target="_blank"}」『生涯学習とキャリアデザイン』12(1): 23-34.
 -   佐藤博樹, 2017,「問題の解決の『鍵』は現場に：実証的な労働研究」『日本労務学会誌』18(2): 4-17.
--   佐藤香, 2006,「[方法としての計量歴史社会学：階層・移動研究を中心として](http://hdl.handle.net/2261/15470)」『社会科学研究』57(3-4){:target="_blank"}: 5-18.
+-   佐藤香, 2006,「[方法としての計量歴史社会学：階層・移動研究を中心として](http://hdl.handle.net/2261/15470){:target="_blank"}」『社会科学研究』57(3-4): 5-18.
 -   佐藤らな, 2019,「[天使すぎるアイドルは何が過剰なのか：Nすぎる構文の意味](http://doi.org/10.15083/00078591){:target="_blank"}」『東京大学言語学論集』41: 279-293.
--   佐藤嘉倫, 2008,「[格差社会論と社会階層論：格差社会論からの挑戦に応えて](https://doi.org/10.20667/peq.44.4_20)」『季刊経済理論』44(4){:target="_blank"}: 20-28.
--   佐藤嘉倫, 2009,「[現代日本の階層構造の流動性と格差](https://doi.org/10.4057/jsr.59.632)」『社会学評論』59(4){:target="_blank"}: 632-647.
--   佐藤嘉倫, 2017,「[合理的選択理論から見た社会関係資本とコミュニティの関係](https://doi.org/10.5363/tits.22.9_13)」『学術の動向』22(9){:target="_blank"}: 13-19.
+-   佐藤嘉倫, 2008,「[格差社会論と社会階層論：格差社会論からの挑戦に応えて](https://doi.org/10.20667/peq.44.4_20){:target="_blank"}」『季刊経済理論』44(4): 20-28.
+-   佐藤嘉倫, 2009,「[現代日本の階層構造の流動性と格差](https://doi.org/10.4057/jsr.59.632){:target="_blank"}」『社会学評論』59(4): 632-647.
+-   佐藤嘉倫, 2017,「[合理的選択理論から見た社会関係資本とコミュニティの関係](https://doi.org/10.5363/tits.22.9_13){:target="_blank"}」『学術の動向』22(9): 13-19.
 -   佐藤嘉倫・平松闊編, 2005,『[ネットワーク・ダイナミクス：社会ネットワークと合理的選択](https://www.amazon.co.jp/%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25BB%25E3%2583%2580%25E3%2582%25A4%25E3%2583%258A%25E3%2583%259F%25E3%2582%25AF%25E3%2582%25B9%25E2%2580%2595%25E7%25A4%25BE%25E4%25BC%259A%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2581%25A8%25E5%2590%2588%25E7%2590%2586%25E7%259A%2584%25E9%2581%25B8%25E6%258A%259E-%25E6%2595%25B0%25E7%2590%2586%25E7%25A4%25BE%25E4%25BC%259A%25E5%25AD%25A6%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA-%25E4%25BD%2590%25E8%2597%25A4-%25E5%2598%2589%25E5%2580%25AB/dp/4326648694/ref%3Das_li_ss_tl%3Fs%3Denglish-books%26ie%3DUTF8%26qid%3D1546404095%26sr%3D8-1%26keywords%3D%25E4%25BD%2590%25E8%2597%25A4%25E5%2598%2589%25E5%2580%25AB%25E3%2583%25BB%25E5%25B9%25B3%25E6%259D%25BE%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D6dedb020b4721874427987d04c1f36bb%26language%3Dja_JP){:target="_blank"}』勁草書房.
    -   針原素子・辻竜平,「ネットワークにおける情報伝播と自己卑下的自己提示」pp. 27-51.
--   佐藤嘉倫・金光淳・山岸俊男, 2000,「[〈書評特別企画〉James S. Coleman,](https://doi.org/10.11218/ojjams.15.383)」『理論と方法』15(2){:target="_blank"}: 383-396.
--   佐藤佑樹, 2014,「[知覚された組織的支援（Perceived Organizational Support）研究の展望：理論的基礎、先行変数、結果変数および測定尺度について](https://doi.org/10.5651/jaas.27.13)」『経営行動科学』27(1){:target="_blank"}: 13-34.
--   澤田晋治, 2011,「[地方自治体における業績測定のあり方と監査制度改革への示唆：英国地方自治体の実務・制度事例を参考に](http://hdl.handle.net/10236/9523)」『経営戦略研究』(5){:target="_blank"}: 81-96.
--   沢崎壮宏, 2005,「[母性神話の終焉とケア倫理の可能性](http://hdl.handle.net/2433/24235)」『京都大学文学部哲学研究室紀要：Prospectus』(8){:target="_blank"}: 94-108.
+-   佐藤嘉倫・金光淳・山岸俊男, 2000,「[〈書評特別企画〉James S. Coleman,](https://doi.org/10.11218/ojjams.15.383){:target="_blank"}」『理論と方法』15(2): 383-396.
+-   佐藤佑樹, 2014,「[知覚された組織的支援（Perceived Organizational Support）研究の展望：理論的基礎、先行変数、結果変数および測定尺度について](https://doi.org/10.5651/jaas.27.13){:target="_blank"}」『経営行動科学』27(1): 13-34.
+-   澤田晋治, 2011,「[地方自治体における業績測定のあり方と監査制度改革への示唆：英国地方自治体の実務・制度事例を参考に](http://hdl.handle.net/10236/9523){:target="_blank"}」『経営戦略研究』(5): 81-96.
+-   沢崎壮宏, 2005,「[母性神話の終焉とケア倫理の可能性](http://hdl.handle.net/2433/24235){:target="_blank"}」『京都大学文学部哲学研究室紀要：Prospectus』(8): 94-108.
 -   Scheid, Teresa L., and Tony N. Brown eds., 2010, [_A Handbook for the Study of Mental Health: Social Contexts, Theories, and Systems_](https://doi.org/10.1017/CBO9780511984945){:target="_blank"}, Second Edition, New York: Cambridge University Press.
    -   Horwitz, Allan V., "An Overview of Sociological Perspectives on the Definitions, Causes, and Responses to Mental Health and Illness," pp. 6-19.
 -   Schepman, Astrid, and Paul Rodway, 2020, "[Initial validation of the general attitudes towards Artificial Intelligence Scale](https://doi.org/10.1016/j.chbr.2020.100014){:target="_blank"}," _Computers in Human Behavior Reports_, 1: 100014.
 -   Schmid, Hans Bernhard, Daniel Sirtes and Marcel Weber eds., 2011, [_Collective Epistemology_](https://www.amazon.co.jp/Collective-Epistemology-Epistemische-Studien-Bernhard/dp/3110322234/ref%3Das_li_ss_tl%3Fs%3Denglish-books%26ie%3DUTF8%26qid%3D1546413623%26sr%3D1-2%26keywords%3DCollective%2BEpistemology%2BSchmid%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3Dac61a3043ab980456a8565dc6360d168%26language%3Dja_JP){:target="_blank"}, Frankfurt: Ontos.
    -   Weber, Marcel, "Experimentation versus Theory Choice: A Social-Epistemological Approach," pp. 203-226.
--   スコット, ユージニー・C, 2004,「[アメリカの公立校における創造論と生物進化論：比較の視点](https://ci.nii.ac.jp/naid/40006426824)」（鵜浦裕訳）『生物科学』56(1){:target="_blank"}: 2-14.
+-   スコット, ユージニー・C, 2004,「[アメリカの公立校における創造論と生物進化論：比較の視点](https://ci.nii.ac.jp/naid/40006426824){:target="_blank"}」（鵜浦裕訳）『生物科学』56(1): 2-14.
 -   Scott, W. Richard, 2004, "[Reflections on a Half-Century of Organizational Sociology](https://doi.org/10.1146/annurev.soc.30.012703.110644){:target="_blank"}," _Annual Review of Sociology_, 30: 1-21.
 -   Smart, J. J. C., 2011, "[Atheism and Agnosticism](https://plato.stanford.edu/archives/fall2011/entries/atheism-agnosticism/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   清家篤, 2004,「[年功賃金はどうなるか](https://ci.nii.ac.jp/naid/40006184792)」『日本労働研究雑誌』(525){:target="_blank"}: 26-29.
--   盛山和夫, 1986,「[社会学における理論の発展のために](https://doi.org/10.11218/ojjams.1.71)」『理論と方法』1(1){:target="_blank"}: 71-86.
+-   清家篤, 2004,「[年功賃金はどうなるか](https://ci.nii.ac.jp/naid/40006184792){:target="_blank"}」『日本労働研究雑誌』(525): 26-29.
+-   盛山和夫, 1986,「[社会学における理論の発展のために](https://doi.org/10.11218/ojjams.1.71){:target="_blank"}」『理論と方法』1(1): 71-86.
 -   盛山和夫編, 2000,『[ジェンダー・市場・家族〔日本の階層システム4〕](https://www.amazon.co.jp/%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E9%259A%258E%25E5%25B1%25A4%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2580%25884%25E3%2580%2589%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC%25E3%2583%25BB%25E5%25B8%2582%25E5%25A0%25B4%25E3%2583%25BB%25E5%25AE%25B6%25E6%2597%258F-%25E7%259B%259B%25E5%25B1%25B1-%25E5%2592%258C%25E5%25A4%25AB/dp/4130551248/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D851707f97eee3eccdc881864101c1090%26language%3Dja_JP){:target="_blank"}』東京大学出版会.
    -   尾嶋史章・近藤博之「教育達成のジェンダー構造」pp. 27-46.
    -   中井美樹・赤地麻由子「市場参加／社会参加：キャリア・パターンの多様性とその背景」pp. 111-131.
    -   白波瀬佐和子「女性の就業と階級構造」pp. 133-155.
--   関口倫紀, 2010,「[大学生のアルバイト経験とキャリア形成](https://ci.nii.ac.jp/naid/40017276860)」『日本労働研究雑誌』52(9){:target="_blank"}: 67-85.
--   関口倫紀, 2012,「[大学生のアルバイト選択とコミットメントおよび就職活動目標：中核的自己評価と職務特性の役割を中心に](https://doi.org/10.5651/jaas.25.129)」『経営行動科学』25(2){:target="_blank"}: 129-140.
--   関口倫紀・林洋一郎, 2009,「[組織的公正研究の発展とフェア・マネジメント](https://doi.org/10.5651/jaas.22.1)」『経営行動科学』22(1){:target="_blank"}: 1-12.
--   関根彩夏, 2018,「[アカデミック・ハラスメント被害における対処行動とその規定因についての検討](https://www.waseda.jp/flas/glas/assets/uploads/2018/03/Vol63_3_psychology_smt.pdf)」『早稲田大学大学院文学研究科紀要』(63){:target="_blank"}: 55-60.
--   妹尾麻美, 2015,「[新規大卒就職活動において『やりたいこと』は内定取得に必要か？](https://doi.org/10.14959/soshioroji.59.3_39)」『ソシオロジ』59(3){:target="_blank"}: 39-55.
--   瀬戸口明久, 2004,「[日本における進化論の導入：『受容』vs.『抵抗』モデルを超えて](https://ci.nii.ac.jp/naid/40006426827)」『生物科学』56(1){:target="_blank"}: 23-30.
+-   関口倫紀, 2010,「[大学生のアルバイト経験とキャリア形成](https://ci.nii.ac.jp/naid/40017276860){:target="_blank"}」『日本労働研究雑誌』52(9): 67-85.
+-   関口倫紀, 2012,「[大学生のアルバイト選択とコミットメントおよび就職活動目標：中核的自己評価と職務特性の役割を中心に](https://doi.org/10.5651/jaas.25.129){:target="_blank"}」『経営行動科学』25(2): 129-140.
+-   関口倫紀・林洋一郎, 2009,「[組織的公正研究の発展とフェア・マネジメント](https://doi.org/10.5651/jaas.22.1){:target="_blank"}」『経営行動科学』22(1): 1-12.
+-   関根彩夏, 2018,「[アカデミック・ハラスメント被害における対処行動とその規定因についての検討](https://www.waseda.jp/flas/glas/assets/uploads/2018/03/Vol63_3_psychology_smt.pdf){:target="_blank"}」『早稲田大学大学院文学研究科紀要』(63): 55-60.
+-   妹尾麻美, 2015,「[新規大卒就職活動において『やりたいこと』は内定取得に必要か？](https://doi.org/10.14959/soshioroji.59.3_39){:target="_blank"}」『ソシオロジ』59(3): 39-55.
+-   瀬戸口明久, 2004,「[日本における進化論の導入：『受容』vs.『抵抗』モデルを超えて](https://ci.nii.ac.jp/naid/40006426827){:target="_blank"}」『生物科学』56(1): 23-30.
 -   Setoguchi, Akihisa, 2009, "[Darwin Commemorations and Three Generations of Historians of Biology](https://doi.org/10.1215/s12280-009-9107-4){:target="_blank"}," _East Asian Science, Technology and Society: An International Journal_, 3: 531-537.
--   シャロック, W.W., \[1974\] 1996,「[知識を所有するということについて](http://hdl.handle.net/2241/108035)」（岡田光弘訳）『年報筑波社会学』(7){:target="_blank"}: 91-108.
--   Shein, Paichi Pat, Yuh-Yuh Li, and Tai-Chu Huang, 2014, "[Relationship between Scientific Knowledge and Fortune-Telling](https://doi.org/10.1177/0963662514522169)," _Public Understanding of Science_, 23(7){:target="_blank"}: 780-796.
--   柴田学, 2014,「[地域福祉におけるコミュニティ・ビジネスの可能性：コミュニティ・ビジネスの実践事例をもとに](http://hdl.handle.net/10236/12253)」『Human Welfare』6(1){:target="_blank"}: 77-92.
+-   シャロック, W.W., \[1974\] 1996,「[知識を所有するということについて](http://hdl.handle.net/2241/108035){:target="_blank"}」（岡田光弘訳）『年報筑波社会学』(7): 91-108.
+-   Shein, Paichi Pat, Yuh-Yuh Li, and Tai-Chu Huang, 2014, "[Relationship between Scientific Knowledge and Fortune-Telling](https://doi.org/10.1177/0963662514522169){:target="_blank"}," _Public Understanding of Science_, 23(7): 780-796.
+-   柴田学, 2014,「[地域福祉におけるコミュニティ・ビジネスの可能性：コミュニティ・ビジネスの実践事例をもとに](http://hdl.handle.net/10236/12253){:target="_blank"}」『Human Welfare』6(1): 77-92.
 -   重冨真一, 2005,「[制度変革と社会運動：理論的枠組みと途上国研究の課題](http://www.ide.go.jp/Japanese/Publish/Download/Other/2005_shigetomi.html){:target="_blank"}」アジア経済研究所調査研究課題報告書.
--   敷島千鶴・安藤寿康・山形伸二・尾崎幸謙・高橋雄介・野中浩一, 2008,「[権威主義的伝統主義の家族内伝達：遺伝か文化伝達か](https://doi.org/10.11218/ojjams.23.2_105)」『理論と方法』23(2){:target="_blank"}: 105-126.
+-   敷島千鶴・安藤寿康・山形伸二・尾崎幸謙・高橋雄介・野中浩一, 2008,「[権威主義的伝統主義の家族内伝達：遺伝か文化伝達か](https://doi.org/10.11218/ojjams.23.2_105){:target="_blank"}」『理論と方法』23(2): 105-126.
 -   Shimao, Eikoh, 1981, "[Darwinism in Japan, 1877-1927](https://doi.org/10.1080/00033798100200131){:target="_blank"}," _Annals of Science_, 38: 93-102.
--   島崎哲彦・大谷奈緒子・小川祐喜子, 2010,「[新聞報道からみる格差社会](http://id.nii.ac.jp/1060/00003099/)」『東洋大学社会学部紀要』48(1){:target="_blank"}: 43-59.
--   島薗進, 2015,「[科学・社会・倫理を関連づけて捉えること：加藤尚武氏『臨床と予防：放射線障害の認識論』に応答する](http://doi.org/10.15083/00026765)」『死生学・応用倫理研究』(20){:target="_blank"}: 178-190.
+-   島崎哲彦・大谷奈緒子・小川祐喜子, 2010,「[新聞報道からみる格差社会](http://id.nii.ac.jp/1060/00003099/){:target="_blank"}」『東洋大学社会学部紀要』48(1): 43-59.
+-   島薗進, 2015,「[科学・社会・倫理を関連づけて捉えること：加藤尚武氏『臨床と予防：放射線障害の認識論』に応答する](http://doi.org/10.15083/00026765){:target="_blank"}」『死生学・応用倫理研究』(20): 178-190.
 -   島津明人編, 2015,『[職場のポジティブメンタルヘルス：現場で活かせる最新理論](https://www.amazon.co.jp/%25E8%2581%25B7%25E5%25A0%25B4%25E3%2581%25AE%25E3%2583%259D%25E3%2582%25B8%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2596%25E3%2583%25A1%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%25E3%2583%2598%25E3%2583%25AB%25E3%2582%25B9%25EF%25BC%259A%25E7%258F%25BE%25E5%25A0%25B4%25E3%2581%25A7%25E6%25B4%25BB%25E3%2581%258B%25E3%2581%259B%25E3%2582%258B%25E6%259C%2580%25E6%2596%25B0%25E7%2590%2586%25E8%25AB%2596-%25E5%25B3%25B6%25E6%25B4%25A5-%25E6%2598%258E%25E4%25BA%25BA/dp/4414802083/ref%3Das_li_ss_tl%3F__mk_ja_JP%3D%25E3%2582%25AB%25E3%2582%25BF%25E3%2582%25AB%25E3%2583%258A%26dchild%3D1%26keywords%3D%25E8%2581%25B7%25E5%25A0%25B4%25E3%2581%25AE%25E3%2583%259D%25E3%2582%25B8%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2596%25E3%2583%25A1%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25AB%25E3%2583%2598%25E3%2583%25AB%25E3%2582%25B9%26qid%3D1598311095%26sr%3D8-1%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D01346f181954ab6a92f7f75ac8f11989%26language%3Dja_JP){:target="_blank"}』誠信書房.
    -   島津明人,「健康の増進と生産性の向上は両立する：ワーク・エンゲイジメントに注目したマネジメント」pp. 2-11.
    -   窪田和巳,「“ワーカホリック”な働き方に要注意！ 仕事の取り組み方を見つめ直してみよう」pp. 12-21.
    -   原雄二郎,「ポジティブがポジティブを呼ぶ：『上向きのらせん』でいきいきと働こう！」pp. 22-30.
    -   櫻井研司,「ポジティブ労働心理学：労働者の感情と行動の関わり」pp. 31-39.
    -   種市康太郎,「今日の仕事の調子はどう？ 『日記法』研究からわかった、日々、いきいき働くための三つのポイント」pp. 50-57.
--   志水洋人, 2014,「[医療化論の動向：逸脱行動の医療化から疾患概念の拡大へ](https://doi.org/10.18910/27121)」『年報人間科学』(35){:target="_blank"}: 39-51.
+-   志水洋人, 2014,「[医療化論の動向：逸脱行動の医療化から疾患概念の拡大へ](https://doi.org/10.18910/27121){:target="_blank"}」『年報人間科学』(35): 39-51.
 -   下地ローレンス吉孝, 2018,「[『日本人』とは何か？：『ハーフ』たちの目に映る日本社会と人種差別の実際](https://www.refugee.or.jp/fukuzatsu/lawrenceyoshitakashimoji01){:target="_blank"}」ニッポン複雑紀行, 2018年6月27日.
--   新川敏光, 2006,「[不平等と政治的動員戦略](https://doi.org/10.7218/nenpouseijigaku1953.57.1_65)」『年報政治学』57(1){:target="_blank"}: 65-93.
+-   新川敏光, 2006,「[不平等と政治的動員戦略](https://doi.org/10.7218/nenpouseijigaku1953.57.1_65){:target="_blank"}」『年報政治学』57(1): 65-93.
 -   篠田英朗, 2017,「[自衛隊PKO派遣の議論がいつもモヤモヤしたものになる理由](https://gendai.ismedia.jp/articles/-/50645){:target="_blank"}」『現代ビジネス』
--   篠田孝祐, 2012,「[大規模ネットワークデータの収集と分析](http://doi.org/10.11218/ojjams.27.175)」『理論と方法』27(1){:target="_blank"}: 175-186.
--   塩谷芳也, 2019,「[大学生のソーシャルスキルに対する出身階層と学生生活の効果](http://hdl.handle.net/10965/00010255)」『京都産業大学論集 人文科学系列』(52){:target="_blank"}: 143-155.
+-   篠田孝祐, 2012,「[大規模ネットワークデータの収集と分析](http://doi.org/10.11218/ojjams.27.175){:target="_blank"}」『理論と方法』27(1): 175-186.
+-   塩谷芳也, 2019,「[大学生のソーシャルスキルに対する出身階層と学生生活の効果](http://hdl.handle.net/10965/00010255){:target="_blank"}」『京都産業大学論集 人文科学系列』(52): 143-155.
 -   塩沢由典・玉川英則・中村仁・細谷祐二・宮崎洋司・山本俊哉編, 2016,『[ジェイン・ジェイコブズの世界 1916-2006](https://www.amazon.co.jp/%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25BB%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25A4%25E3%2582%25B3%25E3%2583%2596%25E3%2582%25BA%25E3%2581%25AE%25E4%25B8%2596%25E7%2595%258C-1916-2006-%25E3%2580%2594%25E5%2588%25A5%25E5%2586%258A%25E3%2580%258E%25E7%2592%25B0%25E3%2580%258F22%25E3%2580%2595-%25E5%25A1%25A9%25E6%25B2%25A2%25E7%2594%25B1%25E5%2585%25B8/dp/4865780742/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D16788b4238839a4ec5dff9039a6d5208){:target="_blank"}』（別冊『環』22）, 藤原書店.
    -   山形浩生,「ジェイコブズの教訓：強いアマチュアと専門家の共闘とは」pp.
--   白波瀬達也, 2017,「[貧困地域の再開発をめぐるジレンマ：あいりん地区の事例から](https://ci.nii.ac.jp/naid/40021423966)」『人間福祉学研究』10(1){:target="_blank"}: 79-90.
--   白井美由里, 2009,「[消費者による食品の品質評価](http://hdl.handle.net/10131/10312)」『横浜経営研究』29(4){:target="_blank"}: 337-354.
--   白川俊之, 2010,「[家族構成と子どもの読解力形成：ひとり親家族の影響に関する日米比較](https://doi.org/10.11218/ojjams.25.249)」『理論と方法』25(2){:target="_blank"}: 249-266.
+-   白波瀬達也, 2017,「[貧困地域の再開発をめぐるジレンマ：あいりん地区の事例から](https://ci.nii.ac.jp/naid/40021423966){:target="_blank"}」『人間福祉学研究』10(1): 79-90.
+-   白井美由里, 2009,「[消費者による食品の品質評価](http://hdl.handle.net/10131/10312){:target="_blank"}」『横浜経営研究』29(4): 337-354.
+-   白川俊之, 2010,「[家族構成と子どもの読解力形成：ひとり親家族の影響に関する日米比較](https://doi.org/10.11218/ojjams.25.249){:target="_blank"}」『理論と方法』25(2): 249-266.
 -   白倉幸男編, 1998,『社会階層とライフスタイル（1995年SSM調査シリーズ17）』1995年SSM調査研究会.
    -   岩本健良,「教育とライフスタイル選択：文系進学と理系進学」pp. 49-61.
    -   中井美樹,「女性の職業階層とライフスタイル：専門職女性のライフイベントのタイミング」pp. 83-100.
--   宍戸邦章, 2012,「[高齢者の社会的サポート・ネットワークと社会保障政策への意識：JGSS-2010に基づく分析](https://ci.nii.ac.jp/naid/40019544797/)」『季刊社会保障研究』48(3){:target="_blank"}: 290-303.
--   Simms, Melanie, Dennis Eversberg, Camille Dupuy, and Lena Hipp, 2018, "[Organizing Young Workers under Precarious Conditions: What Hinders or Facilitates Union Success](https://doi.org/10.1177/0730888418785947)," _Work and Occupations_, 45(4){:target="_blank"}: 420-450.
--   Simon, Bart, 1999, "[Undead Science: Making Sense of Cold Fusion after the (Arti)fact](https://doi.org/10.1177/030631299029001003)," _Social Studies of Science_, 29(1){:target="_blank"}: 61-85.
+-   宍戸邦章, 2012,「[高齢者の社会的サポート・ネットワークと社会保障政策への意識：JGSS-2010に基づく分析](https://ci.nii.ac.jp/naid/40019544797/){:target="_blank"}」『季刊社会保障研究』48(3): 290-303.
+-   Simms, Melanie, Dennis Eversberg, Camille Dupuy, and Lena Hipp, 2018, "[Organizing Young Workers under Precarious Conditions: What Hinders or Facilitates Union Success](https://doi.org/10.1177/0730888418785947){:target="_blank"}," _Work and Occupations_, 45(4): 420-450.
+-   Simon, Bart, 1999, "[Undead Science: Making Sense of Cold Fusion after the (Arti)fact](https://doi.org/10.1177/030631299029001003){:target="_blank"}," _Social Studies of Science_, 29(1): 61-85.
 -   Singer, Peter ed., 1991, [_A Companion to Ethics_](https://www.amazon.co.jp/Companion-Ethics-Blackwell-Companions-Philosophy/dp/0631187855/ref%3Das_li_ss_tl%3Fs%3Denglish-books%26ie%3DUTF8%26qid%3D1546402708%26sr%3D1-1%26keywords%3DSinger%2Bcompanion%2Bto%2Bethics%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3Db3298b765521d628b65d06d98b12aed2%26language%3Dja_JP){:target="_blank"}, Oxford: Blackwell.
    -   Singer, Peter, "Introduction," pp. v-vi.
    -   Hare, Robert, "Universal Prescriptivism," pp. 451-463.
--   Sismondo, Sergio, 2009, "[Ghosts in the Machine: Publication Planning in the Medical Sciences](https://doi.org/10.1177/0306312708101047)," _Social Studies of Science_, 39(2){:target="_blank"}: 171-198.
--   Sismondo, Sergio, 2011, "[Bourdieu's Rationalist Science of Science: Some Promises and Limitations](https://doi.org/10.1177/1749975510389728)," _Cultural Sociology_, 5(1){:target="_blank"}: 83-97.
+-   Sismondo, Sergio, 2009, "[Ghosts in the Machine: Publication Planning in the Medical Sciences](https://doi.org/10.1177/0306312708101047){:target="_blank"}," _Social Studies of Science_, 39(2): 171-198.
+-   Sismondo, Sergio, 2011, "[Bourdieu's Rationalist Science of Science: Some Promises and Limitations](https://doi.org/10.1177/1749975510389728){:target="_blank"}," _Cultural Sociology_, 5(1): 83-97.
 -   Sismondo, Sergio, and Nicholas Chrisman, 2001, "[Deflationary Metaphysics and the Natures of Maps](https://www.jstor.org/stable/3080933){:target="_blank"}," _Philosophy of Science_, 68: S38-S49.
--   Skinner, Denise A., and Julie K. Kohler, 2002, "[Parental Rights in Diverse Family Contexts: Current Legal Developments](https://doi.org/10.1111/j.1741-3729.2002.00293.x)," _Family Relations_, 54(4){:target="_blank"}: 293-300.
--   Skorburg, Joshua August, Walter Sinnott-Armstrong, and Vincent Conitzer, 2020, "[AI Methods in Bioethics](https://doi.org/10.1080/23294515.2019.1706206)," _AJOB Empirical Bioethics_, 11(1){:target="_blank"}: 37-39.
+-   Skinner, Denise A., and Julie K. Kohler, 2002, "[Parental Rights in Diverse Family Contexts: Current Legal Developments](https://doi.org/10.1111/j.1741-3729.2002.00293.x){:target="_blank"}," _Family Relations_, 54(4): 293-300.
+-   Skorburg, Joshua August, Walter Sinnott-Armstrong, and Vincent Conitzer, 2020, "[AI Methods in Bioethics](https://doi.org/10.1080/23294515.2019.1706206){:target="_blank"}," _AJOB Empirical Bioethics_, 11(1): 37-39.
 -   Sloan, Phillip, 2008, "[Evolution](https://plato.stanford.edu/archives/spr2008/entries/evolution/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 -   Sober, Elliott, 1980, "[Evolution, Population Thinking, and Essentialism](https://doi.org/10.1086/288942){:target="_blank"}," _Philosophy of Science_, 47: 350-383.
 -   孫亜文, 2018,「[どうすればひとは学ぶのか：企業の働きかけに着目して](https://www.works-i.com/research/paper/works-review/works-review-vol13/181109-wr13-07.html){:target="_blank"}」『Works Review』13: 1-12.
--   園辰也, 2015,「[G・A・コーエンにおける『搾取』とその展開](http://hdl.handle.net/2241/00126236)」『倫理学』(31){:target="_blank"}: 45-63.
+-   園辰也, 2015,「[G・A・コーエンにおける『搾取』とその展開](http://hdl.handle.net/2241/00126236){:target="_blank"}」『倫理学』(31): 45-63.
 -   園部香里・岩井八郎・孟哲男・眞住優助・岩井紀子, 2019,「JGSS-2015/2016から見る教育歴の多様化と働き方：出生コーホート間の比較を中心に」『日本版総合的社会調査共同研究拠点 研究論文集』18: 47-61.
--   園井ゆり, 2003,「[大学におけるセクシュアル・ハラスメントの生起過程：計量分析を通して](https://doi.org/10.15017/926)」『共生社会学』(3){:target="_blank"}: 39-52.
+-   園井ゆり, 2003,「[大学におけるセクシュアル・ハラスメントの生起過程：計量分析を通して](https://doi.org/10.15017/926){:target="_blank"}」『共生社会学』(3): 39-52.
 -   Sorensen, Roy, 2012, "[Nothingness](https://plato.stanford.edu/archives/win2012/entries/nothingness/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 -   Sreenivasan, Gopal, 2008, "[Justice, Inequality, and Health](https://plato.stanford.edu/archives/spr2009/entries/justice-inequality-health/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 -   Srinivasan, Krishna, 2017, "Are People Averse to Acknowledging Their Ignorance in Opinion Polls?" Master's Dissertation, Tilburg University.
 -   Stamos, David N., 2005, "[Pre-Darwinian Taxonomy and Essentialism: A Reply to Mary Winsor](https://doi.org/10.1007/s10539-005-0401-9){:target="_blank"}," _Biology and Philosophy_, 20: 79-96.
--   Steinbock, Bonnie, 1988, "[Surrogate Motherhood as Prenatal Adoption](https://doi.org/10.1111/j.1748-720X.1988.tb01049.x)," _The Journal of Law, Medicine & Ethics_, 16(1-2){:target="_blank"}: 44-50.
--   Stenger, Sebastien, and Thomas J. Roulet, 2018, "[Pride against Prejudice? The Stakes of Concealment and Disclosure of a Stigmatized Identity for Gay and Lesbian Auditors](https://doi.org/10.1177/0950017016682459)," _Work, Employment and Society_, 32(2){:target="_blank"}: 257-273.
--   Stets, Jan E. and Peter J. Burke, 2000, "[Identity Theory and Social Identity Theory](https://doi.org/10.2307/2695870)," _Social Psychology Quarterly_, 63(3){:target="_blank"}: 224-237.
+-   Steinbock, Bonnie, 1988, "[Surrogate Motherhood as Prenatal Adoption](https://doi.org/10.1111/j.1748-720X.1988.tb01049.x){:target="_blank"}," _The Journal of Law, Medicine & Ethics_, 16(1-2): 44-50.
+-   Stenger, Sebastien, and Thomas J. Roulet, 2018, "[Pride against Prejudice? The Stakes of Concealment and Disclosure of a Stigmatized Identity for Gay and Lesbian Auditors](https://doi.org/10.1177/0950017016682459){:target="_blank"}," _Work, Employment and Society_, 32(2): 257-273.
+-   Stets, Jan E. and Peter J. Burke, 2000, "[Identity Theory and Social Identity Theory](https://doi.org/10.2307/2695870){:target="_blank"}," _Social Psychology Quarterly_, 63(3): 224-237.
 -   スティグリッツ, ジョセフ, 2001,「[世界経済危機でわたしが学んだこと。](https://cruel.org/econ/stiglitzimfj.html){:target="_blank"}」（山形浩生訳）
--   Still, Arthur, and Windy Dryden, 2004, "[The Social Psychology of 'Pseudoscience': A Brief History](https://doi.org/10.1111/j.0021-8308.2004.00248.x)," _Journal for the Theory of Social Behaviour_, 34(3){:target="_blank"}: 265-290.
+-   Still, Arthur, and Windy Dryden, 2004, "[The Social Psychology of 'Pseudoscience': A Brief History](https://doi.org/10.1111/j.0021-8308.2004.00248.x){:target="_blank"}," _Journal for the Theory of Social Behaviour_, 34(3): 265-290.
 -   Stoljar, Daniel, and Nic Damnjanovic, 2010, "[Deflationary Theory of Truth](https://plato.stanford.edu/archives/win2010/entries/truth-deflationary/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   Sturgis, Patrick, Caroline Roberts, and Patten Smith, 2014, "[Middle Alternatives Revisited: How the neither/nor Response Acts as a Way of Saying 'I Don't Know'?](https://doi.org/10.1177%252F0049124112452527)" _Sociological Methods & Research_, 43(1){:target="_blank"}: 15-38.
--   Suchman, 1965, "[Stages of Illness and Medical Care](https://www.jstor.org/stable/2948694)," _Journal of Health and Human Behavior_, 6(3){:target="_blank"}: 114-28.
+-   Sturgis, Patrick, Caroline Roberts, and Patten Smith, 2014, "[Middle Alternatives Revisited: How the neither/nor Response Acts as a Way of Saying 'I Don't Know'?](https://doi.org/10.1177%252F0049124112452527){:target="_blank"}" _Sociological Methods & Research_, 43(1): 15-38.
+-   Suchman, 1965, "[Stages of Illness and Medical Care](https://www.jstor.org/stable/2948694){:target="_blank"}," _Journal of Health and Human Behavior_, 6(3): 114-28.
 -   数土直紀編, 2015,『[社会意識からみた日本：階層意識の新次元](https://www.amazon.co.jp/%25E7%25A4%25BE%25E4%25BC%259A%25E6%2584%258F%25E8%25AD%2598%25E3%2581%258B%25E3%2582%2589%25E3%2581%25BF%25E3%2581%259F%25E6%2597%25A5%25E6%259C%25AC-%25E9%259A%258E%25E5%25B1%25A4%25E6%2584%258F%25E8%25AD%2598%25E3%2581%25AE%25E6%2596%25B0%25E6%25AC%25A1%25E5%2585%2583-%25E6%2595%25B0%25E5%259C%259F-%25E7%259B%25B4%25E7%25B4%2580/dp/4641174113/ref%3Das_li_ss_tl%3Fie%3DUTF8%26qid%3D1546402596%26sr%3D8-1%26keywords%3D%25E7%25A4%25BE%25E4%25BC%259A%25E6%2584%258F%25E8%25AD%2598%25E3%2581%258B%25E3%2582%2589%25E3%2581%25BF%25E3%2581%259F%25E6%2597%25A5%25E6%259C%25AC%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3Df33523f2a310452ffc283a17356b70ab%26language%3Dja_JP){:target="_blank"}』有斐閣.
    -   数土直紀,「頭のなかの日本社会：日本人の自己像」pp. 113-139.
    -   松谷満,「どうして『社会は変えられない』のか：政治意識と社会階層」pp. 144-166.
    -   赤枝尚樹,「都市とネットワーク」pp. 226-228.
 -   菅原淳一, 2012,「[アジア太平洋地域における地域経済統合と日本の戦略：『アジア太平洋』・『東アジア』の二つの潮流と、『架け橋』としての日本](https://www.mizuho-ri.co.jp/publication/research/pdf/argument/mron1210-1.pdf){:target="_blank"}」『みずほ総研論集』2012年II号, 1-22.
 -   杉原達, 2002,「[民衆レベルの差別意識と帝国主義](https://ci.nii.ac.jp/naid/40005583550){:target="_blank"}」『環』11: 51-56.
--   杉万俊夫, 2006,「[質的方法の先鋭化とアクションリサーチ](https://doi.org/10.24602/sjpr.49.3_551)」『心理学評論』49(3){:target="_blank"}: 551-561.
--   杉本俊介, 2012,「[ピーター・シンガーとWhy be Moral?問題](http://doi.org/10.14943/ouyourin.6.35)」『応用倫理』(6){:target="_blank"}: 35-50.
+-   杉万俊夫, 2006,「[質的方法の先鋭化とアクションリサーチ](https://doi.org/10.24602/sjpr.49.3_551){:target="_blank"}」『心理学評論』49(3): 551-561.
+-   杉本俊介, 2012,「[ピーター・シンガーとWhy be Moral?問題](http://doi.org/10.14943/ouyourin.6.35){:target="_blank"}」『応用倫理』(6): 35-50.
 -   水師裕・西尾チヅル, 2017,「[内集団ひいきとしての購買行動に間接互恵性が与える影響](https://doi.org/10.32260/promotion.10.0_7){:target="_blank"}」『プロモーショナル・マーケティング研究』10: 7-24.
 -   Suzuki, Akihito, 2011, "[Smallpox and the Epidemiological Heritage of Modern Japan: Towards a Total History](https://doi.org/10.1017/S0025727300005329){:target="_blank"}," _Medical History_, 55: 313-318.
--   鈴木文子・池上知子, 2015,「[異性愛者のジェンダー自尊心と同性の同性愛者に対する態度](https://doi.org/10.14966/jssp.30.3_183)」『社会心理学研究』30(3){:target="_blank"}: 183-190.
+-   鈴木文子・池上知子, 2015,「[異性愛者のジェンダー自尊心と同性の同性愛者に対する態度](https://doi.org/10.14966/jssp.30.3_183){:target="_blank"}」『社会心理学研究』30(3): 183-190.
 -   鈴木遥, 2013,「[学校から職への移行：大卒者の初職格差](http://hdl.handle.net/2433/174135){:target="_blank"}」京都大学大学院文学研究科2012年度修士論文.
--   鈴木公基・桜井茂男, 2003,「[認知的完結欲求尺度の作成と信頼性・妥当性の検討](https://doi.org/10.4992/jjpsy.74.270)」『心理学研究』74(3){:target="_blank"}: 270-275.
+-   鈴木公基・桜井茂男, 2003,「[認知的完結欲求尺度の作成と信頼性・妥当性の検討](https://doi.org/10.4992/jjpsy.74.270){:target="_blank"}」『心理学研究』74(3): 270-275.
 -   鈴木真, 2010,「[生物多様性の概念と価値：哲学的分析](http://ci.nii.ac.jp/naid/40017339683){:target="_blank"}」『社会と倫理』24: 111-147.
--   鈴木伸生, 2017,「[外部集団成員とのネットワーク形成の要因：大学生のクラブ・サークルを事例としたZero-Inflated Negative Binomial Regression Modelによる実証研究](https://doi.org/10.11218/ojjams.32.13)」『理論と方法』32(1){:target="_blank"}: 13-31.
+-   鈴木伸生, 2017,「[外部集団成員とのネットワーク形成の要因：大学生のクラブ・サークルを事例としたZero-Inflated Negative Binomial Regression Modelによる実証研究](https://doi.org/10.11218/ojjams.32.13){:target="_blank"}」『理論と方法』32(1): 13-31.
 -   鈴木貞夫, 2020,「[PCR検査をめぐる『5つの理論』を検討する：疫学的視点から見た新型コロナ問題](https://webronza.asahi.com/national/articles/2020051500010.html){:target="_blank"}」『論座』2020年05月16日.
 -   鈴木貞夫・岩永直子, 2020,「[『検査を増やせば新型コロナ感染者を減らせる』は正しいのか？ 疫学の専門家に聞きました](https://www.buzzfeed.com/jp/naokoiwanaga/pcrtest-sadaosuzuki){:target="_blank"}」BuzzFeed News, 2020年9月2日.
--   鈴木秀一, 2006,「[なぜ組織は戦略を実行しないのか：限定合理性と組織モデル](http://doi.org/10.14992/00002963)」『立教経済学研究』60(1){:target="_blank"}: 117-146.
+-   鈴木秀一, 2006,「[なぜ組織は戦略を実行しないのか：限定合理性と組織モデル](http://doi.org/10.14992/00002963){:target="_blank"}」『立教経済学研究』60(1): 117-146.
 -   鈴木善次, 1979,「[日本における優生学運動の一側面：池田林儀の『優生運動』を中心に](https://ci.nii.ac.jp/naid/110009699583){:target="_blank"}」『科学史研究 第II期』18: 65-73.
 
 ### T
@@ -981,108 +981,108 @@ title: 整理棚
 -   多賀太, 2005,「[男性のエンパワーメント？ 社会経済的変化と男性の『危機』](http://hdl.handle.net/10112/5376){:target="_blank"}」『国立女性教育会館研究紀要』9: 39-50.
 -   田島怜奈・熊本珠実・薮田奈緒子・松岡慎吾, 2004,「[大学生の恋愛観と結婚観の実態調査](http://www.ritsumei.ac.jp/~mozawa/mr/2004/wedding.pdf){:target="_blank"}」
 -   田島俊之・杉山滋郎, 2002,「[研究分野によるカルチャーの差異の科学社会学的分析：可視光天文学と高エネルギー実験物理学のtrading zone](https://ci.nii.ac.jp/naid/40007022395){:target="_blank"}」『年報科学・技術・社会』11: 67-89.
--   田島悠来, 2013,「[雑誌『Myojo』における『ジャニーズ』イメージの受容](http://id.nii.ac.jp/1130/00002635/)」_Gender and Sexuality: Journal of Center for Gender Studies, ICU_, (8){:target="_blank"}: 53-81.
+-   田島悠来, 2013,「[雑誌『Myojo』における『ジャニーズ』イメージの受容](http://id.nii.ac.jp/1130/00002635/){:target="_blank"}」_Gender and Sexuality: Journal of Center for Gender Studies, ICU_, (8): 53-81.
 -   高口康太, 2018,「[ベンチャー育成にみる日中戦略の違い：『選択と集中』と『裾野の広さ』](https://media.dglab.com/2018/06/27-startup-01/){:target="_blank"}」DG Lab House 2018年6月27日.
--   高木大輔・山田孝・池田正人・髙橋千賀子・大黒一司, 2012,「[地域高齢者の運動機能や健康関連QOLに及ぼす運動プログラムの影響：健康統制感尺度を用いて](http://hdl.handle.net/10748/7748)」『作業療法』31(4){:target="_blank"}: 342-352.
+-   高木大輔・山田孝・池田正人・髙橋千賀子・大黒一司, 2012,「[地域高齢者の運動機能や健康関連QOLに及ぼす運動プログラムの影響：健康統制感尺度を用いて](http://hdl.handle.net/10748/7748){:target="_blank"}」『作業療法』31(4): 342-352.
 -   高橋江梨子, 2009,「[児童の対人認知と社会的スキルに関する研究：きょうだいのある子とひとりっ子の比較を中心に](http://hdl.handle.net/10911/3501){:target="_blank"}」『創価大学大学院紀要』31: 215-240.
--   高橋伸幸・山岸俊男, 1993,「[社会的交換ネットワークにおける権力：権力依存理論 vs 要素理論](https://doi.org/10.11218/ojjams.8.251)」『理論と方法』8(2){:target="_blank"}: 251-269.
+-   高橋伸幸・山岸俊男, 1993,「[社会的交換ネットワークにおける権力：権力依存理論 vs 要素理論](https://doi.org/10.11218/ojjams.8.251){:target="_blank"}」『理論と方法』8(2): 251-269.
 -   高橋陽子, 2002,「収益計算を間違える大学生：不確実性と学生の資格取得動機」伊藤由樹子・石倉義博・大島真夫・鈴木亘・高橋陽子・西野淑美・林未央・林拓也・本田由紀『[全国大学生活協同組合連合会「学生生活実態調査」の再分析（1991年〜2000年）](https://csrda.iss.u-tokyo.ac.jp/rps/RPS023.pdf){:target="_blank"}』東京大学社会科学研究所SSJデータアーカイブリサーチペーパーシリーズ23, pp. 80-95.
--   高橋陽子, 2005,「[ホワイトカラー『サービス残業』の経済学的背景：労働時間・報酬に関する暗黙の契約](https://ci.nii.ac.jp/naid/40006681912)」『日本労働研究雑誌』(536){:target="_blank"}: 56-68.
--   財部香枝, 2009,「[産業界の理工系女性の活躍促進に向けて](https://ci.nii.ac.jp/naid/40016900705)」『科学技術社会論研究』(7){:target="_blank"}: 73-89.
+-   高橋陽子, 2005,「[ホワイトカラー『サービス残業』の経済学的背景：労働時間・報酬に関する暗黙の契約](https://ci.nii.ac.jp/naid/40006681912){:target="_blank"}」『日本労働研究雑誌』(536): 56-68.
+-   財部香枝, 2009,「[産業界の理工系女性の活躍促進に向けて](https://ci.nii.ac.jp/naid/40016900705){:target="_blank"}」『科学技術社会論研究』(7): 73-89.
 -   高鳥毛敏雄・武田惇志, 2020,「[新型コロナ、日本独自戦略の背景に結核との闘い：対策の要『保健所』の歴史から見えるもの](https://this.kiji.is/636063326715642977){:target="_blank"}」47 News, 2020年5月25日.
--   竹端寛, 2017,「[本来的なユニークさを取り戻すために：『空気を読む』という『統治』をめぐって](https://ci.nii.ac.jp/naid/40021048109)」『こころの科学』(191){:target="_blank"}: 21-26.
--   武田巧, 2013,「[取引費用低下と日本型経済諸制度](http://hdl.handle.net/10291/16227)」『政経論叢』81(3・4){:target="_blank"}: 553-581.
--   竹ノ下弘久, 2018,「[管理職への到達をめぐる不平等：世代間移動と職業キャリアの視点から](https://ci.nii.ac.jp/naid/40021418270)」『日本労働研究雑誌』(690){:target="_blank"}: 18-30.
--   竹ノ下弘久・田辺俊介・鹿又伸夫, 2008,「[階層移動の国際比較に向けての階層カテゴリーの構成：SSM職業小分類のEGP分類への変換とその方法](http://doi.org/10.14945/00008218)」『人文論集』58(2){:target="_blank"}: 17-42.
--   竹内文乃・野間久史, 2014,「[観察研究におけるバイアスの感度解析](http://hdl.handle.net/10787/3660)」『統計数理』62(1){:target="_blank"}: 77-92.
--   多喜弘文, 2016,「[学歴としての専門学校の効果とその男女差：就業構造基本調査の個票データを用いた基礎分析](http://hdl.handle.net/10114/12810)」『社会志林』63(3){:target="_blank"}: 59-78.
--   瀧川裕貴, 2019,「[社会学におけるビッグデータ分析の可能性](https://ci.nii.ac.jp/naid/40021895513)」『社会と調査』(22){:target="_blank"}: 16-26.
--   Tam, Tony, 2016, "[Academic Achievement as Status Competition: Intergenerational Transmission of Positional Advantage among Taiwanese and American Students](https://doi.org/10.1177/2057150X16638600)," _Chinese Journal of Sociology_, 2(2){:target="_blank"}: 171-193.
--   玉城直美, 2016,「[『大学生とアルバイト調査』結果を基にした考察：大学生生活とアルバイトの両立に向けて](http://hdl.handle.net/20.500.12001/21310)」『沖縄キリスト教短期大学論集』(13){:target="_blank"}: 11-21.
+-   竹端寛, 2017,「[本来的なユニークさを取り戻すために：『空気を読む』という『統治』をめぐって](https://ci.nii.ac.jp/naid/40021048109){:target="_blank"}」『こころの科学』(191): 21-26.
+-   武田巧, 2013,「[取引費用低下と日本型経済諸制度](http://hdl.handle.net/10291/16227){:target="_blank"}」『政経論叢』81(3・4): 553-581.
+-   竹ノ下弘久, 2018,「[管理職への到達をめぐる不平等：世代間移動と職業キャリアの視点から](https://ci.nii.ac.jp/naid/40021418270){:target="_blank"}」『日本労働研究雑誌』(690): 18-30.
+-   竹ノ下弘久・田辺俊介・鹿又伸夫, 2008,「[階層移動の国際比較に向けての階層カテゴリーの構成：SSM職業小分類のEGP分類への変換とその方法](http://doi.org/10.14945/00008218){:target="_blank"}」『人文論集』58(2): 17-42.
+-   竹内文乃・野間久史, 2014,「[観察研究におけるバイアスの感度解析](http://hdl.handle.net/10787/3660){:target="_blank"}」『統計数理』62(1): 77-92.
+-   多喜弘文, 2016,「[学歴としての専門学校の効果とその男女差：就業構造基本調査の個票データを用いた基礎分析](http://hdl.handle.net/10114/12810){:target="_blank"}」『社会志林』63(3): 59-78.
+-   瀧川裕貴, 2019,「[社会学におけるビッグデータ分析の可能性](https://ci.nii.ac.jp/naid/40021895513){:target="_blank"}」『社会と調査』(22): 16-26.
+-   Tam, Tony, 2016, "[Academic Achievement as Status Competition: Intergenerational Transmission of Positional Advantage among Taiwanese and American Students](https://doi.org/10.1177/2057150X16638600){:target="_blank"}," _Chinese Journal of Sociology_, 2(2): 171-193.
+-   玉城直美, 2016,「[『大学生とアルバイト調査』結果を基にした考察：大学生生活とアルバイトの両立に向けて](http://hdl.handle.net/20.500.12001/21310){:target="_blank"}」『沖縄キリスト教短期大学論集』(13): 11-21.
 -   田村隆宏・木村信貴・三井理愛・松瀬誉幸, 2011,「[大学生の心理的well-beingに及ぼすアルバイト活動の影響](http://doi.org/10.24727/00027770){:target="_blank"}」『鳴門教育大学研究紀要 鳴門教育大学編』26: 43-52.
--   田靡裕祐, 2009,「[長期追跡パネル調査における継続・脱落の要因分析](https://ci.nii.ac.jp/naid/40016844479)」『社会と調査』(2){:target="_blank"}: 69-73.
--   田靡裕祐, 2018,「[職域に対する性タイピングの社会的な規定要因](http://doi.org/10.14992/00016292)」『応用社会学研究』(60){:target="_blank"}: 69-78.
--   田靡裕祐・宮田尚子, 2015,「[仕事の価値の布置と長期的変化：『日本人の意識』調査の2次分析](https://doi.org/10.4057/jsr.66.57)」『社会学評論』66(1){:target="_blank"}: 57-72.
+-   田靡裕祐, 2009,「[長期追跡パネル調査における継続・脱落の要因分析](https://ci.nii.ac.jp/naid/40016844479){:target="_blank"}」『社会と調査』(2): 69-73.
+-   田靡裕祐, 2018,「[職域に対する性タイピングの社会的な規定要因](http://doi.org/10.14992/00016292){:target="_blank"}」『応用社会学研究』(60): 69-78.
+-   田靡裕祐・宮田尚子, 2015,「[仕事の価値の布置と長期的変化：『日本人の意識』調査の2次分析](https://doi.org/10.4057/jsr.66.57){:target="_blank"}」『社会学評論』66(1): 57-72.
 -   田中淳・金力賢治・楽真澄・河相和代・徳島裕子・久保孝二郎・高杉益充, 2004,「[機能性食品（健康食品）についての意識調査](https://ci.nii.ac.jp/naid/80016378253){:target="_blank"}」『日本病院薬剤師会雑誌』40: 37-39.
 -   田中秀臣, 2005,「戦争の経済学：歴史政策学的視点から」経済史学会第69回大会報告原稿.
 -   田中秀臣, 2011,「[東日本大震災後の経済を考える：高橋亀吉から学ぶべきこと](https://real-japan.org/2011/11/29/%25E3%2580%258C%25E6%259D%25B1%25E6%2597%25A5%25E6%259C%25AC%25E5%25A4%25A7%25E9%259C%2587%25E7%2581%25BD%25E5%25BE%258C%25E3%2581%25AE%25E7%25B5%258C%25E6%25B8%2588%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%25EF%25BD%259E%25E9%25AB%2598%25E6%25A9%258B%25E4%25BA%2580%25E5%2590%2589%25E3%2581%258B%25E3%2582%2589/){:target="_blank"}」稲門経済倶楽部平成23年総会講演会.
--   田中秀臣, 2012,「[亡国経済学の系譜：日本銀行の『精算主義』は何処から来たのか…](https://ci.nii.ac.jp/naid/40019233739)」『正論』(485){:target="_blank"}: 218-225.
--   田中秀臣, 2013,「[高田保馬：社会学に基づく経済学の深い洞察](https://ci.nii.ac.jp/naid/40019796374)」『週刊エコノミスト』91(43){:target="_blank"}: 52-53.
+-   田中秀臣, 2012,「[亡国経済学の系譜：日本銀行の『精算主義』は何処から来たのか…](https://ci.nii.ac.jp/naid/40019233739){:target="_blank"}」『正論』(485): 218-225.
+-   田中秀臣, 2013,「[高田保馬：社会学に基づく経済学の深い洞察](https://ci.nii.ac.jp/naid/40019796374){:target="_blank"}」『週刊エコノミスト』91(43): 52-53.
 -   田中泉吏, 2008,「[進化生物学におけるモデルと多元論](https://doi.org/10.14989/56990){:target="_blank"}」『科学哲学科学史研究』2: 29-42.
--   田中重人, 2016,「[『妊娠・出産に関する正しい知識』が意味するもの：プロパガンダのための科学？](http://hdl.handle.net/10097/00121984)」『生活経済政策』(230){:target="_blank"}: 13-18.
+-   田中重人, 2016,「[『妊娠・出産に関する正しい知識』が意味するもの：プロパガンダのための科学？](http://hdl.handle.net/10097/00121984){:target="_blank"}」『生活経済政策』(230): 13-18.
 -   田中康裕, 2017,「[千里ニュータウンの『まちの居場所』をめぐる『有益な強いアマチュア』と『柔軟で強い専門家』](https://newtown-sketch.com/blog/20170513/220033){:target="_blank"}」ニュータウン・スケッチ2017年5月13日.
--   田中寧・千葉能宏, 2011,「[女子の大学教育需要と雇用環境の変化：4年制大学と短期大学の志願率決定の二項・多項ロジットモデルによる時系列分析](http://hdl.handle.net/10965/460)」『京都産業大学論集 社会科学系列』(28){:target="_blank"}: 89-113.
--   谷口功・三村聡・床尾あかね・坂本竜児, 2010,「[地域自治と市民活動：豊田市の都市内分権と共働の具体化](https://doi.org/10.11192/jacp.8.50)」『コミュニティ政策』8(0){:target="_blank"}: 50-69.
+-   田中寧・千葉能宏, 2011,「[女子の大学教育需要と雇用環境の変化：4年制大学と短期大学の志願率決定の二項・多項ロジットモデルによる時系列分析](http://hdl.handle.net/10965/460){:target="_blank"}」『京都産業大学論集 社会科学系列』(28): 89-113.
+-   谷口功・三村聡・床尾あかね・坂本竜児, 2010,「[地域自治と市民活動：豊田市の都市内分権と共働の具体化](https://doi.org/10.11192/jacp.8.50){:target="_blank"}」『コミュニティ政策』8(0): 50-69.
 -   谷口将紀, 2018,「[ポピュリズムを招く新しい『政治的疎外』の時代](http://www.nira.or.jp/pdf/opinion40.pdf){:target="_blank"}」NIRAオピニオンペーパー, No. 40.
--   谷口勇仁, 2017,「[規則の形骸化の発生プロセス：不正のトライアングル理論に基づく検討](http://hdl.handle.net/2115/66751)」『経済学研究』67(1){:target="_blank"}: 5-13.
--   谷本奈穂・渡邉大輔, 2016,「[ロマンティック・ラブ・イデオロギー再考：恋愛研究の視点から](https://doi.org/10.11218/ojjams.31.55)」『理論と方法』31(1){:target="_blank"}: 55-69.
+-   谷口勇仁, 2017,「[規則の形骸化の発生プロセス：不正のトライアングル理論に基づく検討](http://hdl.handle.net/2115/66751){:target="_blank"}」『経済学研究』67(1): 5-13.
+-   谷本奈穂・渡邉大輔, 2016,「[ロマンティック・ラブ・イデオロギー再考：恋愛研究の視点から](https://doi.org/10.11218/ojjams.31.55){:target="_blank"}」『理論と方法』31(1): 55-69.
 -   谷岡一郎, 2002,「[宝くじは社会的弱者への税金か？ JGSS-2000データによるナンバーズ・ミニロトとの比較研究](https://ci.nii.ac.jp/naid/110008457926){:target="_blank"}」『日本版General Social Surveys研究論文集』1: 107-124.
 -   谷岡一郎, 2006,「[力の誇示・英雄願望（マッチョ･カルチャー）の発露としてのカラオケ：JGSS-2001データによるカラオケ選択とプレイ頻度に関する仮説実証研究](https://ci.nii.ac.jp/naid/110007721928){:target="_blank"}」『日本版General Social Surveys研究論文集』5: 83-94.
 -   田野大輔, 2018,「[私が大学で『ナチスを体験する』授業を続ける理由](https://gendai.ismedia.jp/articles/-/56393){:target="_blank"}」現代ビジネス, 2018年7月6日.
--   太郎丸博, 1994,「[ゲーム理論による秩序問題の考察：個人主義的アプローチの三類型](http://hdl.handle.net/2433/126609)」『ソシオロジ』39(1){:target="_blank"}: 3-22.
+-   太郎丸博, 1994,「[ゲーム理論による秩序問題の考察：個人主義的アプローチの三類型](http://hdl.handle.net/2433/126609){:target="_blank"}」『ソシオロジ』39(1): 3-22.
 -   太郎丸博, 1995,「[転職による転機と当事者の解釈過程：ライフコース論の方法論的検討](http://hdl.handle.net/11094/11263){:target="_blank"}」『年報人間科学』16: 57-73.
--   太郎丸博, 1996,「[二重の閉鎖化としての権利：協力ゲームによるヴェーバー権利論のフォーマライゼーション](https://doi.org/10.14959/soshioroji.41.1_3)」『ソシオロジ』41(1){:target="_blank"}: 3-16.
--   太郎丸博, 2000,「[社会学における合理的選択理論の伝統とその可能性](https://doi.org/10.11218/ojjams.15.287)」『理論と方法』15(2){:target="_blank"}: 287-298.
--   太郎丸博, 2002,「[社会階層論とミクロ・マクロ・リンク：John H. Goldthorpeの社会移動論と合理的選択理論](http://doi.org/10.4057/jsr.52.504)」『社会学評論』52(4){:target="_blank"}: 504-521.
--   太郎丸博, 2004,「[社会階層とインターネット利用：デジタル・デバイド論批判](https://doi.org/10.14959/soshioroji.48.3_53)」『ソシオロジ』48(3){:target="_blank"}: 53-66.
--   太郎丸博, 2006,「[Laudanの研究伝統論による社会学理論発展法の考察](https://doi.org/10.4057/jsr.57.41)」『社会学評論』57(1){:target="_blank"}: 41-57.
+-   太郎丸博, 1996,「[二重の閉鎖化としての権利：協力ゲームによるヴェーバー権利論のフォーマライゼーション](https://doi.org/10.14959/soshioroji.41.1_3){:target="_blank"}」『ソシオロジ』41(1): 3-16.
+-   太郎丸博, 2000,「[社会学における合理的選択理論の伝統とその可能性](https://doi.org/10.11218/ojjams.15.287){:target="_blank"}」『理論と方法』15(2): 287-298.
+-   太郎丸博, 2002,「[社会階層論とミクロ・マクロ・リンク：John H. Goldthorpeの社会移動論と合理的選択理論](http://doi.org/10.4057/jsr.52.504){:target="_blank"}」『社会学評論』52(4): 504-521.
+-   太郎丸博, 2004,「[社会階層とインターネット利用：デジタル・デバイド論批判](https://doi.org/10.14959/soshioroji.48.3_53){:target="_blank"}」『ソシオロジ』48(3): 53-66.
+-   太郎丸博, 2006,「[Laudanの研究伝統論による社会学理論発展法の考察](https://doi.org/10.4057/jsr.57.41){:target="_blank"}」『社会学評論』57(1): 41-57.
 -   太郎丸博, 2007,「[大学進学率の階級間格差に関する合理的選択理論の検討：相対的リスク回避仮説の1995年SSM調査データによる分析](https://doi.org/10.18910/3975){:target="_blank"}」『大阪大学大学院人間科学研究科紀要』33: 201-212.
--   太郎丸博, 2007,「[若年非正規雇用・無業とジェンダー：性別分業意識が女性をフリーターにするのか？](https://doi.org/10.14959/soshioroji.52.1_37)」『ソシオロジ』52(1){:target="_blank"}: 37-51.
--   太郎丸博, 2007,「[編集後記：論文を投稿すること、審査すること](https://doi.org/10.11218/ojjams.22.105)」『理論と方法』22(1){:target="_blank"}: 105-108.
+-   太郎丸博, 2007,「[若年非正規雇用・無業とジェンダー：性別分業意識が女性をフリーターにするのか？](https://doi.org/10.14959/soshioroji.52.1_37){:target="_blank"}」『ソシオロジ』52(1): 37-51.
+-   太郎丸博, 2007,「[編集後記：論文を投稿すること、審査すること](https://doi.org/10.11218/ojjams.22.105){:target="_blank"}」『理論と方法』22(1): 105-108.
 -   太郎丸博, 2008,「[論文掲載を拒否される悔しさと拒否する覚悟](http://sociology.jugem.jp/%3Feid%3D201){:target="_blank"}」Theoretical Sociology, 2008年2月27日.
--   太郎丸博, 2010,「[投稿論文の査読をめぐる不満とコンセンサスの不在](https://doi.org/10.14959/soshioroji.54.3_121)」『ソシオロジ』54(3){:target="_blank"}: 121-126.
+-   太郎丸博, 2010,「[投稿論文の査読をめぐる不満とコンセンサスの不在](https://doi.org/10.14959/soshioroji.54.3_121){:target="_blank"}」『ソシオロジ』54(3): 121-126.
 -   太郎丸博, 2010,「[数理社会学・リベラル・公共社会学：プロ社会学者は社会のために何が言えるのか？](https://doi.org/10.20791/ksr.9.0_52){:target="_blank"}」『フォーラム現代社会学』9: 52-59.
 -   太郎丸博, 2014,「[日本の社会学はどんな文献を参照しているのか：引用作法の下位分野間比較1990-2009](http://hdl.handle.net/2433/185358){:target="_blank"}」『京都大学文学部研究紀要』53: 235-255.
 -   太郎丸博, 2016,「[数理社会学会における報告数のトレンド 1986-2016](http://tarohmaru.web.fc2.com/documents/Trends_JAMS_Presentation1986_2016.html){:target="_blank"}」
 -   太郎丸博・阪口祐介・宮田尚子, 2009,「[ソシオロジと社会学評論に見る社会学の方法のトレンド, 1952-2008](http://tarohmaru.web.fc2.com/documents/journal.pdf){:target="_blank"}」
--   田崎勝也・二ノ宮卓也, 2013,「[日本人のレスポンス・スタイル：構造方程式モデリングを用いた探索的研究](https://doi.org/10.14966/jssp.KJ00008993917)」『社会心理学研究』29(2){:target="_blank"}: 75-85.
--   田代敦志・相田潤・菖蒲川由郷・藤山友紀・山本龍生・齋藤玲子・近藤克則, 2017,「[高齢者における所得格差と残存歯数の関連：JAGES2013新潟市データ](https://doi.org/10.11236/jph.64.4_190)」『日本公衆衛生雑誌』64(4){:target="_blank"}: 190-196.
--   田多井俊喜, 2018,「[クィア理論とトランスジェンダー：性的差異について](http://hdl.handle.net/2433/237335)」『京都社会学年報』(26){:target="_blank"}: 51-61.
+-   田崎勝也・二ノ宮卓也, 2013,「[日本人のレスポンス・スタイル：構造方程式モデリングを用いた探索的研究](https://doi.org/10.14966/jssp.KJ00008993917){:target="_blank"}」『社会心理学研究』29(2): 75-85.
+-   田代敦志・相田潤・菖蒲川由郷・藤山友紀・山本龍生・齋藤玲子・近藤克則, 2017,「[高齢者における所得格差と残存歯数の関連：JAGES2013新潟市データ](https://doi.org/10.11236/jph.64.4_190){:target="_blank"}」『日本公衆衛生雑誌』64(4): 190-196.
+-   田多井俊喜, 2018,「[クィア理論とトランスジェンダー：性的差異について](http://hdl.handle.net/2433/237335){:target="_blank"}」『京都社会学年報』(26): 51-61.
 -   立石裕二, 2008,「[環境問題の捉えかたの世代間差異と子どものころの記憶](https://doi.org/10.24779/jpkankyo.14.0_101){:target="_blank"}」『環境社会学研究』14: 101-118.
--   龍野洋介, 2015,「[トランスナショナルな『意味』がローカルな『意味』に交わるところ：山口県上関町祝島での反原発運動を事例として](https://ci.nii.ac.jp/naid/120005887371)」『AGLOS』(Special Edition 2014){:target="_blank"}: 1-21.
--   田崎晴明, 2006,「[科学と『ニセ科学』をめぐる風景](https://doi.org/10.20653/pesj.54.3_215)」『物理教育』54(3){:target="_blank"}: 215-219.
--   寺田俊郎, 2005,「[イラク人質事件をめぐる『自己責任論』と世界市民の責任](http://hdl.handle.net/10723/583)」『PRIME』(21){:target="_blank"}: 99-108.
+-   龍野洋介, 2015,「[トランスナショナルな『意味』がローカルな『意味』に交わるところ：山口県上関町祝島での反原発運動を事例として](https://ci.nii.ac.jp/naid/120005887371){:target="_blank"}」『AGLOS』(Special Edition 2014): 1-21.
+-   田崎晴明, 2006,「[科学と『ニセ科学』をめぐる風景](https://doi.org/10.20653/pesj.54.3_215){:target="_blank"}」『物理教育』54(3): 215-219.
+-   寺田俊郎, 2005,「[イラク人質事件をめぐる『自己責任論』と世界市民の責任](http://hdl.handle.net/10723/583){:target="_blank"}」『PRIME』(21): 99-108.
 -   寺畑正英, 2011,「[新しい人事制度の普及プロセス：制度的アプローチによる展開](https://ci.nii.ac.jp/naid/110009623897){:target="_blank"}」『経営論集』78: 225-236.
--   寺村絵里子, 2012,「[女性事務職の賃金と就業行動：男女雇用機会均等法施行後の三時点比較](http://ci.nii.ac.jp/naid/110009827973)」『人口学研究』(48){:target="_blank"}: 7-21.
--   寺沢重法, 2015,「[理系は非宗教的か？ JGSS-2002の分析](http://hdl.handle.net/2115/58468)」『藤女子大学人間生活学部紀要』(52){:target="_blank"}: 13-28.
--   Tholen, Gerbrand, 2017, "[Symbolic Closure: Towards a Renewed Sociological Perspective on the Relationship between Higher Education, Credentials and the Graduate Labour Market](https://doi.org/10.1177/0038038516641857)," _Sociology_, 51(5){:target="_blank"}: 1067-1083.
--   Till, Karen E., 2006, "[Memory Studies](https://doi.org/10.1093/hwj/dbl023)," _History Workshop Journal_, 62(1){:target="_blank"}: 325–341.
--   鳶島修治, 2012,「[高校生の学習時間に対する早期学校外教育投資の影響](https://doi.org/10.5690/kantoh.2012.144)」『年報社会学論集』(25){:target="_blank"}: 144-155.
--   鳶島修治, 2012,「[1990年代以降の大学進学機会とジェンダー](http://hdl.handle.net/10097/54193)」『東北大学大学院教育学研究科研究年報』60(2){:target="_blank"}: 37-48.
+-   寺村絵里子, 2012,「[女性事務職の賃金と就業行動：男女雇用機会均等法施行後の三時点比較](http://ci.nii.ac.jp/naid/110009827973){:target="_blank"}」『人口学研究』(48): 7-21.
+-   寺沢重法, 2015,「[理系は非宗教的か？ JGSS-2002の分析](http://hdl.handle.net/2115/58468){:target="_blank"}」『藤女子大学人間生活学部紀要』(52): 13-28.
+-   Tholen, Gerbrand, 2017, "[Symbolic Closure: Towards a Renewed Sociological Perspective on the Relationship between Higher Education, Credentials and the Graduate Labour Market](https://doi.org/10.1177/0038038516641857){:target="_blank"}," _Sociology_, 51(5): 1067-1083.
+-   Till, Karen E., 2006, "[Memory Studies](https://doi.org/10.1093/hwj/dbl023){:target="_blank"}," _History Workshop Journal_, 62(1): 325–341.
+-   鳶島修治, 2012,「[高校生の学習時間に対する早期学校外教育投資の影響](https://doi.org/10.5690/kantoh.2012.144){:target="_blank"}」『年報社会学論集』(25): 144-155.
+-   鳶島修治, 2012,「[1990年代以降の大学進学機会とジェンダー](http://hdl.handle.net/10097/54193){:target="_blank"}」『東北大学大学院教育学研究科研究年報』60(2): 37-48.
 -   戸田淳仁, 2016,「[『35歳転職限界説』の再検討](https://doi.org/10.34391/worksrev.11.11_1){:target="_blank"}」_Works Review_, 11: 126-137.
--   戸田山和久, 2009,「『エボデボ革命』はどの程度革命的なのか」『[現代思想](https://www.amazon.co.jp/%25E7%258F%25BE%25E4%25BB%25A3%25E6%2580%259D%25E6%2583%25B32009%25E5%25B9%25B44%25E6%259C%2588%25E8%2587%25A8%25E6%2599%2582%25E5%25A2%2597%25E5%2588%258A%25E5%258F%25B7-%25E7%25B7%258F%25E7%2589%25B9%25E9%259B%2586-%25E3%2583%2580%25E3%2583%25BC%25E3%2582%25A6%25E3%2582%25A3%25E3%2583%25B3-%25E3%2580%258E%25E7%25A8%25AE%25E3%2581%25AE%25E8%25B5%25B7%25E6%25BA%2590%25E3%2580%258F%25E3%2581%25AE%25E7%25B3%25BB%25E7%25B5%25B1%25E6%25A8%25B9-%25E6%25B8%25A1%25E8%25BE%25BA/dp/4791711955/ref%3Das_li_ss_tl%3Fie%3DUTF8%26qid%3D1532823094%26sr%3D8-1%26keywords%3D%25E7%258F%25BE%25E4%25BB%25A3%25E6%2580%259D%25E6%2583%25B3%2B%25E3%2583%2580%25E3%2583%25BC%25E3%2582%25A6%25E3%2582%25A3%25E3%2583%25B3%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D1830b74d3be747cc75afe244991147a6)』37(5){:target="_blank"}: 235-249.
--   戸田山和久, 2011,「[福島第一原子力発電所事故以降の科学・技術コミュニケーション：放射線リスクを巡って](https://ci.nii.ac.jp/naid/40019172732)」『社会と倫理』(25){:target="_blank"}: 121-138.
--   戸江哲理, 2011,「[なぜ通い続けるのか？ ある子育て支援サークルの2つの利用のしかた](http://hdl.handle.net/2433/192735)」『京都社会学年報』(19){:target="_blank"}: 1-22.
--   Toomet, Ott, and Arne Henningsen, 2008, "[Sample Selection Models in R: Package sampleSelection](http://dx.doi.org/10.18637/jss.v027.i07)," _Journal of Statistical Software_, 27(7){:target="_blank"}.
--   土屋敦, 2004,「[日本社会における「胎児をめぐる生命主義」の源流：1960年代優生保護法論争をめぐって](http://ci.nii.ac.jp/naid/40006442414)」『ソシオロゴス』(28){:target="_blank"}: 96-114.
+-   戸田山和久, 2009,「『エボデボ革命』はどの程度革命的なのか」『[現代思想](https://www.amazon.co.jp/%25E7%258F%25BE%25E4%25BB%25A3%25E6%2580%259D%25E6%2583%25B32009%25E5%25B9%25B44%25E6%259C%2588%25E8%2587%25A8%25E6%2599%2582%25E5%25A2%2597%25E5%2588%258A%25E5%258F%25B7-%25E7%25B7%258F%25E7%2589%25B9%25E9%259B%2586-%25E3%2583%2580%25E3%2583%25BC%25E3%2582%25A6%25E3%2582%25A3%25E3%2583%25B3-%25E3%2580%258E%25E7%25A8%25AE%25E3%2581%25AE%25E8%25B5%25B7%25E6%25BA%2590%25E3%2580%258F%25E3%2581%25AE%25E7%25B3%25BB%25E7%25B5%25B1%25E6%25A8%25B9-%25E6%25B8%25A1%25E8%25BE%25BA/dp/4791711955/ref%3Das_li_ss_tl%3Fie%3DUTF8%26qid%3D1532823094%26sr%3D8-1%26keywords%3D%25E7%258F%25BE%25E4%25BB%25A3%25E6%2580%259D%25E6%2583%25B3%2B%25E3%2583%2580%25E3%2583%25BC%25E3%2582%25A6%25E3%2582%25A3%25E3%2583%25B3%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D1830b74d3be747cc75afe244991147a6){:target="_blank"}』37(5): 235-249.
+-   戸田山和久, 2011,「[福島第一原子力発電所事故以降の科学・技術コミュニケーション：放射線リスクを巡って](https://ci.nii.ac.jp/naid/40019172732){:target="_blank"}」『社会と倫理』(25): 121-138.
+-   戸江哲理, 2011,「[なぜ通い続けるのか？ ある子育て支援サークルの2つの利用のしかた](http://hdl.handle.net/2433/192735){:target="_blank"}」『京都社会学年報』(19): 1-22.
+-   Toomet, Ott, and Arne Henningsen, 2008, "[Sample Selection Models in R: Package sampleSelection](http://dx.doi.org/10.18637/jss.v027.i07){:target="_blank"}," _Journal of Statistical Software_, 27(7).
+-   土屋敦, 2004,「[日本社会における「胎児をめぐる生命主義」の源流：1960年代優生保護法論争をめぐって](http://ci.nii.ac.jp/naid/40006442414){:target="_blank"}」『ソシオロゴス』(28): 96-114.
 -   土屋貴裕, 2018,「[今を生きる『貯蓄ゼロ』世帯：世代間、世代内格差の拡大と今の生活を重視する傾向](https://www.dir.co.jp/report/research/capital-mkt/asset/20180402_020032.html){:target="_blank"}」
--   土屋智子・小杉素子・谷口武俊, 2008,「[社会的論争を招く技術に対する専門家と市民のリスク認知の違いとその背景要因](https://doi.org/10.11447/sraj.18.2_77)」『日本リスク研究学会誌』18(2){:target="_blank"}: 77-85.
--   柘植尚則, 2012,「[倫理学から考える倫理的消費](http://www.og-cel.jp/search/1195529_16068.html)」『季刊誌CEL』(98){:target="_blank"}: 25-28.
--   辻泉, 2016,「[大学生たちのパーソナル・ネットワークの実態：2010年全国26大学調査から探る](https://ci.nii.ac.jp/naid/40021107012)」『人間関係学研究：大妻女子大学人間関係学部紀要』(18){:target="_blank"}: 125-139.
+-   土屋智子・小杉素子・谷口武俊, 2008,「[社会的論争を招く技術に対する専門家と市民のリスク認知の違いとその背景要因](https://doi.org/10.11447/sraj.18.2_77){:target="_blank"}」『日本リスク研究学会誌』18(2): 77-85.
+-   柘植尚則, 2012,「[倫理学から考える倫理的消費](http://www.og-cel.jp/search/1195529_16068.html){:target="_blank"}」『季刊誌CEL』(98): 25-28.
+-   辻泉, 2016,「[大学生たちのパーソナル・ネットワークの実態：2010年全国26大学調査から探る](https://ci.nii.ac.jp/naid/40021107012){:target="_blank"}」『人間関係学研究：大妻女子大学人間関係学部紀要』(18): 125-139.
 -   鶴田尚美, 2000,「[パーフィットにおける人格の還元主義と配分的正義](http://hdl.handle.net/2433/59223){:target="_blank"}」『実践哲学研究』23: 13-20.
--   鶴田尚美, 2015,「[夭折はなぜ不幸なのか](http://hdl.handle.net/2433/209741)」『実践哲学研究』(38){:target="_blank"}: 37-59.
--   筒井淳也, 2011,「[親との関係良好性はどのように決まるか：NFRJ個票データへのマルチレベル分析の適用](https://doi.org/10.4057/jsr.62.301)」『社会学評論』62(3){:target="_blank"}: 301-318.
--   筒井淳也・不破麻紀子, 2008,「[マルチレベル・モデルの考え方と実践](https://doi.org/10.11218/ojjams.23.2_139)」『理論と方法』23(2){:target="_blank"}: 139-149.
--   筒井清忠・吉田純・水垣源太郎・佐藤哲彦, 1996,「[現代大学生における『教養』の計量的分析](http://hdl.handle.net/2433/192530)」『京都社会学年報』(4){:target="_blank"}: 163-176.
--   筒井美紀, 2012,「[なぜジョブ・カード制度に着目するのか：特集にあたって](http://hdl.handle.net/10114/8109)」『大原社会問題研究所雑誌』(644){:target="_blank"}: 1-8.
+-   鶴田尚美, 2015,「[夭折はなぜ不幸なのか](http://hdl.handle.net/2433/209741){:target="_blank"}」『実践哲学研究』(38): 37-59.
+-   筒井淳也, 2011,「[親との関係良好性はどのように決まるか：NFRJ個票データへのマルチレベル分析の適用](https://doi.org/10.4057/jsr.62.301){:target="_blank"}」『社会学評論』62(3): 301-318.
+-   筒井淳也・不破麻紀子, 2008,「[マルチレベル・モデルの考え方と実践](https://doi.org/10.11218/ojjams.23.2_139){:target="_blank"}」『理論と方法』23(2): 139-149.
+-   筒井清忠・吉田純・水垣源太郎・佐藤哲彦, 1996,「[現代大学生における『教養』の計量的分析](http://hdl.handle.net/2433/192530){:target="_blank"}」『京都社会学年報』(4): 163-176.
+-   筒井美紀, 2012,「[なぜジョブ・カード制度に着目するのか：特集にあたって](http://hdl.handle.net/10114/8109){:target="_blank"}」『大原社会問題研究所雑誌』(644): 1-8.
 -   Turel, Ofir, and Catherine E. Connelly, 2013, "[Too Busy to Help: Antecedents and Outcomes of Interactional Justice in Web-Based Service Encounters](http://dx.doi.org/10.1016/j.ijinfomgt.2013.03.005){:target="_blank"}," _International Journal of Information Management_, 33: 674-683.
--   Turner, Jill, and Mike Michael, 1996, "[What Do We Know about 'Don't Knows'? Or, Contexts of 'Ignorance'](https://doi.org/10.1177%252F053901896035001002)," _Social Science Information_, 35(1){:target="_blank"}: 15-37.
+-   Turner, Jill, and Mike Michael, 1996, "[What Do We Know about 'Don't Knows'? Or, Contexts of 'Ignorance'](https://doi.org/10.1177%252F053901896035001002){:target="_blank"}," _Social Science Information_, 35(1): 15-37.
 
 ### U
 
--   内田良, 2009,「[児童虐待の発生件数をめぐるパラドクス](http://hdl.handle.net/10424/1910)」『愛知教育大学教育実践総合センター紀要』(12){:target="_blank"}: 269-277.
--   内田龍史, 2007,「[フリーター選択と社会的ネットワーク：高校3年生に対する進路意識調査から](https://doi.org/10.11218/ojjams.22.139)」『理論と方法』22(2){:target="_blank"}: 139-153.
--   内田由理子, 2009,「[高専女子卒業生の就労状況](https://ci.nii.ac.jp/naid/40016900702)」『科学技術社会論研究』(7){:target="_blank"}: 34-44.
--   内井惣七, 1980,「[科学法則と可能世界](https://doi.org/10.4288/kisoron1954.14.153)」『科学基礎論研究』14(4){:target="_blank"}: 153-155.
+-   内田良, 2009,「[児童虐待の発生件数をめぐるパラドクス](http://hdl.handle.net/10424/1910){:target="_blank"}」『愛知教育大学教育実践総合センター紀要』(12): 269-277.
+-   内田龍史, 2007,「[フリーター選択と社会的ネットワーク：高校3年生に対する進路意識調査から](https://doi.org/10.11218/ojjams.22.139){:target="_blank"}」『理論と方法』22(2): 139-153.
+-   内田由理子, 2009,「[高専女子卒業生の就労状況](https://ci.nii.ac.jp/naid/40016900702){:target="_blank"}」『科学技術社会論研究』(7): 34-44.
+-   内井惣七, 1980,「[科学法則と可能世界](https://doi.org/10.4288/kisoron1954.14.153){:target="_blank"}」『科学基礎論研究』14(4): 153-155.
 -   内井惣七, 1995,「[カオス、複雑性、科学方法論](https://doi.org/10.4216/jpssj.28.17){:target="_blank"}」『科学哲学』28: 17-29.
--   内井惣七, 1998,「[科学者の責任を考えるために](https://doi.org/10.11316/peu.98.3_4)」『大学の物理教育』(1998-3){:target="_blank"}: 4-8.
+-   内井惣七, 1998,「[科学者の責任を考えるために](https://doi.org/10.11316/peu.98.3_4){:target="_blank"}」『大学の物理教育』(1998-3): 4-8.
 -   Uchii, Soshichi, 2002, "[Is Philosophy of Science Alive in the East? A Report from Japan](http://philsci-archive.pitt.edu/585/){:target="_blank"}," 40th Anniversary Lecture Series, Center for Philosophy of Science, University of Pittsburgh, March 14, 2002.
--   内井惣七, 2007,「[量子重力と哲学](http://ci.nii.ac.jp/naid/40015757773)」『現代思想』35(16){:target="_blank"}: 152-165.
+-   内井惣七, 2007,「[量子重力と哲学](http://ci.nii.ac.jp/naid/40015757773){:target="_blank"}」『現代思想』35(16): 152-165.
 -   Uchii, Soshichi, 2009, "[An Informational Interpretation of Monadology](http://philsci-archive.pitt.edu/4635/){:target="_blank"}," Clarke Glymour, Wang Wei, and Dag Westerstahl eds., _Logic, Methodology and Philosophy of Science, Proceedings of the 13th International Congress_, 344-353.
--   内井惣七, 2012,「[ニュートリノの速度測定と非主流派研究](http://ci.nii.ac.jp/naid/40019123625)」『現代思想』40(1){:target="_blank"}: 172-182.
+-   内井惣七, 2012,「[ニュートリノの速度測定と非主流派研究](http://ci.nii.ac.jp/naid/40019123625){:target="_blank"}」『現代思想』40(1): 172-182.
 -   上野千鶴子編, 2001,『[構築主義とは何か](https://www.amazon.co.jp/%25E6%25A7%258B%25E7%25AF%2589%25E4%25B8%25BB%25E7%25BE%25A9%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B-%25E4%25B8%258A%25E9%2587%258E-%25E5%258D%2583%25E9%25B6%25B4%25E5%25AD%2590/dp/4326652454/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D829fd6eb26e41339f2da1ce917841906%26language%3Dja_JP){:target="_blank"}』勁草書房.
    -   加藤秀一,「構築主義と身体の臨界」pp. 159-188.
--   上野加代子, 1994,「[児童虐待の社会的構築：言説にみる問題の帰属](https://doi.org/10.14959/soshioroji.39.2_3)」『ソシオロジ』39(2){:target="_blank"}: 3-18.
+-   上野加代子, 1994,「[児童虐待の社会的構築：言説にみる問題の帰属](https://doi.org/10.14959/soshioroji.39.2_3){:target="_blank"}」『ソシオロジ』39(2): 3-18.
 -   梅崎修・田澤実編著, 2013,『[大学生の学びとキャリア：入学前から卒業後までの継続調査の分析](https://www.amazon.co.jp/exec/obidos/ASIN/4588686062/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3D0f0a015302cec4009c3b0fc82085e9d1%26language%3Dja_JP){:target="_blank"}』法政大学出版局.
    -   下村英雄・八幡成美・梅崎修・田澤実,「キャリア意識の測定テスト（CAVT）の開発」pp. 17-40.
    -   梅崎修・田澤実・八幡成美・下村英雄,「人間関係の構築と進路意識：高校に対するキャリア意識調査」pp. 101-116.
@@ -1090,7 +1090,7 @@ title: 整理棚
 -   鵜浦裕, 2004,「創造論運動の時代区分、戦略、人口統計、要因：スコット講演の補足」『生物科学』56(1): 15-19.
 -   浦坂純子・西村和雄・平田純一・八木匡, 2011,「[理系出身者と文系出身者の年収比較：JHPSデータに基づく分析結果](https://www.rieti.go.jp/jp/publications/nts/11j020.html){:target="_blank"}」RIETI Discussion Paper 11-J-020.
 -   浦坂純子・西村和雄・平田純一・八木匡, 2013,「[大学入試制度の多様化に関する比較分析：労働市場における評価](https://www.rieti.go.jp/jp/publications/nts/13j019.html){:target="_blank"}」RIETI Discussion Paper 13-J-019.
--   薄井尚樹, 2008,「[心の理論とモジュール性：ニコルズとスティッチの批判を手がかりに](https://ci.nii.ac.jp/naid/40016158103)」『アルケー』(16){:target="_blank"}: 68-76.
+-   薄井尚樹, 2008,「[心の理論とモジュール性：ニコルズとスティッチの批判を手がかりに](https://ci.nii.ac.jp/naid/40016158103){:target="_blank"}」『アルケー』(16): 68-76.
 
 ### V
 
@@ -1098,35 +1098,35 @@ title: 整理棚
 
 ### W
 
--   和田実, 1991,「[対人的有能性に関する研究：ノンバーバルスキル尺度およびソーシャルスキル尺度の作成](https://doi.org/10.2130/jjesp.31.49)」『実験社会心理学研究』31(1){:target="_blank"}: 49-59.
+-   和田実, 1991,「[対人的有能性に関する研究：ノンバーバルスキル尺度およびソーシャルスキル尺度の作成](https://doi.org/10.2130/jjesp.31.49){:target="_blank"}」『実験社会心理学研究』31(1): 49-59.
 -   若林直樹・山岡徹・松山一紀・本間利通, 2006,「成果主義的人事制度改革と組織帰属意識の変化」京都大学大学院経済学研究科Working Paper J-51.
 -   若田部昌澄, 2011,「解説：『夢の未来』が失われた後の経済学」タイラー・コーエン『[大停滞](https://www.amazon.co.jp/%25E5%25A4%25A7%25E5%2581%259C%25E6%25BB%259E-%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A9%25E3%2583%25BC%25E3%2583%25BB%25E3%2582%25B3%25E3%2583%25BC%25E3%2582%25A8%25E3%2583%25B3/dp/4757122802/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3Da33018f22afa9797840da338bf1fba0b%26language%3Dja_JP){:target="_blank"}』NTT出版.
--   若田部昌澄, 2012,「[歴史としてのミルトン・フリードマン：文献展望と現代的評価](https://ci.nii.ac.jp/naid/40019396963)」『経済学史研究』54(1){:target="_blank"}: 22-42.
--   脇本竜太郎, 2005,「[存在脅威管理理論の足跡と展望：文化内差・文化間差を組み込んだ包括的な理論化に向けて](https://doi.org/10.2130/jjesp.44.165)」『実験社会心理学研究』44(2){:target="_blank"}: 165-179.
--   脇坂明, 2011,「[均等法後の企業における女性の雇用管理の変遷](https://ci.nii.ac.jp/naid/40019007432)」『日本労働研究雑誌』(615){:target="_blank"}: 38-51.
--   脇田彩, 2009,「[女性の階層的地位をめぐる論点](http://hdl.handle.net/10748/3320)」『人文学報』(407){:target="_blank"}: 83-103.
--   涌田幸宏, 2009,「[組織フィールドの形成と意味ネットワークの焦点化：古民家再生イノベーションを例として](https://doi.org/10.20627/jsim.30.1_77)」『日本情報経営学会誌』30(1){:target="_blank"}: 77-87.
+-   若田部昌澄, 2012,「[歴史としてのミルトン・フリードマン：文献展望と現代的評価](https://ci.nii.ac.jp/naid/40019396963){:target="_blank"}」『経済学史研究』54(1): 22-42.
+-   脇本竜太郎, 2005,「[存在脅威管理理論の足跡と展望：文化内差・文化間差を組み込んだ包括的な理論化に向けて](https://doi.org/10.2130/jjesp.44.165){:target="_blank"}」『実験社会心理学研究』44(2): 165-179.
+-   脇坂明, 2011,「[均等法後の企業における女性の雇用管理の変遷](https://ci.nii.ac.jp/naid/40019007432){:target="_blank"}」『日本労働研究雑誌』(615): 38-51.
+-   脇田彩, 2009,「[女性の階層的地位をめぐる論点](http://hdl.handle.net/10748/3320){:target="_blank"}」『人文学報』(407): 83-103.
+-   涌田幸宏, 2009,「[組織フィールドの形成と意味ネットワークの焦点化：古民家再生イノベーションを例として](https://doi.org/10.20627/jsim.30.1_77){:target="_blank"}」『日本情報経営学会誌』30(1): 77-87.
 -   Wang, F., 2017, "[Policy Response to Low Fertility in China: Too Little, Too Late?](https://www.eastwestcenter.org/publications/policy-response-low-fertility-in-china-too-little-too-late){:target="_blank"}" _AsiaPacific Issues_ No. 130.
 -   Wasserman, David, Adrienne Asch, Jeffrey Blustein, Daniel Putnam, 2011, "[Disability: Definitions, Models, Experience](https://plato.stanford.edu/entries/disability/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
--   渡部麻美, 2018,「[社会人における“コミュニケーション力”イメージと態度との関連](https://doi.org/10.18910/70553)」『対人社会心理学研究』(18){:target="_blank"}: 155-163.
+-   渡部麻美, 2018,「[社会人における“コミュニケーション力”イメージと態度との関連](https://doi.org/10.18910/70553){:target="_blank"}」『対人社会心理学研究』(18): 155-163.
 -   渡部幹・春名康宏・北田淳子, 1994,「[原子力発電の安全性に対する信頼の構造](https://jglobal.jst.go.jp/detail%3FJGLOBAL_ID%3D200902109092810198){:target="_blank"}」『INSS Journal』1: 69-92.
--   渡辺健太郎, 2017,「[文系学部卒男性がもたらす若年層の権威主義化](https://doi.org/10.18910/60473)」『年報人間科学』(38){:target="_blank"}: 139-157.
--   渡辺光一・黒崎浩行・弓山達也, 2011,「[日米の宗教概念の構造とその幸福度への効果：両国の共通性が示唆する普遍宗教性](http://ci.nii.ac.jp/naid/110009480427)」『宗教と社会』(17){:target="_blank"}: 47-66.
+-   渡辺健太郎, 2017,「[文系学部卒男性がもたらす若年層の権威主義化](https://doi.org/10.18910/60473){:target="_blank"}」『年報人間科学』(38): 139-157.
+-   渡辺光一・黒崎浩行・弓山達也, 2011,「[日米の宗教概念の構造とその幸福度への効果：両国の共通性が示唆する普遍宗教性](http://ci.nii.ac.jp/naid/110009480427){:target="_blank"}」『宗教と社会』(17): 47-66.
 -   渡辺深編, 2008,『[新しい経済社会学：日本の経済現象の社会学的分析](https://www.amazon.co.jp/%25E6%2596%25B0%25E3%2581%2597%25E3%2581%2584%25E7%25B5%258C%25E6%25B8%2588%25E7%25A4%25BE%25E4%25BC%259A%25E5%25AD%25A6-%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E7%25B5%258C%25E6%25B8%2588%25E7%258F%25BE%25E8%25B1%25A1%25E3%2581%25AE%25E7%25A4%25BE%25E4%25BC%259A%25E5%25AD%25A6%25E7%259A%2584%25E5%2588%2586%25E6%259E%2590-%25E6%25B8%25A1%25E8%25BE%25BA-%25E6%25B7%25B1/dp/4324081514/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3Db1a64495a12fba34060a55808622b1b2%26language%3Dja_JP){:target="_blank"}』ぎょうせい.
    -   渡辺深「新しい経済社会学の概念枠組」pp. 1-35.
    -   安藤究「生命保険エージェントの女性化に関する試論：ライフコース・ネットワーク・ジェンダーの観点から」pp.38-82.
    -   松信ひろみ「夫婦間の勢力と4つの資本」pp. 227-262.
--   渡邊勉, 2014,「[誰が兵士になったのか(1)：兵役におけるコーホート間の不平等](http://hdl.handle.net/10236/12745)」『関西学院大学社会学部紀要』(119){:target="_blank"}: 1-18.
--   渡邊勉, 2014,「[誰が兵士になったのか(2)：学歴・職業による兵役の不平等](http://hdl.handle.net/10236/12746)」『関西学院大学社会学部紀要』(119){:target="_blank"}: 19-36.
+-   渡邊勉, 2014,「[誰が兵士になったのか(1)：兵役におけるコーホート間の不平等](http://hdl.handle.net/10236/12745){:target="_blank"}」『関西学院大学社会学部紀要』(119): 1-18.
+-   渡邊勉, 2014,「[誰が兵士になったのか(2)：学歴・職業による兵役の不平等](http://hdl.handle.net/10236/12746){:target="_blank"}」『関西学院大学社会学部紀要』(119): 19-36.
 -   Weber, Marcel, 2012, "[Experiment in Biology](https://plato.stanford.edu/archives/spr2012/entries/biology-experiment/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 -   Wenar, Leif, 2011, "[Rights](https://plato.stanford.edu/archives/fall2011/entries/rights/){:target="_blank"}," _Stanford Encyclopedia of Philosophy_.
 -   ホワイトゥン, アンドリュー, リチャード・W・バーン編, 2004,『[マキャベリ的知性と心の理論の進化論2 新たなる展開](https://www.amazon.co.jp/%25E3%2583%259E%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%2599%25E3%2583%25AA%25E7%259A%2584%25E7%259F%25A5%25E6%2580%25A7%25E3%2581%25A8%25E5%25BF%2583%25E3%2581%25AE%25E7%2590%2586%25E8%25AB%2596%25E3%2581%25AE%25E9%2580%25B2%25E5%258C%2596%25E8%25AB%2596%25E3%2580%25882%25E3%2580%2589%25E6%2596%25B0%25E3%2581%259F%25E3%2581%25AA%25E3%2582%258B%25E5%25B1%2595%25E9%2596%258B-%25E3%2582%25A2%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25AA%25E3%2583%25A5%25E3%2583%25BC-%25E3%2583%259B%25E3%2583%25AF%25E3%2582%25A4%25E3%2583%2588%25E3%2582%25A5%25E3%2583%25B3/dp/4888489149/ref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll1%26tag%3Dlockedroommm-22%26linkId%3Dc24f2f60a64a0c69f8b9c22f8aef07fd){:target="_blank"}』（友永雅己・小田亮・平田聡・藤田和生監訳）ナカニシヤ出版.
    -   バートン, ロバート・A, ロビン・I・M・ダンバー,「社会脳の進化」pp. 223-243.
--   Wilner, Patricia, 1985, "[The Main Drift of Sociology between 1936 and 1982](http://sociology.jugem.jp/%3Feid%3D271)," _History of Sociology_, 5(2){:target="_blank"}: 1-20.
+-   Wilner, Patricia, 1985, "[The Main Drift of Sociology between 1936 and 1982](http://sociology.jugem.jp/%3Feid%3D271){:target="_blank"}," _History of Sociology_, 5(2): 1-20.
 -   Winsor, Mary P., 2003, "[Non-Essentialist Methods in Pre-Darwinian Taxonomy](https://doi.org/10.1023/A%3A1024139523966){:target="_blank"}," _Biology and Philosophy_, 18: 387-400.
 -   Winsor, Mary P., 2006, "Linnaeus's Biology Was Not Essentialist," _Annals of the Missouri Botanical Garden_, 93(1): 2-7.
--   Wolfe, Alan, 1990, "[Books vs. Articles: Two Ways of Publishing Sociology](https://doi.org/10.1007/BF01115097)," _Sociological Forum_, 5(3){:target="_blank"}: 477-489.
--   Worrall, John, 1989, "[Structural Realism: The Best of Both Worlds?](https://doi.org/10.1111/j.1746-8361.1989.tb00933.x)" _Dialectica_, 43(1-2){:target="_blank"}: 99-124.
+-   Wolfe, Alan, 1990, "[Books vs. Articles: Two Ways of Publishing Sociology](https://doi.org/10.1007/BF01115097){:target="_blank"}," _Sociological Forum_, 5(3): 477-489.
+-   Worrall, John, 1989, "[Structural Realism: The Best of Both Worlds?](https://doi.org/10.1111/j.1746-8361.1989.tb00933.x){:target="_blank"}" _Dialectica_, 43(1-2): 99-124.
 -   Wright, James D. ed., 2015, [_International Encyclopedia of the Social and Behavioral Sciences_](https://www.sciencedirect.com/referencework/9780080970875/international-encyclopedia-of-the-social-and-behavioral-sciences){:target="_blank"}, Elsevier.
    -   Wylie, Alison, and Sergio Sismondo, "Standpoint Theory, in Science," pp. 324-330.
 
@@ -1138,56 +1138,56 @@ title: 整理棚
 
 -   八木英一郎, 2009,「組織を構成する部門の評価指標に関する研究」『東海大学紀要政治経済学部』(41): 325-336.
 -   八幡英幸, 2007,「[出生の評価と存在の価値：Wrongful life訴訟との関連を中心に](http://hdl.handle.net/2298/3375){:target="_blank"}」『先端倫理研究』2: 41-53.
--   山田篤裕, 2010,「[高齢期の新たな相対的貧困リスク](https://ci.nii.ac.jp/naid/40017326322)」『社会保障研究』46(2){:target="_blank"}: 111-126.
--   山田敏之・中野千秋・福永昌彦, 2015,「[組織の倫理風土の定量的測定：Ethical Climate Questionnaireの日本企業への適用可能性の検討](https://doi.org/10.20664/jabes.22.0_237)」『日本経営倫理学会誌』(22){:target="_blank"}: 237-251.
+-   山田篤裕, 2010,「[高齢期の新たな相対的貧困リスク](https://ci.nii.ac.jp/naid/40017326322){:target="_blank"}」『社会保障研究』46(2): 111-126.
+-   山田敏之・中野千秋・福永昌彦, 2015,「[組織の倫理風土の定量的測定：Ethical Climate Questionnaireの日本企業への適用可能性の検討](https://doi.org/10.20664/jabes.22.0_237){:target="_blank"}」『日本経営倫理学会誌』(22): 237-251.
 -   山形浩生, 2003,「J・G・バラード：欲望の磁場」J・G・バラード『コンクリート・アイランド』（大和田始・國領昭彦訳）太田出版, 解説.
 -   山形浩生, 2008,「[研修資料の余白に：『はだかの王様の経済学』は戦慄すべき本である](https://cruel.org/other/matsuo/matsuo.html){:target="_blank"}」
 -   山形浩生, 2010, 「[訳者あとがき（v1.4）](https://cruel.org/books/deathlife/){:target="_blank"}」ジェイン・ジェイコブズ『アメリカ大都市の死と生』鹿島出版会.
 -   山形浩生, 2013,「リフレーション政策の個人史と展望：経済成長のありがたみを再確認する」『atプラス』(16): 21-34.
 -   山形浩生・飯田泰之, 2015,「[『21世紀の資本』訳者解説：ピケティは何を語っているのか](https://synodos.jp/economy/13286){:target="_blank"}」
--   山岸俊男, 1993,「[利得構造の変換と規範の生成](https://doi.org/10.11218/ojjams.8.51)」『理論と方法』8(1){:target="_blank"}: 51-68.
--   山岸俊男, 2009,「[集団内協力と集団間攻撃：最小条件集団実験の意味するもの](https://ci.nii.ac.jp/naid/40017029391/)」『レヴァイアサン』(44){:target="_blank"}: 22-46.
--   山口晴保・牧陽子, 2011,「[認知症の相補代替医療（CAM）](https://ci.nii.ac.jp/naid/40017662826/)」『老年精神医学雑誌』22(1){:target="_blank"}: 9-15.
--   山口洋, 2004,「[社会調査における回答選択肢の順序効果について](https://ci.nii.ac.jp/naid/110006472924)」『社会学部論集』(39){:target="_blank"}: 151-159.
+-   山岸俊男, 1993,「[利得構造の変換と規範の生成](https://doi.org/10.11218/ojjams.8.51){:target="_blank"}」『理論と方法』8(1): 51-68.
+-   山岸俊男, 2009,「[集団内協力と集団間攻撃：最小条件集団実験の意味するもの](https://ci.nii.ac.jp/naid/40017029391/){:target="_blank"}」『レヴァイアサン』(44): 22-46.
+-   山口晴保・牧陽子, 2011,「[認知症の相補代替医療（CAM）](https://ci.nii.ac.jp/naid/40017662826/){:target="_blank"}」『老年精神医学雑誌』22(1): 9-15.
+-   山口洋, 2004,「[社会調査における回答選択肢の順序効果について](https://ci.nii.ac.jp/naid/110006472924){:target="_blank"}」『社会学部論集』(39): 151-159.
 -   山口一男, 2015,「[女性の活躍推進：男女賃金格差解消の障害は何か？](http://www.rieti.go.jp/jp/events/bbl/15032701.html){:target="_blank"}」経済産業研究所BBLセミナー（2015年3月27日）報告資料.
--   山口道利・工藤春代・鬼頭弥生・新山陽子, 2016,「[健康食品のリスク知覚構造](https://doi.org/10.11447/sraj.25.179)」『日本リスク研究学会誌』25(4){:target="_blank"}: 179-187.
--   山口尚, 2008,「[物理主義と知識：ジャクソンの『白黒のメアリー』を巡って](https://ci.nii.ac.jp/naid/40016158109)」『アルケー』(16){:target="_blank"}: 141-150.
--   山腰修三, 2017,「[ポピュリズム政治における『民衆』と『大衆』：批判的コミュニケーション論からのアプローチ](https://ci.nii.ac.jp/naid/120006224869)」『メディア・コミュニケーション』(67){:target="_blank"}: 19-28.
--   山本ちか, 2015,「[高齢者の全体的自己価値と生きがい感：主観的健康および主観的健康統制感との関連](https://ci.nii.ac.jp/naid/110010022532)」『名古屋文理大学紀要』(16){:target="_blank"}: 39-44.
--   山本英弘, 2016,「[社会運動は怖いのか？ 社会運動に対する態度を捉えるための試論](http://id.nii.ac.jp/1348/00004058/)」『山形大学紀要（社会科学）』47(1){:target="_blank"}: 1-17.
--   山本圭一郎, 2011,「[道徳判断と動機づけ問題の新たな側面](http://hdl.handle.net/2433/161654)」『実践哲学研究』(33){:target="_blank"}: 67-98.
--   山本真菜・岡隆, 2018,「[ステレオタイプ抑制における反ステレオタイプと非優位ステレオタイプの役割](https://doi.org/10.4992/jjpsy.89.16020)」『心理学研究』89(1){:target="_blank"}: 12-21.
--   山本隆, 2017,「[英国の貧困と社会的企業](http://hdl.handle.net/10236/00027398)」『人間福祉学研究』10(1){:target="_blank"}: 19-36.
--   山中速人, 2011,「[多文化社会状況とコミュニティラジオ：多言語放送局FMわぃわぃ（神戸市長田区）の経験と課題](https://doi.org/10.24460/mscom.79.0_85)」『マス・コミュニケーション研究』(79){:target="_blank"}: 85-108.
+-   山口道利・工藤春代・鬼頭弥生・新山陽子, 2016,「[健康食品のリスク知覚構造](https://doi.org/10.11447/sraj.25.179){:target="_blank"}」『日本リスク研究学会誌』25(4): 179-187.
+-   山口尚, 2008,「[物理主義と知識：ジャクソンの『白黒のメアリー』を巡って](https://ci.nii.ac.jp/naid/40016158109){:target="_blank"}」『アルケー』(16): 141-150.
+-   山腰修三, 2017,「[ポピュリズム政治における『民衆』と『大衆』：批判的コミュニケーション論からのアプローチ](https://ci.nii.ac.jp/naid/120006224869){:target="_blank"}」『メディア・コミュニケーション』(67): 19-28.
+-   山本ちか, 2015,「[高齢者の全体的自己価値と生きがい感：主観的健康および主観的健康統制感との関連](https://ci.nii.ac.jp/naid/110010022532){:target="_blank"}」『名古屋文理大学紀要』(16): 39-44.
+-   山本英弘, 2016,「[社会運動は怖いのか？ 社会運動に対する態度を捉えるための試論](http://id.nii.ac.jp/1348/00004058/){:target="_blank"}」『山形大学紀要（社会科学）』47(1): 1-17.
+-   山本圭一郎, 2011,「[道徳判断と動機づけ問題の新たな側面](http://hdl.handle.net/2433/161654){:target="_blank"}」『実践哲学研究』(33): 67-98.
+-   山本真菜・岡隆, 2018,「[ステレオタイプ抑制における反ステレオタイプと非優位ステレオタイプの役割](https://doi.org/10.4992/jjpsy.89.16020){:target="_blank"}」『心理学研究』89(1): 12-21.
+-   山本隆, 2017,「[英国の貧困と社会的企業](http://hdl.handle.net/10236/00027398){:target="_blank"}」『人間福祉学研究』10(1): 19-36.
+-   山中速人, 2011,「[多文化社会状況とコミュニティラジオ：多言語放送局FMわぃわぃ（神戸市長田区）の経験と課題](https://doi.org/10.24460/mscom.79.0_85){:target="_blank"}」『マス・コミュニケーション研究』(79): 85-108.
 -   山中俊之, 2005,「行政の組織人事マネジメント改革：施策効果の実証的把握」大阪大学大学院国際公共政策研究科平成16年度博士論文.
 -   山中陽子・齋藤美保子, 2012,「[高校生におけるきょうだい構成とパートナー選択の関わり：家庭科に題材『恋愛』を位置づけるために](http://hdl.handle.net/10232/16491){:target="_blank"}」『鹿児島大学教育学部教育実践研究紀要』22: 65-74.
--   山尾貴則, 2017,「[SNSにおける見えない炎上への対応](http://doi.org/10.18925/00000614)」『作大論集』(7){:target="_blank"}: 299-314.
+-   山尾貴則, 2017,「[SNSにおける見えない炎上への対応](http://doi.org/10.18925/00000614){:target="_blank"}」『作大論集』(7): 299-314.
 -   山岡順太郎, 2010,「仕事のストレスと雇用管理：ワークストレスの経済分析」神戸大学大学院経済学研究科2010年度博士論文.
--   大和礼子, 1995,「[性別役割分業意識の二つの次元：『性による役割振り分け』と『愛による再生産役割』](https://doi.org/10.14959/soshioroji.40.1_109)」『ソシオロジ』40(1){:target="_blank"}: 109-126.
--   大和礼子, 2001,「[夫の家事参加は妻の結婚満足感を高めるか？ 妻の世帯収入貢献度による比較](https://doi.org/10.14959/soshioroji.46.1_3)」『ソシオロジ』46(1){:target="_blank"}: 3-20.
+-   大和礼子, 1995,「[性別役割分業意識の二つの次元：『性による役割振り分け』と『愛による再生産役割』](https://doi.org/10.14959/soshioroji.40.1_109){:target="_blank"}」『ソシオロジ』40(1): 109-126.
+-   大和礼子, 2001,「[夫の家事参加は妻の結婚満足感を高めるか？ 妻の世帯収入貢献度による比較](https://doi.org/10.14959/soshioroji.46.1_3){:target="_blank"}」『ソシオロジ』46(1): 3-20.
 -   大和礼子, 2001,「なぜ女性は“多様な”介護ネットワークを持つのか？ 介護ネットワークの年齢差・階層差が大きい女性と小さい男性」石原邦雄・大久保孝治編『現代家族におけるサポート関係と高齢者介護』全国家族調査研究会, 53-78.
--   大和礼子, 2008,「[介護する意識とされる意識：男女差が大きいのはどちらの意識か](http://hdl.handle.net/10112/8825)」『関西大学社会学部紀要』39(3){:target="_blank"}: 103-121.
--   八代充史, 2011,「[管理職への選抜・育成から見た日本的雇用制度](https://ci.nii.ac.jp/naid/40017444186)」『日本労働研究雑誌』(606){:target="_blank"}: 20-29.
+-   大和礼子, 2008,「[介護する意識とされる意識：男女差が大きいのはどちらの意識か](http://hdl.handle.net/10112/8825){:target="_blank"}」『関西大学社会学部紀要』39(3): 103-121.
+-   八代充史, 2011,「[管理職への選抜・育成から見た日本的雇用制度](https://ci.nii.ac.jp/naid/40017444186){:target="_blank"}」『日本労働研究雑誌』(606): 20-29.
 -   保田直美, 2003,「[臨床心理学における科学性規準の変遷](http://doi.org/10.11151/eds1951.72.131){:target="_blank"}」『教育社会学研究』72: 131-149.
--   保田時男, 2000,「[欠損データの分析がもたらす新たな知見：1995年SSM調査の学歴移動表分析を例として](http://hdl.handle.net/10112/6721)」『大阪大学教育学年報』(5){:target="_blank"}: 139-152.
--   谷田川ルミ, 2010,「[若年女性の家庭志向は強まっているのか？ 女子学生のライフコース展望における10年間の変化](https://doi.org/10.5690/kantoh.2010.200)」『年報社会学論集』(23){:target="_blank"}: 200-211.
--   余合淳, 2016,「[組織的公正理論の課題と理論的展望：公正な人事管理に向けて](http://doi.org/10.18926/OER/54151)」『岡山大学経済学会雑誌』47(2){:target="_blank"}: 187-203.
--   横尾陽道, 2010,「[組織変革プロセスと企業文化](http://id.nii.ac.jp/1238/00001211/)」『北星学園大学経済学部北星論集』49(2){:target="_blank"}: 29-39.
+-   保田時男, 2000,「[欠損データの分析がもたらす新たな知見：1995年SSM調査の学歴移動表分析を例として](http://hdl.handle.net/10112/6721){:target="_blank"}」『大阪大学教育学年報』(5): 139-152.
+-   谷田川ルミ, 2010,「[若年女性の家庭志向は強まっているのか？ 女子学生のライフコース展望における10年間の変化](https://doi.org/10.5690/kantoh.2010.200){:target="_blank"}」『年報社会学論集』(23): 200-211.
+-   余合淳, 2016,「[組織的公正理論の課題と理論的展望：公正な人事管理に向けて](http://doi.org/10.18926/OER/54151){:target="_blank"}」『岡山大学経済学会雑誌』47(2): 187-203.
+-   横尾陽道, 2010,「[組織変革プロセスと企業文化](http://id.nii.ac.jp/1238/00001211/){:target="_blank"}」『北星学園大学経済学部北星論集』49(2): 29-39.
 -   横田理宇, 2014,「組織の公正性と倫理的環境が従業員の非倫理的行動に及ぼす影響：日本企業4社に対するアンケート及びインタビュー調査に基づく実証研究」麗澤大学大学院国際経済研究科2013年度博士論文.
--   横山寿世理, 2014,「[一人ぼっちは本当に怖いのか：2012年大学生調査結果より](http://doi.org/10.15052/00000835)」『聖学院大学論叢』27(1){:target="_blank"}: 155-167.
--   横山輝雄, 1998,「[進化論と分類の原理](https://ci.nii.ac.jp/naid/130003441260/)」『科学哲学』31(2){:target="_blank"}: 17-25.
+-   横山寿世理, 2014,「[一人ぼっちは本当に怖いのか：2012年大学生調査結果より](http://doi.org/10.15052/00000835){:target="_blank"}」『聖学院大学論叢』27(1): 155-167.
+-   横山輝雄, 1998,「[進化論と分類の原理](https://ci.nii.ac.jp/naid/130003441260/){:target="_blank"}」『科学哲学』31(2): 17-25.
 -   米澤彰純編, 2008,『教育達成の構造〔2005年SSM調査シリーズ5〕』2005年SSM調査研究会.
    -   米澤彰純「高等教育システムの拡大・分化と教育達成」pp. 113-139.
--   吉田竹也, 2016,「[ヴェーバー合理化論の基盤認識と人類学：客観性・因果連関・歴史の叙述](http://doi.org/10.15119/00000842)」『アカデミア 人文・自然科学編』(12){:target="_blank"}: 1-21.
--   吉田竹也, 2016,「[バリ宗教の合理化論をめぐる再検討：ギアツからヴェーバーへ](https://ci.nii.ac.jp/naid/40021085142)」『文化人類学』81(2){:target="_blank"}: 302-311.
--   吉田朋子, 2016,「[上司との対人関係が人事評価の納得感に及ぼす影響](https://doi.org/10.32222/jaiop.30.1_29)」『産業・組織心理学研究』30(1){:target="_blank"}: 29-43.
--   吉田善哉・高尾克也・中尾央, 2013,「[Evo-devoとeco-evo-devo：進化生物学における二つの拡張された総合](https://doi.org/10.14989/173332)」『科学哲学科学史研究』(7){:target="_blank"}: 67-77.
+-   吉田竹也, 2016,「[ヴェーバー合理化論の基盤認識と人類学：客観性・因果連関・歴史の叙述](http://doi.org/10.15119/00000842){:target="_blank"}」『アカデミア 人文・自然科学編』(12): 1-21.
+-   吉田竹也, 2016,「[バリ宗教の合理化論をめぐる再検討：ギアツからヴェーバーへ](https://ci.nii.ac.jp/naid/40021085142){:target="_blank"}」『文化人類学』81(2): 302-311.
+-   吉田朋子, 2016,「[上司との対人関係が人事評価の納得感に及ぼす影響](https://doi.org/10.32222/jaiop.30.1_29){:target="_blank"}」『産業・組織心理学研究』30(1): 29-43.
+-   吉田善哉・高尾克也・中尾央, 2013,「[Evo-devoとeco-evo-devo：進化生物学における二つの拡張された総合](https://doi.org/10.14989/173332){:target="_blank"}」『科学哲学科学史研究』(7): 67-77.
 -   吉原恵子, 1998,「[異なる競争を生み出す入試システム：高校から大学への接続にみるジェンダー分化](https://doi.org/10.11151/eds1951.62.43){:target="_blank"}」『教育社会学研究』62: 43-67.
--   吉本隆男, 2017,「[日本型就職システムの変遷](https://doi.org/10.11531/uhs.2017.99_17)」『都市住宅学』(99){:target="_blank"}: 17-22.
--   吉本弥生・笠岡（坪山）宜代・山口亨・桂木能久・梅垣敬三, 2012,「[新たに発生した食品の安全性問題において参照される情報源に関する調査：エコナ油を事例として](https://doi.org/10.11379/jjda.55.732)」『日本栄養士会雑誌』55(9){:target="_blank"}: 732-741.
+-   吉本隆男, 2017,「[日本型就職システムの変遷](https://doi.org/10.11531/uhs.2017.99_17){:target="_blank"}」『都市住宅学』(99): 17-22.
+-   吉本弥生・笠岡（坪山）宜代・山口亨・桂木能久・梅垣敬三, 2012,「[新たに発生した食品の安全性問題において参照される情報源に関する調査：エコナ油を事例として](https://doi.org/10.11379/jjda.55.732){:target="_blank"}」『日本栄養士会雑誌』55(9): 732-741.
 -   吉岡洋介, 2016,「[男性従業員の仕事への不満が離職に及ぼす影響：不満の解消機会に注目して](https://doi.org/10.20791/ksr.15.0_32){:target="_blank"}」『フォーラム現代社会学』15: 32-45.
--   吉崎祥司・稲野一彦, 2008,「[相撲における『女人禁制の伝統』について](http://s-ir.sap.hokkyodai.ac.jp/dspace/handle/123456789/933)」『北海道教育大学紀要（人文科学・社会科学編）』59(1){:target="_blank"}: 71-86.
--   Young, Iris Marion, 1995, "[Mothers, Citizenship, and Independence: A Critique of Pure Family Values](https://doi.org/10.1086/293726)," _Ethics_, 105(3){:target="_blank"}: 535-556.
+-   吉崎祥司・稲野一彦, 2008,「[相撲における『女人禁制の伝統』について](http://s-ir.sap.hokkyodai.ac.jp/dspace/handle/123456789/933){:target="_blank"}」『北海道教育大学紀要（人文科学・社会科学編）』59(1): 71-86.
+-   Young, Iris Marion, 1995, "[Mothers, Citizenship, and Independence: A Critique of Pure Family Values](https://doi.org/10.1086/293726){:target="_blank"}," _Ethics_, 105(3): 535-556.
 -   湯浅誠・駒崎弘樹, 2017,「[子どもの貧困と自己責任論：湯浅誠が貧困バッシングに感じた『心強さ』とは](https://florence.or.jp/news/2017/12/post21934/){:target="_blank"}」
 -   湯川やよい, 2011,「[アカデミック・ハラスメントの形成過程：医療系女性大学院生のライフストーリーから](https://doi.org/10.11151/eds.88.163){:target="_blank"}」『教育社会学研究』88: 163-184.
 
