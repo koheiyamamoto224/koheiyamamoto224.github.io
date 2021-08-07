@@ -6,7 +6,7 @@ title: 村上恭一「報告行動に影響を与える組織風土の分類」�
 <style>
 img{
 	display: block;
-	width: 400px;
+	width: 500px;
   margin: auto;
 }
 </style>
